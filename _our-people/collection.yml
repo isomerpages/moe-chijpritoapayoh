@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Non – Form Teachers.md
       - Mother Tongue.md
       - P6 Teachers.md
       - P5 Teachers.md
