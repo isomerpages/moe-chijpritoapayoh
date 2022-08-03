@@ -105,11 +105,11 @@ Please click [here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-
 
 ### **<u>CPC News Articles (2019)</u>**
 
-*   [20191003 – Children’s Day Nail Art – Samantha Tan (Grace Chan, P6 Hibiscus & Emma Chan, P2 Rose)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Nail-Art-Samantha-Tan-Grace-Chan-P6-Hibiscus-Emma-Chan-P2-Rose.pdf)
-*   [20191003 – Children’s Day Glitter Tattoo – Luana Wee (Renae Erin Lim, P6 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Glitter-Tattoo-Luana-Wee-Renae-Erin-Lim-P6-Lily.pdf)
-*   [20191003 – Children’s Day Food – Ian Ong (Sofia Helena Ong, P6 Ixora)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Food-Ian-Ong-Sofia-Helena-Ong-P6-Ixora.pdf)
-*   [20191003 – Children’s Day Badge-Making – Elain Chia (Anna Lim, P6 Ixora)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Badge-Making-Elain-Chia-Anna-Lim-P6-Ixora.pdf)
-*   [20191003 – Children’s Day Bouncy Castle – Eyvone Ong (Estelle Chua, P4 Rose)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Bouncy-Castle-Eyvone-Ong-Estelle-Chua-P4-Rose.pdf)
+*   [20191003 – Children’s Day Nail Art – Samantha Tan (Grace Chan, P6 Hibiscus & Emma Chan, P2 Rose)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Nail-Art-Samantha-Tan-Grace-Chan-P6-Hibiscus-Emma-Chan-P2-Rose.pdf) **PDF FILE EXCEEDS 5MB!**
+*   [20191003 – Children’s Day Glitter Tattoo – Luana Wee (Renae Erin Lim, P6 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Glitter-Tattoo-Luana-Wee-Renae-Erin-Lim-P6-Lily.pdf) **PDF FILE EXCEEDS 5MB!**
+*   [20191003 – Children’s Day Food – Ian Ong (Sofia Helena Ong, P6 Ixora)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Food-Ian-Ong-Sofia-Helena-Ong-P6-Ixora.pdf) **PDF FILE EXCEEDS 5MB!**
+*   [20191003 – Children’s Day Badge-Making – Elain Chia (Anna Lim, P6 Ixora)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Badge-Making-Elain-Chia-Anna-Lim-P6-Ixora.pdf) **PDF FILE EXCEEDS 5MB!**
+*   [20191003 – Children’s Day Bouncy Castle – Eyvone Ong (Estelle Chua, P4 Rose)](/files/20191003-Childrens-Day-Bouncy-Castle-Eyvone-Ong-Estelle-Chua-P4-Rose.pdf)
 *   [20190907 – Dad’s For Life Telematch – Choo Leng Jan (Michelle Choo, P5 Marguerite)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20190907-Dads-For-Life-Telematch-Choo-Leng-Jan-Michelle-Choo-P5-Marguerite.pdf)
 *   [20190828 – Teachers’ Appreciation Lunch – Karen Chong (Claire Tan, P1 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20190828-Teachers-Appreciation-Lunch-Karen-Chong-Claire-Tan-P1-Lily.pdf)
 *   [20190802 – Lower Primary Games Day – Ramola Kandiah (Alexandra Eloise Kan, P2 Violet)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/08/20190802-Lower-Primary-Games-Day-Ramola-Kandiah-Alexandra-Eloise-Kan-P2-Violet.pdf)
