@@ -84,9 +84,9 @@ Please click [here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-
 *   [202110 – Life Skills – Christina Yap (Charlotte Saw, P3 Ixora)](/files/202110-Life-Skills-Christina-Yap-Charlotte-Saw-P3-Ixora.pdf)
 *   [202110 – Children’s Day – Cara Ann Pereira (Isabela D Penha, P5 Rose)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2021/11/202110-Childrens-Day-Cara-Ann-Pereira-Isabela-D-Penha-P5-Rose.pdf)  **PDF FILE EXCEEDS 5MB!**
 *   [202109 – Teachers Appreciation – Tan Boon Siong (Nathanielle Tan, P6 Daisy & Adrielle Tan, P4 Daisy)](/files/202109-Teachers-Appreciation-Tan-Boon-Siong-Nathanielle-Tan-P6-Daisy-Adrielle-Tan-P4-Daisy.pdf)
-*   [202105 – May Rosary – Charles (Cathelyn Charles, 4 Rose)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2021/06/202105-May-Rosary-Charles-Cathelyn-Charles-4-Rose.pdf)
-*   [20210405 – Virtual Easter Play – Geraldine Chia (Clarice Foo, P3 Orchid & Raelynn Foo, P1 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2021/05/20210405-Virtual-Easter-Play-Geraldine-Chia-Clarice-Foo-P3-Orchid-Raelynn-Foo-P1-Lily.pdf)
-*   [20210203 – PV Welcome Chat – Melanie Kong (Marian Emma Lee, P3 Hibiscus)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2021/03/20210203-PV-Welcome-Chat-Melanie-Kong-Marian-Emma-Lee-P3-Hibiscus.pdf)
+*   [202105 – May Rosary – Charles (Cathelyn Charles, 4 Rose)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2021/06/202105-May-Rosary-Charles-Cathelyn-Charles-4-Rose.pdf) **PDF FILE EXCEEDS 5MB!**
+*   [20210405 – Virtual Easter Play – Geraldine Chia (Clarice Foo, P3 Orchid & Raelynn Foo, P1 Lily)](/files/20210405-Virtual-Easter-Play-Geraldine-Chia-Clarice-Foo-P3-Orchid-Raelynn-Foo-P1-Lily.pdf)
+*   [20210203 – PV Welcome Chat – Melanie Kong (Marian Emma Lee, P3 Hibiscus)](/files/20210203-PV-Welcome-Chat-Melanie-Kong-Marian-Emma-Lee-P3-Hibiscus.pdf)
 
 ### **CPC News Articles (2020)**
 
