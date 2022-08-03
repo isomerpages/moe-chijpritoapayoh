@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/School Corporate Brochure.md
-      - School Information/School Rules.md
-      - School Information/Founder’s Day Song.md
-      - School Information/School Song.md
-      - School Information/Core Values.md
-      - School Information/School Crest.md
       - School Information/.keep
+      - School Information/School Crest.md
+      - School Information/Core Values.md
+      - School Information/School Song.md
+      - School Information/Founder’s Day Song.md
+      - School Information/School Rules.md
+      - School Information/School Corporate Brochure.md
       - History.md
