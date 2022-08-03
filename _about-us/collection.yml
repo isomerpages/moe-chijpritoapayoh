@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/Founder’s Day Song.md
       - School Information/School Song.md
       - School Information/Core Values.md
       - School Information/School Crest.md
