@@ -64,21 +64,21 @@ img {
   
 </body>
 
-### Parent Volunteer Handbook:
+### <u>Parent Volunteer Handbook:</u>
 
-Please click [here](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2021/11/CPC-Parent-Handbook.pdf) to view the Parent Volunteer Handbook.
+Please click [here](/files/CPC-Parent-Handbook.pdf) to view the Parent Volunteer Handbook.
 
-### **CPC Parents Welcome Chat 2022:**
+### **<u>CPC Parents Welcome Chat 2022:</u>**
 
-Please click [here](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/03/CPC-PV-Welcome-Chat-2022.pdf) to view the slides.
+Please click [here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf) to view the slides.
 
 ### **[Pastoral Activities](https://www.chijpritoapayoh.moe.edu.sg/our-programmes/special-programme/faith-formation/)**
 
-### **CPC News Articles (2022)**
+### **<u>CPC News Articles (2022)</u>**
 
-*   [23022022 – PV Welcome Chat – Samantha Chin (Sarah Chin, 3 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/03/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf)
+*   [23022022 – PV Welcome Chat – Samantha Chin (Sarah Chin, 3 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/03/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf) **PDF FILE EXCEEDS 5MB!**
 
-### **CPC News Articles (2021)**
+### **<u>CPC News Articles (2021)</u>**
 
 *   [202110 – PSLE Prayer Vigil – Patricia Yeong (Megan Chan, P6 Ixora)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2021/11/202110-PSLE-Prayer-Vigil-Patricia-Yeong-Megan-Chan-P6-Ixora.pdf)
 *   [202110 – Life Skills – Christina Yap (Charlotte Saw, P3 Ixora)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2021/11/202110-Life-Skills-Christina-Yap-Charlotte-Saw-P3-Ixora.pdf)
