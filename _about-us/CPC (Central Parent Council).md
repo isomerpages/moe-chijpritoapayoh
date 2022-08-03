@@ -88,11 +88,11 @@ Please click [here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-
 *   [20210405 – Virtual Easter Play – Geraldine Chia (Clarice Foo, P3 Orchid & Raelynn Foo, P1 Lily)](/files/20210405-Virtual-Easter-Play-Geraldine-Chia-Clarice-Foo-P3-Orchid-Raelynn-Foo-P1-Lily.pdf)
 *   [20210203 – PV Welcome Chat – Melanie Kong (Marian Emma Lee, P3 Hibiscus)](/files/20210203-PV-Welcome-Chat-Melanie-Kong-Marian-Emma-Lee-P3-Hibiscus.pdf)
 
-### **CPC News Articles (2020)**
+### **<u>CPC News Articles (2020)</u>**
 
-*   [202011 – P6 Thank-You Notes for PVs](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/202011-P6-Thank-You-Notes-for-PVs.pdf)
-*   [20201008 – Children’s Day – Games – Cara Ann Pereira (Isabela D Penha, P4 Hibi)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201008-Childrens-Day-Games-Cara-Ann-Pereira-Isabela-D-Penha-P4-Hibi.pdf)
-*   [20201008 – Children’s Day – Goodie Bags – Magdalene Yip (Ethel Goh, P5 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201008-Childrens-Day-Goodie-Bags-Magdalene-Yip-Ethel-Goh-P5-Lily.pdf)
+*   [202011 – P6 Thank-You Notes for PVs](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/202011-P6-Thank-You-Notes-for-PVs.pdf) **PDF FILE EXCEEDS 5MB!**
+*   [20201008 – Children’s Day – Games – Cara Ann Pereira (Isabela D Penha, P4 Hibi)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201008-Childrens-Day-Games-Cara-Ann-Pereira-Isabela-D-Penha-P4-Hibi.pdf) **PDF FILE EXCEEDS 5MB!**
+*   [20201008 – Children’s Day – Goodie Bags – Magdalene Yip (Ethel Goh, P5 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201008-Childrens-Day-Goodie-Bags-Magdalene-Yip-Ethel-Goh-P5-Lily.pdf) **PDF FILE EXCEEDS 5MB!**
 *   [20201105 – P6 Grad Party – Joyce Tan (Natalie Chong, P6 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201105-P6-Grad-Party-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
 *   [20201105 – P6 Grad Tea – Veronica Silvester (Sara Shaine Silvester, P6 Hibiscus)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201105-P6-Grad-Tea-Veronica-Silvester-Sara-Shaine-Silvester-P6-Hibiscus.pdf)
 *   [202010 – PSLE Prayer Vigil – Sharon Lim (Gwendolynn Tham, P6 Hibi)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/10/202010-PSLE-Prayer-Vigil-Sharon-Lim-Gwendolynn-Tham-P6-Hibi.pdf)
@@ -103,7 +103,7 @@ Please click [here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-
 *   [202007 – PSLE Survival Kit – Magdalene Balon (Aimelyne Balon, P6 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/07/202007-PSLE-Survival-Kit-Magdalene-Balon-Aimelyne-Balon-P6-Lily.pdf)
 *   [202007 – Special Treat For Staff – Joyce Tan (Natalie Chong, P6 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/07/202007-Special-Treat-For-Staff-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
 
-### **CPC News Articles (2019)**
+### **<u>CPC News Articles (2019)</u>**
 
 *   [20191003 – Children’s Day Nail Art – Samantha Tan (Grace Chan, P6 Hibiscus & Emma Chan, P2 Rose)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Nail-Art-Samantha-Tan-Grace-Chan-P6-Hibiscus-Emma-Chan-P2-Rose.pdf)
 *   [20191003 – Children’s Day Glitter Tattoo – Luana Wee (Renae Erin Lim, P6 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2019/11/20191003-Childrens-Day-Glitter-Tattoo-Luana-Wee-Renae-Erin-Lim-P6-Lily.pdf)
