@@ -2,9 +2,21 @@ collections:
   our-programmes:
     output: true
     order:
-      - Achievements/.keep
-      - Achievements/Arts.md
-      - Achievements/Sports.md
+      - Departments/.keep
+      - Departments/English.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Mother Tongue.md
+      - Departments/Physical Education.md
+      - Departments/Aesthetics.md
+      - Departments/Character and Citizenship Education (CCE) Department
+        Vision.md
+      - Departments/Information Technology.md
+      - Special Programmes/.keep
+      - Special Programmes/Faith Formation.md
+      - Special Programmes/Performing Arts.md
+      - Special Programmes/Sports.md
+      - Special Programmes/Student Leadership.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Athletics.md
@@ -26,18 +38,6 @@ collections:
       - CCA/Green Club.md
       - CCA/International Chess.md
       - CCA/Media & Photography.md
-      - Special Programmes/.keep
-      - Special Programmes/Faith Formation.md
-      - Special Programmes/Performing Arts.md
-      - Special Programmes/Sports.md
-      - Special Programmes/Student Leadership.md
-      - Departments/.keep
-      - Departments/English.md
-      - Departments/Mathematics.md
-      - Departments/Science.md
-      - Departments/Mother Tongue.md
-      - Departments/Physical Education.md
-      - Departments/Aesthetics.md
-      - Departments/Character and Citizenship Education (CCE) Department
-        Vision.md
-      - Departments/Information Technology.md
+      - Achievements/.keep
+      - Achievements/Arts.md
+      - Achievements/Sports.md
