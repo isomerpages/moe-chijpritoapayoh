@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCA/Artistic Gymnastics.md
       - CCA/Athletics.md
       - CCA/CCA.md
       - CCA/.keep
