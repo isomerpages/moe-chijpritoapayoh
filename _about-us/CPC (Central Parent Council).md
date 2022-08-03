@@ -45,7 +45,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/20211105-QR-sign-up.jpg" alt="QR-sign-up" style="width:50%;">
+<body><img src="/images/20211105-QR-sign-up.jpg" alt="QR-sign-up" style="width:30%;">
   
 </body>
 
@@ -60,7 +60,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/20211227-CPC-org-chart-2022.jpg" alt="CPC-org-chart-2022" style="width:80%;">
+<body><img src="/images/20211227-CPC-org-chart-2022.jpg" alt="CPC-org-chart-2022" style="width:90%;">
   
 </body>
 
