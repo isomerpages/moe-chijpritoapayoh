@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCA/.keep
       - Special Programmes/.keep
       - Special Programmes/Faith Formation.md
       - Special Programmes/Performing Arts.md
