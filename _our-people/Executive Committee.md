@@ -28,24 +28,24 @@ description: ""
   <tr>
     <th class="tg-l2bf"><span style="font-weight:bold">Lower Primary</span></th>
     <th class="tg-tsok">Miss Jessica Ang</th>
-    <th class="tg-tsok">jessica_ang_boon_siong@moe.edu.sg</th>
+    <th class="tg-tsok"><a href="mailto:chijpri.cpc@gmail.com">jessica_ang_boon_siong@moe.edu.sg</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">Middle Primary</span></td>
     <td class="tg-xyrl">Miss Rajini Devi</td>
-    <td class="tg-xyrl">rajini_devi_ram_rattan@moe.edu.sg</td>
+    <td class="tg-xyrl"><a href="mailto:chijpri.cpc@gmail.com">rajini_devi_ram_rattan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">Upper Primary</span></td>
     <td class="tg-1ppo">Mrs Carmen Fernando</td>
-    <td class="tg-lygy">carmen_judith_wijeysingha@moe.edu.sg</td>
+    <td class="tg-lygy"><a href="mailto:chijpri.cpc@gmail.com">carmen_judith_wijeysingha@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">School Staff Developer</span></td>
     <td class="tg-h5mn">Mrs Veerarajoo Devika</td>
-    <td class="tg-xyrl">veerarajoo_devika@moe.edu.sg</td>
+    <td class="tg-xyrl"><a href="mailto:chijpri.cpc@gmail.com">veerarajoo_devika@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -71,51 +71,51 @@ description: ""
   <tr>
     <th class="tg-0f6e"><span style="font-weight:bold">HOD English Language</span></th>
     <th class="tg-1ppo">Ms Elsa Ang</th>
-    <th class="tg-tsok">elsa_ang@moe.edu.sg</th>
+    <th class="tg-tsok"><a href="mailto:chijpri.cpc@gmail.com">elsa_ang@moe.edu.sg</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">HOD Mathematics</span></td>
     <td class="tg-h5mn">Miss Chandra Bavani</td>
-    <td class="tg-xyrl">chandraselven_bavani@moe.edu.sg</td>
+    <td class="tg-xyrl"><a href="mailto:chijpri.cpc@gmail.com">chandraselven_bavani@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">HOD Science</span></td>
     <td class="tg-1ppo">Mrs Karen Ho</td>
-    <td class="tg-tsok">heng_wee_ling@moe.edu.sg</td>
+    <td class="tg-tsok"><a href="mailto:chijpri.cpc@gmail.com">heng_wee_ling@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">HOD Mother Tongue Language</span></td>
     <td class="tg-h5mn">Mdm Peh Sok Hong</td>
-    <td class="tg-xyrl">peh_sok_hong@moe.edu.sg</td>
+    <td class="tg-xyrl"><a href="mailto:chijpri.cpc@gmail.com">peh_sok_hong@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">HOD Sports &amp; CCA</span></td>
     <td class="tg-1ppo">Mrs Kian Lan Gosian</td>
-    <td class="tg-tsok">quek_kian_lan@moe.edu.sg</td>
+    <td class="tg-tsok"><a href="mailto:chijpri.cpc@gmail.com">quek_kian_lan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">HOD Infocomm Technology</span></td>
     <td class="tg-h5mn">Mrs Tan Chujie</td>
-    <td class="tg-xyrl">tan_chujie@moe.edu.sg</td>
+    <td class="tg-xyrl"><a href="mailto:chijpri.cpc@gmail.com">tan_chujie@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">HOD Student Management</span></td>
     <td class="tg-1ppo">Mdm Lee Ching</td>
-    <td class="tg-tsok">lee_ching_a@moe.edu.sg</td>
+    <td class="tg-tsok"><a href="mailto:chijpri.cpc@gmail.com">lee_ching_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">HOD Character &amp; Citizenship Education</span></td>
     <td class="tg-h5mn">Mrs Stephanie Goh</td>
-    <td class="tg-xyrl">stephanie_lim_mei_fong@moe.edu.sg</td>
+    <td class="tg-xyrl"><a href="mailto:chijpri.cpc@gmail.com">stephanie_lim_mei_fong@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
 
 #### **Subject Heads**
 
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 53px; width: 773.984px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Malay &amp; Tamil Languages</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Miss Azliana Abu Bakar</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;">azliana_abu_bakar@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Aesthetics<br style="box-sizing: inherit;">(Music)</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Ms Carolyn Tan</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;">carolyn_tan_phek_gek@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Infocomm Technology</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Mr Low Hock Siang</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;">low_hock_siang@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Student Leadership</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Mrs Angeline Chiew</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;">angeline_ng_swee_kim@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Pastoral Care / Values-in-Action</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Ms Ophelia Chiu</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;">chiu_cheuk_yi_ophelia@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Innovation</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Mr Jason Yeo</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;">yeo_hup_teck@moe.edu.sg</span></td></tr></tbody></table>
+<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 53px; width: 773.984px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Malay &amp; Tamil Languages</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Miss Azliana Abu Bakar</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;"><a href="mailto:chijpri.cpc@gmail.com">azliana_abu_bakar@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Aesthetics<br style="box-sizing: inherit;">(Music)</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Ms Carolyn Tan</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;"><a href="mailto:chijpri.cpc@gmail.com">carolyn_tan_phek_gek@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Infocomm Technology</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Mr Low Hock Siang</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;"><a href="mailto:chijpri.cpc@gmail.com">low_hock_siang@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Student Leadership</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Mrs Angeline Chiew</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;"><a href="mailto:chijpri.cpc@gmail.com">angeline_ng_swee_kim@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Pastoral Care / Values-in-Action</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Ms Ophelia Chiu</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;"><a href="mailto:chijpri.cpc@gmail.com">chiu_cheuk_yi_ophelia@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154px;"><strong style="box-sizing: inherit; font-weight: bold;">SH Innovation</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 158px;">Mr Jason Yeo</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.984px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;"><a href="mailto:chijpri.cpc@gmail.com">yeo_hup_teck@moe.edu.sg</span></td></tr></tbody></table>
 
 #### **Level Heads**
 
@@ -138,24 +138,24 @@ description: ""
   <tr>
     <th class="tg-0f6e"><span style="font-weight:bold">LH English Language</span></th>
     <th class="tg-1ppo">Mrs Loretta Han</th>
-    <th class="tg-tsok">lee_siew_ling_loretta@moe.edu.sg</th>
+    <th class="tg-tsok"><a href="mailto:chijpri.cpc@gmail.com">lee_siew_ling_loretta@moe.edu.sg</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">LH Mathematics</span></td>
     <td class="tg-h5mn">Ms Nelly Toh</td>
-    <td class="tg-xyrl">toh_zhi_bei_nelly@moe.edu.sg</td>
+    <td class="tg-xyrl"><a href="mailto:chijpri.cpc@gmail.com">toh_zhi_bei_nelly@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">LH Science</span></td>
     <td class="tg-1ppo">Mrs Jennifer Kwek</td>
-    <td class="tg-tsok">goh_ai_gek@moe.edu.sg</td>
+    <td class="tg-tsok"><a href="mailto:chijpri.cpc@gmail.com">goh_ai_gek@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-rs0e"><span style="font-weight:bold">LH Chinese Language</span><br></td>
     <td class="tg-h5mn">Mrs Lui Zi Hui</td>
-    <td class="tg-xyrl">goh_zi_hui@moe.edu.sg</td>
+    <td class="tg-xyrl"><a href="mailto:chijpri.cpc@gmail.com">goh_zi_hui@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
