@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Board.md
       - School Information/.keep
       - School Information/School Crest.md
       - School Information/Core Values.md
