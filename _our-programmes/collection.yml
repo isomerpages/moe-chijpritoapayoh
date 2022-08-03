@@ -2,11 +2,11 @@ collections:
   our-programmes:
     output: true
     order:
-      - Special Programmes/Student Leadership.md
-      - Special Programmes/Sports.md
-      - Special Programmes/Performing Arts.md
-      - Special Programmes/Faith Formation.md
       - Special Programmes/.keep
+      - Special Programmes/Faith Formation.md
+      - Special Programmes/Performing Arts.md
+      - Special Programmes/Sports.md
+      - Special Programmes/Student Leadership.md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
