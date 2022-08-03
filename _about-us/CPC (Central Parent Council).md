@@ -99,9 +99,9 @@ Please click [here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-
 *   [202010 – PSLE Prayer Vigil – Regina Teo (Julianne Teo, P6 Hibi)](/files/202010-PSLE-Prayer-Vigil-Regina-Teo-Julianne-Teo-P6-Hibi.pdf)
 *   [202008 – Teacher’s Day – Lisa Ling (Rachel Ling, P5 Ixora & Emma Ling, P3 Daisy)](/files/202008-Teachers-Day-Lisa-Ling-Rachel-Ling-P5-Ixora-Emma-Ling-P3-Daisy-.pdf)
 *   [202008 – Online Novena – Juliet Distant (Hannah Yeo, P6 Lily)](/files/202008-Online-Novena-Juliet-Distant-Hannah-Yeo-P6-Lily.pdf)
-*   [202007 – Monthly Rosary – Gregory Goh (Ethel Goh, P5 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/07/202007-Monthly-Rosary-Gregory-Goh-Ethel-Goh-P5-Lily.pdf)
-*   [202007 – PSLE Survival Kit – Magdalene Balon (Aimelyne Balon, P6 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/07/202007-PSLE-Survival-Kit-Magdalene-Balon-Aimelyne-Balon-P6-Lily.pdf)
-*   [202007 – Special Treat For Staff – Joyce Tan (Natalie Chong, P6 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/07/202007-Special-Treat-For-Staff-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
+*   [202007 – Monthly Rosary – Gregory Goh (Ethel Goh, P5 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/07/202007-Monthly-Rosary-Gregory-Goh-Ethel-Goh-P5-Lily.pdf) **PDF FILE EXCEEDS 5MB!**
+*   [202007 – PSLE Survival Kit – Magdalene Balon (Aimelyne Balon, P6 Lily)](/files/202007-PSLE-Survival-Kit-Magdalene-Balon-Aimelyne-Balon-P6-Lily.pdf)
+*   [202007 – Special Treat For Staff – Joyce Tan (Natalie Chong, P6 Orchid)](/files/202007-Special-Treat-For-Staff-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
 
 ### **<u>CPC News Articles (2019)</u>**
 
