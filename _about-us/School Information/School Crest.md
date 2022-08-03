@@ -4,7 +4,6 @@ permalink: /about-us/school-information/school-crest/
 description: ""
 third_nav_title: School Information
 ---
-![School Crest](/images/CHIJ-Crest-2013-CYMK-600x684.jpg)
 
 <img src="/images/CHIJ-Crest-2013-CYMK-600x684.jpg" 
 style="width:40%">
