@@ -2,12 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
-      - Key Information.md
-      - IJ Sisters.md
-      - CPC (Central Parent Council).md
-      - CHIJ Alumni Association.md
-      - Our Board.md
+      - History.md
       - School Information/.keep
       - School Information/School Crest.md
       - School Information/Core Values.md
@@ -15,4 +10,9 @@ collections:
       - School Information/Founder’s Day Song.md
       - School Information/School Rules.md
       - School Information/School Corporate Brochure.md
-      - History.md
+      - Our Board.md
+      - CHIJ Alumni Association.md
+      - CPC (Central Parent Council).md
+      - IJ Sisters.md
+      - Key Information.md
+      - Contact Us.md
