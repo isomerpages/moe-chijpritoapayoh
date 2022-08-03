@@ -4,8 +4,8 @@ permalink: /our-programmes/departments/english/
 description: ""
 third_nav_title: Departments
 ---
-**Vision**
-----------
+### **<u>Vision</u>**
+
 
 **Nurturing independent (critical) thinkers, effective communicators**
 
@@ -17,8 +17,8 @@ The IJ Girl is an effective reader, writer and speaker of the language.
 The IJ Girl speaks English confidently and eloquently, expressing her thoughts and views with clarity and precision.  
 The IJ Girl is a critical thinker who is able to comprehend with ease and accuracy what she reads.
 
-**Key Programmes**
-------------------
+### **<u>Key Programmes</u>**
+
 
 **National Curriculum – Stellar 1.0/2.0**
 
@@ -53,4 +53,7 @@ ERRI aims to stretch the academic abilities of our High Achieving Learners while
 
 Through this customised reader response curriculum, these students will be developed into more self-directed, innovative, collaborative, civic-conscious and service-oriented individuals. Reader response focuses on how readers respond to a text and how the interaction of the reader with the text affects text interpretation. Opportunities will be provided for each student to develop her creative and critical thinking skills, project-management skills and problem-solving skills.
 
-**Our students experiencing the Joy of Learning during the English Week**
+
+<p style="text-align:center;"> <strong>Our students experiencing the Joy of Learning during the English Week</strong></p>
+
+![English](/images/english.png)
