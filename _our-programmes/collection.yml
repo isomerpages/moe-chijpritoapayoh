@@ -2,13 +2,13 @@ collections:
   our-programmes:
     output: true
     order:
-      - Departments/Information Technology.md
+      - Departments/.keep
+      - Departments/English.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Mother Tongue.md
+      - Departments/Physical Education.md
+      - Departments/Aesthetics.md
       - Departments/Character and Citizenship Education (CCE) Department
         Vision.md
-      - Departments/Aesthetics.md
-      - Departments/Physical Education.md
-      - Departments/Mother Tongue.md
-      - Departments/Science.md
-      - Departments/Mathematics.md
-      - Departments/English.md
-      - Departments/.keep
+      - Departments/Information Technology.md
