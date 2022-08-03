@@ -93,8 +93,8 @@ Please click [here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-
 *   [202011 – P6 Thank-You Notes for PVs](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/202011-P6-Thank-You-Notes-for-PVs.pdf) **PDF FILE EXCEEDS 5MB!**
 *   [20201008 – Children’s Day – Games – Cara Ann Pereira (Isabela D Penha, P4 Hibi)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201008-Childrens-Day-Games-Cara-Ann-Pereira-Isabela-D-Penha-P4-Hibi.pdf) **PDF FILE EXCEEDS 5MB!**
 *   [20201008 – Children’s Day – Goodie Bags – Magdalene Yip (Ethel Goh, P5 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201008-Childrens-Day-Goodie-Bags-Magdalene-Yip-Ethel-Goh-P5-Lily.pdf) **PDF FILE EXCEEDS 5MB!**
-*   [20201105 – P6 Grad Party – Joyce Tan (Natalie Chong, P6 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201105-P6-Grad-Party-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
-*   [20201105 – P6 Grad Tea – Veronica Silvester (Sara Shaine Silvester, P6 Hibiscus)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201105-P6-Grad-Tea-Veronica-Silvester-Sara-Shaine-Silvester-P6-Hibiscus.pdf)
+*   [20201105 – P6 Grad Party – Joyce Tan (Natalie Chong, P6 Orchid)](/files/20201105-P6-Grad-Party-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
+*   [20201105 – P6 Grad Tea – Veronica Silvester (Sara Shaine Silvester, P6 Hibiscus)](/files/20201105-P6-Grad-Tea-Veronica-Silvester-Sara-Shaine-Silvester-P6-Hibiscus.pdf)
 *   [202010 – PSLE Prayer Vigil – Sharon Lim (Gwendolynn Tham, P6 Hibi)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/10/202010-PSLE-Prayer-Vigil-Sharon-Lim-Gwendolynn-Tham-P6-Hibi.pdf)
 *   [202010 – PSLE Prayer Vigil – Regina Teo (Julianne Teo, P6 Hibi)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/10/202010-PSLE-Prayer-Vigil-Regina-Teo-Julianne-Teo-P6-Hibi.pdf)
 *   [202008 – Teacher’s Day – Lisa Ling (Rachel Ling, P5 Ixora & Emma Ling, P3 Daisy)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/09/202008-Teachers-Day-Lisa-Ling-Rachel-Ling-P5-Ixora-Emma-Ling-P3-Daisy-.pdf)
