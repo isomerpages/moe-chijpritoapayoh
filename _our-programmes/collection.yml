@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
-      - Achievements/Sports.md
-      - Achievements/Arts.md
       - Achievements/.keep
+      - Achievements/Arts.md
+      - Achievements/Sports.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Athletics.md
