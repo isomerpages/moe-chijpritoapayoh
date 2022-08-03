@@ -56,4 +56,14 @@ Through this customised reader response curriculum, these students will be devel
 
 <p style="text-align:center;"> <strong>Our students experiencing the Joy of Learning during the English Week</strong></p>
 
-![English](/images/english.png)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/english.png" alt="English" style="width:85%;">  
+  
+</body>
