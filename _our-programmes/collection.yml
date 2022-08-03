@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCA/Ballet (Enrichment).md
       - CCA/Theatre Academy.md
       - CCA/Handbells Ensemble.md
       - CCA/Modern Dance.md
