@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCA/Choir.md
       - CCA/Art Club.md
       - CCA/Brownies.md
       - CCA/Tennis.md
