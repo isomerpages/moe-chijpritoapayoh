@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Suppliers.md
       - School Calendar.md
