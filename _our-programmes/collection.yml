@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CCA/Tennis.md
       - CCA/Swimming.md
       - CCA/IJ Sports & Stars (P3 Sports Fun Module are subsumed under IJ Sports
         & Stars).md
