@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - CPC (Central Parent Council).md
       - CHIJ Alumni Association.md
       - Our Board.md
       - School Information/.keep
