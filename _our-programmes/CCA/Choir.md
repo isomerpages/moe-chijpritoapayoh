@@ -17,6 +17,10 @@ _Students will be able to …_
 *   Grow into their adult voice.
 *   Harmonize a melody.
 
-![Choir](/images/Choir_1-600x450.jpg)
 
-![Choir](/images/Choir_2.jpg)
+<img src="/images/Choir_1-600x450.jpg"  
+style="width:70%">
+
+
+<img src="/images/Choir_2.jpg"  
+style="width:70%">
