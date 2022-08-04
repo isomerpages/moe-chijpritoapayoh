@@ -8,16 +8,12 @@ notification: ""
 sections:
   - hero:
       background: /images/chijtoapayoh.gif
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+  - infobar:
+      title: Caring Teacher Award 2022
+      description: Dear Parents and Students, Please click on the relevant form which
+        you or your child/ward is in.
+      button: Click here
+      url: /caring-teacher-award-2022/
   - infopic:
       title: History
       description: In the year 1662, a Minim priest, Father Nicolas Barré saw...
@@ -41,10 +37,4 @@ sections:
       url: /our-programmes/special-programme/faith-formation/
       image: /images/faith formation.png
       alt: Faith Formation
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
