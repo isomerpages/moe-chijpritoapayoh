@@ -14,6 +14,7 @@ sections:
         you or your child/ward is in.
       button: Click here
       url: /caring-teacher-award-2022/
+      subtitle: "Closing date: 20 August 2022"
   - infopic:
       title: History
       description: In the year 1662, a Minim priest, Father Nicolas Barré saw...
