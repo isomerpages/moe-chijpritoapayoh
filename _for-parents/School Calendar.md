@@ -3,4 +3,6 @@ title: School Calendar
 permalink: /for-parents/school-calendar
 description: ""
 ---
-Click [here](https://calendar.google.com/calendar/u/0/embed?src=chijtpprical@gmail.com&ctz=Asia/Singapore) to see the School Calendar!
+
+
+<iframe src="https://calendar.google.com/calendar/embed?src=chijtpprical%40gmail.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
