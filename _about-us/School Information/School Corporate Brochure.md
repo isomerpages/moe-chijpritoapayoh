@@ -4,7 +4,6 @@ permalink: /about-us/school-information/school-corporate-brochure/
 description: ""
 third_nav_title: School Information
 ---
-
 <html>
 <body>
 <p><a href="">
@@ -12,3 +11,5 @@ third_nav_title: School Information
 </a></p>
 </body>
 </html>
+
+***PDF file exceeds 5MB!***
