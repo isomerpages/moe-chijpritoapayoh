@@ -8,7 +8,9 @@ third_nav_title: Special Programmes
 
 As part of our Founder’s Day Project, students and staff expressed how they had been touched by His call in various ways such as a letter, a poem, a conviction in forms of drawing and writings etc. In addition, the works of thirty-two of our students were selected to be published in a compilation of messages from the 11 IJ schools, the Infant Jesus Homes and Children’s Centre, CHIJ Board of Management and the IJ nuns, “IJ Voices”. We hope you will enjoy reading it as much as we have enjoyed putting it together.
 
-![IJ-Voices](/images/IJ-Voices-Cover.jpg)
+
+<img src="/images/IJ-Voices-Cover.jpg"  
+style="width:75%">
 
 The rest of our students’ expressions were displayed in the classrooms, put up on our school’s TV messaging system and published in our yearbook. Here’s a snippet of their expressions.
 
