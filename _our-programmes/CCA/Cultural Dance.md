@@ -15,6 +15,10 @@ _Students will be able to …_
 *   Showcase dance techniques and dance choreography.
 *   Demonstrate values of teamwork, discipline and resilience through their CCA participation.
 
-![Cultural Dance](/images/Cultural-Dance_1-600x450.png)
 
-![Cultural Dance](/images/Cultural-Dance_2.png)
+<img src="/images/Cultural-Dance_1-600x450.png"  
+style="width:70%">
+
+
+<img src="/images/Cultural-Dance_2.png"  
+style="width:70%">
