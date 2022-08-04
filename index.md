@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/chijtoapayoh.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -33,7 +31,7 @@ sections:
       button: Read More
       url: /events/
       image: /images/events.png
-      alt: Image alt text
+      alt: Sports Day
   - infobar:
       title: Infobar title
       subtitle: Subtitle
