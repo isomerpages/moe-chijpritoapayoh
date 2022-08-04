@@ -14,7 +14,7 @@ style="width:75%">
 
 The rest of our students’ expressions were displayed in the classrooms, put up on our school’s TV messaging system and published in our yearbook. Here’s a snippet of their expressions.
 
-**VIDEO TO BE UPLOADED TO YOUTUBE**
+***VIDEO TO BE UPLOADED TO YOUTUBE!***
 
 Undeterred by the COVID-19 situation, the school had Masses livestreamed via Zoom to the classes. Communion was also distributed during Mass. We worked with the Redemptorists and Diocesan priests to bring this special encounter with Christ to our school community. Our school also shifted the Rosary and Novena sessions online via Zoom so that our students and their families can now join us in prayer.
 
