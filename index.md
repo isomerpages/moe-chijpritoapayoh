@@ -32,6 +32,15 @@ sections:
       url: /events/
       image: /images/events.png
       alt: Sports Day
+  - infopic:
+      title: Faith Formation
+      description: 2021 was a very special year for us as we celebrated the 400th year
+        of our Founder, Blessed Nicolas Barre's birth. As part of our Founder's
+        Day Project...
+      button: Find Out More
+      url: /our-programmes/special-programme/faith-formation/
+      image: /images/faith formation.png
+      alt: Faith Formation
   - infobar:
       title: Infobar title
       subtitle: Subtitle
