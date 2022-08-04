@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: CHIJ Primary Toa Payoh
+description: CHIJ Primary Toa Payoh
+image: /images/cropped-CHIJ-Primary-Toa-Payoh-Logo-2.jpg
 permalink: /
 notification: ""
 sections:
@@ -39,3 +39,4 @@ sections:
       image: /images/faith formation.png
       alt: Faith Formation
 ---
+
