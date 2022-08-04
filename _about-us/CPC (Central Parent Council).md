@@ -4,7 +4,7 @@ permalink: /about-us/cpc-central-parent-council/
 description: ""
 ---
 <img src="/images/CPC-Logo.jpg"  
-style="width:30%">
+style="width:25%">
 
 ### Join us as a Parent Volunteer!
 
