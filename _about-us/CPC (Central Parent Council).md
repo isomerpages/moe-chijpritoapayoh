@@ -73,7 +73,7 @@ Please click [here](/files/CPC-Parent-Handbook.pdf) to view the Parent Volunte
 
 Please click [here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf) to view the slides.
 
-### **[Pastoral Activities](https://www.chijpritoapayoh.moe.edu.sg/our-programmes/special-programme/faith-formation/)**
+### **[Pastoral Activities](/our-programmes/special-programme/faith-formation/)**
 
 ### **<u>CPC News Articles (2022)</u>**
 
