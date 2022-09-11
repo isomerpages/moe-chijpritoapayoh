@@ -23,4 +23,16 @@ Our students also participate in school wide-Environment programmes such as Worl
 
 ![](/images/science_11.png)
 
-![](/images/science_2.png)
+
+
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/science_2.png" alt="Science" style="width:50%;">  
+  
+</body>
