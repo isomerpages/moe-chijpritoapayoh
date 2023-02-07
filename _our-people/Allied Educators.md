@@ -3,4 +3,40 @@ title: Allied Educators
 permalink: /our-people/allied-educators/
 description: ""
 ---
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 740.8px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 499.737px;"><span style="box-sizing: inherit; font-size: 12pt;"><strong style="box-sizing: inherit; font-weight: bold;">Miss Anupma Tiwary</strong></span></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 240.062px;"><span style="box-sizing: inherit; font-size: 12pt;">anupma_tiwary@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 499.737px;"><span style="box-sizing: inherit; font-size: 12pt;"><strong style="box-sizing: inherit; font-weight: bold;">Mdm Helen Pai</strong></span></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 240.062px;"><span style="box-sizing: inherit; font-size: 12pt;">pai_hung@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 499.737px;"><span style="box-sizing: inherit; font-size: 12pt;"><strong style="box-sizing: inherit; font-weight: bold;">Mrs Koh Lih Chyn</strong></span></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 240.062px;"><span style="box-sizing: inherit; font-size: 12pt;">koh_lih_chyn@moe.edu.sg</span><br style="box-sizing: inherit;"><b style="box-sizing: inherit; font-weight: bold;"></b></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 499.737px;"><span style="box-sizing: inherit; font-size: 12pt;"><strong style="box-sizing: inherit; font-weight: bold;">Mr Lim Boon Keong</strong></span></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px;"><span style="box-sizing: inherit; font-size: 12pt;">lim_boon_keong@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 499.737px;"><span style="box-sizing: inherit; font-size: 12pt;"><strong style="box-sizing: inherit; font-weight: bold;">Miss Tan Yen Yen</strong></span></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 240.062px;"><span style="box-sizing: inherit; font-size: 12pt;">tan_yen_yen@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 499.737px;"><span style="box-sizing: inherit; font-size: 12pt;"><strong style="box-sizing: inherit; font-weight: bold;">Mdm Virginia Koh</strong></span></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 240.062px;"><span style="box-sizing: inherit; font-size: 12pt;">koh_wah_mui@moe.edu.sg</span></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">School Counsellor</span></th>
+    <th class="tg-l2bf">Miss Anupma Tiwary</th>
+    <th class="tg-tsok" colspan="2">anupma_tiwary@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rs0e"><span style="font-weight:bold">Allied Educators</span><br><span style="font-weight:bold">(Teaching &amp; Learning)</span></td>
+    <td class="tg-rs0e">Mdm Helen Pai</td>
+    <td class="tg-xyrl" colspan="2">pai_hung@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">Senior Special Educational Needs Officer</span></td>
+    <td class="tg-l2bf">Mr Lim Boon Keong</td>
+    <td class="tg-tsok" colspan="2">lim_boon_keong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-rs0e"><span style="font-weight:bold">Allied Educators</span><br><span style="font-weight:bold">(Teaching &amp; Learning)</span></td>
+    <td class="tg-rs0e">Mdm Virginia Koh</td>
+    <td class="tg-xyrl" colspan="2">koh_wah_mui@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
