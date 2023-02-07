@@ -16,9 +16,8 @@ Every child matters at CHIJ Primary (Toa Payoh). Through our Character and Citiz
 
 ### <u>Key Programmes</u>
 
-
 1.  CCE (Form Teacher Guidance Period)
-2.  [Sexuality Education (Primary 5 and Primary 6 Growing Years)](/files/20220221-SEd-Letter.pdf)
+2.  [Sexuality Education (Primary 5 and Primary 6 Growing Years)](/files/20230201-P5-P6-SEd-Programme.pdf)
 3.  Education and Career Guidance
 4.  Programme for Active Learning (P1 and P2)
 5.  Social Studies
