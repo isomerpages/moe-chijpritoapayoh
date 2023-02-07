@@ -3,4 +3,76 @@ title: Executive & Admin Staff
 permalink: /our-people/executive-and-admin-staff/
 description: ""
 ---
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 532px; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 42px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 42px;"><strong style="box-sizing: inherit; font-weight: bold;">Administration Manager</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 200.413px; height: 42px;">Ms Ho Choy Ling</td><td style="box-sizing: inherit; padding: 5px 10px; width: 312.6px; height: 42px;">ho_choy_ling@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 42px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 42px;"><b style="box-sizing: inherit; font-weight: bold;">Operations Manager</b></td><td style="box-sizing: inherit; padding: 5px 10px; width: 200.413px; height: 42px;">Mr Joel Seng</td><td style="box-sizing: inherit; padding: 5px 10px; width: 312.6px; height: 42px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;">seng_liat_heng@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 42px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 42px;"><b style="box-sizing: inherit; font-weight: bold;">Administration Executive</b></td><td style="box-sizing: inherit; padding: 5px 10px; width: 200.413px; height: 42px;">Miss Siti Hajar</td><td style="box-sizing: inherit; padding: 5px 10px; width: 312.6px; height: 42px;"><span style="box-sizing: inherit; font-size: 12pt; text-align: center;">siti_hajar_abdullah_a@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 42px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 42px;"><b style="box-sizing: inherit; font-weight: bold;">ICT Associate</b></td><td style="box-sizing: inherit; padding: 5px 10px; width: 200.413px; height: 42px;">Miss Elizabeth Ng</td><td style="box-sizing: inherit; padding: 5px 10px; width: 312.6px; height: 42px;"><span style="box-sizing: inherit; font-size: 12pt;">ng_lay_ping_elizabeth@moe.edu.sg</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 43px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 43px;"><b style="box-sizing: inherit; font-weight: bold;">Management Support Officer</b></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 513.013px; height: 43px;">Mrs Margaret Kok</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 43px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 43px;"><b style="box-sizing: inherit; font-weight: bold;">Management Support Officer</b></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 513.013px; height: 43px;">Mrs Linda Teng</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 43px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 43px;"><b style="box-sizing: inherit; font-weight: bold;">Management Support Officer</b></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 513.013px; height: 43px;">Mrs Pauline Ng</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 43px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 43px;"><b style="box-sizing: inherit; font-weight: bold;">Operations Support Officer</b></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 513.013px; height: 43px;">Ms Annanthi</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 43px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 43px;"><b style="box-sizing: inherit; font-weight: bold;">Operations Support Officer</b></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 513.013px; height: 43px;">Mdm June Tham</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 43px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 43px;"><b style="box-sizing: inherit; font-weight: bold;">Operations Support Officer</b></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 513.013px; height: 43px;">Ms Paulina</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 43px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 43px;"><b style="box-sizing: inherit; font-weight: bold;">Operations Support Officer</b></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; height: 43px;">Mdm Rebekah</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 278.212px; height: 43px;"><b style="box-sizing: inherit; font-weight: bold;">Operations Support Officer</b></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; height: 43px;">Miss Peh Poh Geok</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-syb7{background-color:#E6E6E6;text-align:center;vertical-align:top}
+.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-3qhc{background-color:#E6E6E6;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">Administration Manager</span></td>
+    <td class="tg-zr06">Ms Chen Liyin</td>
+    <td class="tg-zr06">chen_liyin@moe.edu.sg</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3qhc"><span style="font-weight:bold">Operations Manager</span></td>
+    <td class="tg-bsu7">Mr Joel Seng</td>
+    <td class="tg-syb7">seng_liat_heng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">Administration Executive</span></td>
+    <td class="tg-zr06">Miss Siti Hajar</td>
+    <td class="tg-7yig">siti_hajar_abdullah_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-3qhc"><span style="font-weight:bold">Administration Executive</span></td>
+    <td class="tg-bsu7">Miss Windy Yeo</td>
+    <td class="tg-syb7">yeo_xue_ni@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">ICT Associate</span></td>
+    <td class="tg-zr06">Miss Elizabeth Ng</td>
+    <td class="tg-ktyi">ng_lay_ping_elizabeth@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-3qhc"><span style="font-weight:bold">Management Support Officer</span></td>
+    <td class="tg-bsu7" colspan="2">Mrs Linda Teng</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">Management Support Officer</span></td>
+    <td class="tg-zr06" colspan="2">Mrs Pauline Ng</td>
+  </tr>
+  <tr>
+    <td class="tg-3qhc"><span style="font-weight:bold">Management Support Officer</span></td>
+    <td class="tg-bsu7" colspan="2">Mdm Seh Kim Far</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">Operations Support Officer</span></td>
+    <td class="tg-zr06" colspan="2">Ms Annanthi</td>
+  </tr>
+  <tr>
+    <td class="tg-3qhc"><span style="font-weight:bold">Operations Support Officer</span></td>
+    <td class="tg-bsu7" colspan="2">Miss Peh Poh Geok</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:bold">Operations Support Officer</span></td>
+    <td class="tg-zr06" colspan="2">Mdm Rebekah</td>
+  </tr>
+  <tr>
+    <td class="tg-3qhc"><span style="font-weight:bold">Operations Support Officer</span></td>
+    <td class="tg-bsu7" colspan="2">Mdm Lee Yuet Leng</td>
+  </tr>
+</tbody>
+</table>
