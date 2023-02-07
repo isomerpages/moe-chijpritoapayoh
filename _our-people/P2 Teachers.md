@@ -5,16 +5,108 @@ description: ""
 ---
 **Primary 2 Form & Co-Form Teachers**
 
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 53px; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 116.325px;"><strong style="box-sizing: inherit; font-weight: bold;">P2 Daisy</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 145.363px;"><strong style="box-sizing: inherit; font-weight: bold;">Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 191.712px;">Mrs Regina Begum</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.825px;">regina_begum_mohamed_ayoob@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 116.325px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 145.363px;"><strong style="box-sizing: inherit; font-weight: bold;">C</strong><strong style="box-sizing: inherit; font-weight: bold;">o-Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 191.712px;">Mrs Mabel Yeo</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.825px;">goh_wei_lin_mabel@moe.edu.sg</td></tr></tbody></table>
-
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 20px; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;"><strong style="box-sizing: inherit; font-weight: bold;">P2 Hibiscus</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Miss Soh Yin Ting</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">soh_yin_ting@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">C</strong><strong style="box-sizing: inherit; font-weight: bold;">o-Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Mrs Lui Zi Hui</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">goh_zi_hui@moe.edu.sg</td></tr></tbody></table>
-
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 20px; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;"><strong style="box-sizing: inherit; font-weight: bold;">P2 Ixora</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Mrs&nbsp;Elaine Toh</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">chong_mei_lin_elaine@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">C</strong><strong style="box-sizing: inherit; font-weight: bold;">o-Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Ms Elsa Ang</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">elsa_ang@moe.edu.sg</td></tr></tbody></table>
-
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 20px; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;"><strong style="box-sizing: inherit; font-weight: bold;">P2 Lily</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Ms Shirley Ang</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">ang_ching_ching_shirley@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">C</strong><strong style="box-sizing: inherit; font-weight: bold;">o-Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Mdm Virginia Koh</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">koh_wah_mui@moe.edu.sg</td></tr></tbody></table>
-
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 20px; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;"><strong style="box-sizing: inherit; font-weight: bold;">P2 Orchid</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Ms Cindy Oo</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">oo_hui_min@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">C</strong><strong style="box-sizing: inherit; font-weight: bold;">o-Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Miss Nina Mark</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">mark_pei_lai_nina@moe.edu.sg</td></tr></tbody></table>
-
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 20px; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;"><strong style="box-sizing: inherit; font-weight: bold;">P2 Rose</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Miss Yeo Bee Leng</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">yeo_bee_leng@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">C</strong><strong style="box-sizing: inherit; font-weight: bold;">o-Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Mdm Tang Li</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">tang_li@moe.edu.sg</td></tr></tbody></table>
-
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 20px; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;"><strong style="box-sizing: inherit; font-weight: bold;">P2 Violet</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Miss Brenda Liu</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">liu_congling@moe.edu.sg</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 118.963px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 148.65px;"><strong style="box-sizing: inherit; font-weight: bold;">C</strong><strong style="box-sizing: inherit; font-weight: bold;">o-Form Teacher</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 197.475px;">Ms Rohini Visva Nathan</td><td style="box-sizing: inherit; padding: 5px 10px; width: 326.138px;">rohini_visva_nathan@moe.edu.sg</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-bsu7{background-color:#E6E6E6;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-3qhc{background-color:#E6E6E6;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5"><span style="font-weight:bold">P2 Daisy</span></th>
+    <th class="tg-dgl5"><span style="font-weight:bold">Form Teacher</span></th>
+    <th class="tg-zr06">Mrs Joy Drysdale</th>
+    <th class="tg-zr06">rodrigues_joy_ann-marie@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bsu7"> </td>
+    <td class="tg-3qhc"><span style="font-weight:bold">Co-Form Teacher</span></td>
+    <td class="tg-bsu7">Mrs Lui Zi Hui</td>
+    <td class="tg-bsu7">goh_zi_hui@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">P2 Hibiscus</span></td>
+    <td class="tg-l2bf"><span style="font-weight:bold">Form Teacher</span></td>
+    <td class="tg-1ppo">Mrs Regina Begum</td>
+    <td class="tg-1ppo">regina_begum_mohamed_ayoob@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"> </td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Co-Form Teacher</span></td>
+    <td class="tg-h5mn">Miss Felicia Tay</td>
+    <td class="tg-h5mn">tay_hwee_yin_felicia@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">P2 Ixora</span></td>
+    <td class="tg-l2bf"><span style="font-weight:bold">Form Teacher</span></td>
+    <td class="tg-1ppo">Miss Kavitha Sathiamurthi</td>
+    <td class="tg-1ppo">kavitha_sathiamurthi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"> </td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Co-Form Teacher</span></td>
+    <td class="tg-h5mn">Mrs Elaine Toh</td>
+    <td class="tg-h5mn">chong_mei_lin_elaine@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">P2 Lily</span></td>
+    <td class="tg-l2bf"><span style="font-weight:bold">Form Teacher</span></td>
+    <td class="tg-1ppo">Mrs Sundar Selvi</td>
+    <td class="tg-1ppo">thamilselvi_letchumanan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"> </td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Co-Form Teacher</span></td>
+    <td class="tg-h5mn">Dr Dong Yaru</td>
+    <td class="tg-h5mn">dong_yaru@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">P2 Orchid</span></td>
+    <td class="tg-l2bf"><span style="font-weight:bold">Form Teacher</span></td>
+    <td class="tg-1ppo">Mrs Jasmine Ho</td>
+    <td class="tg-1ppo">lau_li_hsiang_jasmine@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"> </td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Co-Form Teacher</span></td>
+    <td class="tg-h5mn">Mrs Kian Lan Gosian</td>
+    <td class="tg-h5mn">quek_kian_lan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">P2 Rose</span></td>
+    <td class="tg-l2bf"><span style="font-weight:bold">Form Teacher</span></td>
+    <td class="tg-1ppo">Mrs Angeline Chiew</td>
+    <td class="tg-1ppo">angeline_ng_swee_kim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"> </td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Co-Form Teacher</span></td>
+    <td class="tg-h5mn">Miss Hong Xiaoqin</td>
+    <td class="tg-h5mn">hong_xiaoqin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">P2 Violet</span></td>
+    <td class="tg-l2bf"><span style="font-weight:bold">Form Teacher</span></td>
+    <td class="tg-1ppo">Mdm Kelly Ho</td>
+    <td class="tg-1ppo">ho_pui_ling@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"> </td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Co-Form Teacher</span></td>
+    <td class="tg-h5mn">Miss Jessica Ang</td>
+    <td class="tg-h5mn">jessica_ang_boon_siong@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
