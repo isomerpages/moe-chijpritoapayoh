@@ -35,7 +35,7 @@ And just be my friend.”
 
 To be on the Parents Mailing List For School activities, please visit:
 
-<p style="text-align:center;"><a href="https://form.gov.sg/618252f4cc1dfd0013961d9b">Please click here to sign up</a></p>
+<p style="text-align:center;"><a href="https://form.gov.sg/634e95ebd25d7f0012f3d1f4">Please click here to sign up</a></p>
 
 <p style="text-align:center;">or<br>scan the QR Code</p>
 
@@ -46,8 +46,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/20211105-QR-sign-up.jpg" alt="QR-sign-up" style="width:25%;">
-  
+<body><img src="/images/2023-CPC-Mailing-List-QR-Code.png" alt="QR-sign-up" style="width:25%;">
+
 </body>
 
 <p style="text-align:center;">or email CPC at <a href="mailto:chijpri.cpc@gmail.com">chijpri.cpc@gmail.com</a></p>
@@ -61,7 +61,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/20211227-CPC-org-chart-2022.jpg" alt="CPC-org-chart-2022" style="width:90%;">
+<body><img src="/images/CPC-org-chart-2023.jpg" alt="CPC-org-chart-2022" style="width:90%;">
   
 </body>
 
@@ -75,7 +75,21 @@ Please click [here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-
 
 ### **[Pastoral Activities](/our-programmes/special-programme/faith-formation/)**
 
+### **<u>CPC News Articles (2023)</u>**
+
+* [31012023 – PV Breakfast Welcome Chat](/files/31012023-PV-Breakfast-Welcome-Chat.pdf)
+
 ### **<u>CPC News Articles (2022)</u>**
+
+*   [06102022 – Children’s Day 2022](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/11/06102022-Childrens-Day-2022.pdf) ***PDF FILE EXCEEDS 5MB!***
+
+*   [03092022 – Dads for Life Event](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/09/03092022-Dads-for-Life-Event.pdf)  ***PDF FILE EXCEEDS 5MB!***
+
+*   [31082022 – Mid Autumn Festival Celebrations](/files/31082022-Mid-Autumn-Festival-Celebrations.pdf)
+
+*   [08082022 – National Day Observance Ceremony](/files/08082022-National-Day-Observance-Ceremony.pdf)
+
+*   [04082022 – Lower Primary Games](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/08/04082022-Lower-Primary-Games.pdf)  ***PDF FILE EXCEEDS 5MB!***
 
 *   [23022022 – PV Welcome Chat – Samantha Chin (Sarah Chin, 3 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/03/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf) ***PDF FILE EXCEEDS 5MB!***
 
