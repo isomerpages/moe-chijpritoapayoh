@@ -8,13 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/chijtoapayoh.gif
-  - infobar:
-      title: Caring Teacher Award 2022
-      description: Dear Parents and Students, Please click on the relevant form which
-        you or your child/ward is in.
-      button: Click here
-      url: /caring-teacher-award-2022/
-      subtitle: "Closing date: 20 August 2022"
   - infopic:
       title: History
       description: In the year 1662, a Minim priest, Father Nicolas Barré saw...
@@ -39,4 +32,3 @@ sections:
       image: /images/faith formation.png
       alt: Faith Formation
 ---
-
