@@ -2,8 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - Booklists.md
       - School Calendar.md
       - Suppliers.md
       - School Forms.md
+      - Booklists.md
       - Links.md
