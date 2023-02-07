@@ -95,4 +95,4 @@ b. <u>Registration Process for Primary 3 Students</u>
 *   At the end of the CCA registration exercise, students will be allocated their CCAs based on the choices they have submitted.
 *   elections will be conducted by November to assess the suitability of the CCAs they have signed up for.
 
-**[2022 CCA Schedule](/files/20220318-CCA-Schedule-2022.pdf)**
+**[2023 CCA & Enrichment Schedule](/files/20221212-CCA-Schedule-2023.pdf)**
