@@ -1,0 +1,9 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - School Calendar.md
+      - Suppliers.md
+      - School Forms.md
+      - Booklists.md
+      - Links.md
