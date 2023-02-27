@@ -27,9 +27,9 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3qhc"><span style="font-weight:bold">Operations Manager</span></td>
-    <td class="tg-bsu7">Mr Joel Seng</td>
-    <td class="tg-syb7">seng_liat_heng@moe.edu.sg</td>
+    <td class="tg-dgl5"><span style="font-weight:bold">Operations Manager</span></td>
+    <td class="tg-zr06">Mr Joel Seng</td>
+    <td class="tg-zr06">seng_liat_heng@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5"><span style="font-weight:bold">Administration Executive</span></td>
