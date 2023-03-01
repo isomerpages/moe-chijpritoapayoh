@@ -34,12 +34,12 @@ description: ""
   <tr>
     <td class="tg-dgl5"><span style="font-weight:bold">Administration Executive</span></td>
     <td class="tg-zr06">Miss Siti Hajar</td>
-    <td class="tg-7yig">siti_hajar_abdullah_a@moe.edu.sg</td>
+    <td class="tg-zr06">siti_hajar_abdullah_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-3qhc"><span style="font-weight:bold">Administration Executive</span></td>
-    <td class="tg-bsu7">Miss Windy Yeo</td>
-    <td class="tg-syb7">yeo_xue_ni@moe.edu.sg</td>
+    <td class="tg-dgl5"><span style="font-weight:bold">Administration Executive</span></td>
+    <td class="tg-zr06">Miss Windy Yeo</td>
+    <td class="tg-zr06">yeo_xue_ni@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-dgl5"><span style="font-weight:bold">ICT Associate</span></td>
