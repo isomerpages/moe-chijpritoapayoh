@@ -27,11 +27,11 @@ description: ""
     <td class="tg-h5mn" colspan="2">Mr Umirzan Iqbal Bin Konzan</td>
   </tr>
   <tr>
-    <td class="tg-l2bf"><span style="font-weight:bold">Teachers’ Aide</span></td>
+    <td class="tg-l2bf"><span style="font-weight:bold">Teacher Assistant</span></td>
     <td class="tg-1ppo" colspan="2">Ms Dorcas Pillay</td>
   </tr>
   <tr>
-    <td class="tg-rs0e"><span style="font-weight:bold">Teachers’ Aide</span></td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Teacher Assistant</span></td>
     <td class="tg-h5mn" colspan="2">Mdm Salbiah Bte Sujak</td>
   </tr>
   <tr>
