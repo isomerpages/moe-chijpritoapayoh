@@ -1,5 +1,5 @@
 title: CHIJ Primary Toa Payoh
-url: ""
+url: https://www.chijpritoapayoh.moe.edu.sg
 favicon: /images/CHIJ-Crest-2013-CYMK-600x684.jpg
 colors:
   primary-color: "#f1ae16"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
