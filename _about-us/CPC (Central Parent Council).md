@@ -60,8 +60,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/CPC-org-chart-2023.jpg" alt="CPC-org-chart-2022" style="width:90%;">
-  
+
+
+![](/images/cpc%20org%20chart%202023%20-%202.jpg)
 
 
 ### <u>Parent Volunteer Handbook:</u>
