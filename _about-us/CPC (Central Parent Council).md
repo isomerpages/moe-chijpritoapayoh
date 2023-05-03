@@ -68,9 +68,6 @@ img {
 
 Please click&nbsp;[here](/files/CPC-Parent-Handbook.pdf)&nbsp;to view the Parent Volunteer Handbook.
 
-### **<u>CPC Parents Welcome Chat 2022:</u>**
-
-Please click&nbsp;[here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf)&nbsp;to view the slides.
 
 ### **[Pastoral Activities](/our-programmes/special-programme/faith-formation/)**
 
