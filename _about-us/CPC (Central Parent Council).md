@@ -76,6 +76,8 @@ Please click&nbsp;[here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chi
 
 ### **<u>CPC News Articles (2023)</u>**
 
+* [25042023 - Easter Egg Hunt Writeup](/files/25042023%20-%20easter%20egg%20hunt%20writeup.pdf)
+
 * [25042023 - P1 and P5 Lifeskills Writeup](/files/25042023%20-%20p1%20and%20p5%20lifeskills%20writeup.pdf)
 
 * [21032023 - P4 Values-In-Action - Trash to Treasure](/files/31012023-PV-Breakfast-Welcome-Chat.pdf)
