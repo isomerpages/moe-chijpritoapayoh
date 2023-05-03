@@ -60,21 +60,23 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/CPC-org-chart-2023.jpg" alt="CPC-org-chart-2022" style="width:90%;">
-  
+
+
+![](/images/cpc%20org%20chart%202023%20-%202.jpg)
 
 
 ### <u>Parent Volunteer Handbook:</u>
 
 Please click&nbsp;[here](/files/CPC-Parent-Handbook.pdf)&nbsp;to view the Parent Volunteer Handbook.
 
-### **<u>CPC Parents Welcome Chat 2022:</u>**
-
-Please click&nbsp;[here](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf)&nbsp;to view the slides.
 
 ### **[Pastoral Activities](/our-programmes/special-programme/faith-formation/)**
 
 ### **<u>CPC News Articles (2023)</u>**
+
+* [25042023 - Easter Egg Hunt Writeup](/files/25042023%20-%20easter%20egg%20hunt%20writeup.pdf)
+
+* [25042023 - P1 and P5 Lifeskills Writeup](/files/25042023%20-%20p1%20and%20p5%20lifeskills%20writeup.pdf)
 
 * [21032023 - P4 Values-In-Action - Trash to Treasure](/files/31012023-PV-Breakfast-Welcome-Chat.pdf)
 
