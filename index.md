@@ -2,7 +2,7 @@
 layout: homepage
 title: CHIJ Primary Toa Payoh
 description: CHIJ Primary Toa Payoh
-image: /images/cropped-CHIJ-Primary-Toa-Payoh-Logo-2.jpg
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
