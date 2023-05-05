@@ -8,7 +8,7 @@ description: ""
   <tr>
     <th>Name</th>
     <th>Email Address</th>
-    <th>Subjects</th>
+    <th>Subject/s</th>
   </tr>
 </thead>
 <tbody>
