@@ -14,8 +14,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">P1 Daisy</td>
-    <td>Form Teacher</td>
+    <th rowspan="2">P1 Daisy
+    </th><td>Form Teacher</td>
     <td>Mrs Angelique Goh</td>
     <td>woon_li_ying_angelique@moe.edu.sg</td>
   </tr>
@@ -25,8 +25,8 @@ description: ""
     <td>goh_wei_lin_mabel@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">P1 Hibiscus</td>
-    <td>Form Teacher</td>
+    <th rowspan="2">P1 Hibiscus
+    </th><td>Form Teacher</td>
     <td>Miss Soh Yin Ting</td>
     <td>soh_yin_ting@moe.edu.sg</td>
   </tr>
@@ -36,8 +36,8 @@ description: ""
     <td>rohini_visva_nathan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">P1 Ixora</td>
-    <td>Form Teacher</td>
+    <th rowspan="2">P1 Ixora
+    </th><td>Form Teacher</td>
     <td>Mrs Rajes Niedu</td>
     <td>rajoo_rajeswari@moe.edu.sg</td>
   </tr>
@@ -47,8 +47,8 @@ description: ""
     <td>tan_chujie@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">P1 Lily</td>
-    <td>Form Teacher</td>
+    <th rowspan="2">P1 Lily
+    </th><td>Form Teacher</td>
     <td>Ms Shirley Ang</td>
     <td>ang_ching_ching_shirley@moe.edu.sg</td>
   </tr>
@@ -58,8 +58,8 @@ description: ""
     <td>tang_li@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">P1 Orchid</td>
-    <td>Form Teacher</td>
+    <th rowspan="2">P1 Orchid
+    </th><td>Form Teacher</td>
     <td>Miss Brenda Liu</td>
     <td>liu_congling@moe.edu.sg</td>
   </tr>
@@ -69,8 +69,8 @@ description: ""
     <td>huang_qiuqin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">P1 Rose</td>
-    <td>Form Teacher</td>
+    <th rowspan="2">P1 Rose
+    </th><td>Form Teacher</td>
     <td>Ms Cindy Oo</td>
     <td>oo_hui_min@moe.edu.sg</td>
   </tr>
@@ -80,8 +80,8 @@ description: ""
     <td>mark_pei_lai_nina@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">P1 Violet</td>
-    <td>Form Teacher</td>
+    <th rowspan="2">P1 Violet
+    </th><td>Form Teacher</td>
     <td>Miss Yeo Bee Leng</td>
     <td>yeo_bee_leng@moe.edu.sg</td>
   </tr>
