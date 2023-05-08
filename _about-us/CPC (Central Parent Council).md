@@ -87,6 +87,7 @@ Please click&nbsp;[here](/files/CPC-Parent-Handbook.pdf)&nbsp;to view the Parent
 *   [06102022 – Children’s Day 2022](/files/06102022%20-%20children's%20day%202022.pdf)
 
 *   [03092022 – Dads for Life Event](/files/03092022%20-%20dads%20for%20life%20event.pdf)
+
 *   [31082022 – Mid Autumn Festival Celebrations](/files/31082022-Mid-Autumn-Festival-Celebrations.pdf)
 
 *   [08082022 – National Day Observance Ceremony](/files/08082022-National-Day-Observance-Ceremony.pdf)
