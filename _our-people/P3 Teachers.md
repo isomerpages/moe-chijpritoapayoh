@@ -16,7 +16,7 @@ description: ""
   <tr>
     <td rowspan="2"><br><br>P3 Daisy</td>
     <td>Form Teacher</td>
-    <td>Mrs Narin devi</td>
+    <td>Mrs Narin Devi</td>
     <td>sri_devi_subramaniam@moe.edu.sg</td>
   </tr>
   <tr>
