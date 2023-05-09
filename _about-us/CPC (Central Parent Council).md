@@ -94,7 +94,7 @@ Please click&nbsp;[here](/files/CPC-Parent-Handbook.pdf)&nbsp;to view the Parent
 
 *   [04082022 – Lower Primary Games](/files/04082022%20-%20lower%20primary%20games.pdf)
 
-*   [23022022 – PV Welcome Chat – Samantha Chin (Sarah Chin, 3 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/03/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf) 
+*   [23022022 – PV Welcome Chat – Samantha Chin (Sarah Chin, 3 Orchid)](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf)
 
 ### **<u>CPC News Articles (2021)</u>**
 
