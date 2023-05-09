@@ -84,23 +84,30 @@ Please click&nbsp;[here](/files/CPC-Parent-Handbook.pdf)&nbsp;to view the Parent
 
 ### **<u>CPC News Articles (2022)</u>**
 
-*   [06102022 – Children’s Day 2022](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/11/06102022-Childrens-Day-2022.pdf) 
+*   [06102022 – Children’s Day 2022](/files/06102022%20-%20children's%20day%202022.pdf)
 
-*   [03092022 – Dads for Life Event](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/09/03092022-Dads-for-Life-Event.pdf)  
+*   [03092022 – Dads for Life Event](/files/03092022%20-%20dads%20for%20life%20event.pdf)
+
 *   [31082022 – Mid Autumn Festival Celebrations](/files/31082022-Mid-Autumn-Festival-Celebrations.pdf)
 
 *   [08082022 – National Day Observance Ceremony](/files/08082022-National-Day-Observance-Ceremony.pdf)
 
-*   [04082022 – Lower Primary Games](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/08/04082022-Lower-Primary-Games.pdf)  
+*   [04082022 – Lower Primary Games](/files/04082022%20-%20lower%20primary%20games.pdf)
 
-*   [23022022 – PV Welcome Chat – Samantha Chin (Sarah Chin, 3 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/03/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf) 
+*   [23022022 – PV Welcome Chat – Samantha Chin (Sarah Chin, 3 Orchid)](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf)
 
 ### **<u>CPC News Articles (2021)</u>**
 
 *   [202110 – PSLE Prayer Vigil – Patricia Yeong (Megan Chan, P6 Ixora)](/files/202110-PSLE-Prayer-Vigil-Patricia-Yeong-Megan-Chan-P6-Ixora.pdf)
+
 *   [202110 – Life Skills – Christina Yap (Charlotte Saw, P3 Ixora)](/files/202110-Life-Skills-Christina-Yap-Charlotte-Saw-P3-Ixora.pdf)
-*   [202110 – Children’s Day – Cara Ann Pereira (Isabela D Penha, P5 Rose)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2021/11/202110-Childrens-Day-Cara-Ann-Pereira-Isabela-D-Penha-P5-Rose.pdf)  
+
+*   [202110 – Children’s Day – Cara Ann Pereira (Isabela D Penha, P5 Rose)](/files/202110%20-%20children's%20day%20%20-%20cara%20ann%20pereira%20(isabela%20d%20penha,%20p5%20rose).pdf)
+
 *   [202109 – Teachers Appreciation – Tan Boon Siong (Nathanielle Tan, P6 Daisy &amp; Adrielle Tan, P4 Daisy)](/files/202109-Teachers-Appreciation-Tan-Boon-Siong-Nathanielle-Tan-P6-Daisy-Adrielle-Tan-P4-Daisy.pdf)
-*   [202105 – May Rosary – Charles (Cathelyn Charles, 4 Rose)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2021/06/202105-May-Rosary-Charles-Cathelyn-Charles-4-Rose.pdf) 
+
+*   [202105 – May Rosary – Charles (Cathelyn Charles, 4 Rose)](/files/202105%20-%20may%20rosary%20-%20charles%20(cathelyn%20charles,%204%20rose).pdf)
+
 *   [20210405 – Virtual Easter Play – Geraldine Chia (Clarice Foo, P3 Orchid &amp; Raelynn Foo, P1 Lily)](/files/20210405-Virtual-Easter-Play-Geraldine-Chia-Clarice-Foo-P3-Orchid-Raelynn-Foo-P1-Lily.pdf)
-*   [20210203 – PV Welcome Chat – Melanie Kong (Marian Emma Lee, P3 Hibiscus)](/files/20210203-PV-Welcome-Chat-Melanie-Kong-Marian-Emma-Lee-P3-Hibiscus.pdf)
+
+*   [20210203 – PV Welcome Chat – Melanie Kong (Marian Emma Lee, P3 Hibiscus)](/files/cpc%20welcome%20chat%202021%20presentation.pdf)
