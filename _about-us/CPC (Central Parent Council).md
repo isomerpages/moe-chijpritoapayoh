@@ -99,9 +99,15 @@ Please click&nbsp;[here](/files/CPC-Parent-Handbook.pdf)&nbsp;to view the Parent
 ### **<u>CPC News Articles (2021)</u>**
 
 *   [202110 – PSLE Prayer Vigil – Patricia Yeong (Megan Chan, P6 Ixora)](/files/202110-PSLE-Prayer-Vigil-Patricia-Yeong-Megan-Chan-P6-Ixora.pdf)
+
 *   [202110 – Life Skills – Christina Yap (Charlotte Saw, P3 Ixora)](/files/202110-Life-Skills-Christina-Yap-Charlotte-Saw-P3-Ixora.pdf)
+
 *   [202110 – Children’s Day – Cara Ann Pereira (Isabela D Penha, P5 Rose)](/files/202110%20-%20children's%20day%20%20-%20cara%20ann%20pereira%20(isabela%20d%20penha,%20p5%20rose).pdf)
+
 *   [202109 – Teachers Appreciation – Tan Boon Siong (Nathanielle Tan, P6 Daisy &amp; Adrielle Tan, P4 Daisy)](/files/202109-Teachers-Appreciation-Tan-Boon-Siong-Nathanielle-Tan-P6-Daisy-Adrielle-Tan-P4-Daisy.pdf)
+
 *   [202105 – May Rosary – Charles (Cathelyn Charles, 4 Rose)](/files/202105%20-%20may%20rosary%20-%20charles%20(cathelyn%20charles,%204%20rose).pdf)
+
 *   [20210405 – Virtual Easter Play – Geraldine Chia (Clarice Foo, P3 Orchid &amp; Raelynn Foo, P1 Lily)](/files/20210405-Virtual-Easter-Play-Geraldine-Chia-Clarice-Foo-P3-Orchid-Raelynn-Foo-P1-Lily.pdf)
+
 *   [20210203 – PV Welcome Chat – Melanie Kong (Marian Emma Lee, P3 Hibiscus)](/files/cpc%20welcome%20chat%202021%20presentation.pdf)
