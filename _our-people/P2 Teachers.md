@@ -14,7 +14,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2"><br>P2 Daisy<br></td>
+    <td rowspan="2">P2 Daisy</td>
     <td>Form Teacher</td>
     <td>Mrs Joy Drysdale</td>
     <td>rodrigues_joy_ann-marie@moe.edu.sg</td>
