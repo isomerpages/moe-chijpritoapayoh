@@ -14,7 +14,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2"><br><br>P4 Daisy</td>
+    <td rowspan="2">P4 Daisy</td>
     <td>Form Teacher</td>
     <td>Mrs Evelyn Chee</td>
     <td>sng_meng_choo@moe.edu.sg</td>
