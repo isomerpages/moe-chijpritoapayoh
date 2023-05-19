@@ -12,19 +12,19 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/">MOE</a></td>
+    <td>Ministry Of Education (MOE)</td>
     <td><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/">https://www.moe.gov.sg/</a></td>
   </tr>
   <tr>
-    <td><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/primary/p1-registration">Please refer to the MOE website for the timeline and different phases of Primary 1 registration.</a><br><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/primary/p1-registration">Please take note that CHIJ Primary (Toa Payoh) does not host any in-school parallel programmes for the conduct of Non-Tamil Indian Languages</a><br><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/primary/p1-registration">(e.g. Bengali, Gujarati, Hindi, Punjabi or Urdu).</a><br></td>
+    <td>Please refer to the MOE website for the timeline and different phases of Primary 1 registration.<br><br>Please take note that CHIJ Primary (Toa Payoh) does not host any in-school<br>parallel programmes for the conduct of Non-Tamil Indian Languages<br>(e.g. Bengali, Gujarati, Hindi, Punjabi or Urdu).</td>
     <td><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/primary/p1-registration">https://www.moe.gov.sg/primary/p1-registration</a></td>
   </tr>
   <tr>
-    <td><a rel="noopener noreferrer" target="_blank" href="https://www.schoolbag.edu.sg/">School Bag (The Education News Site)</a></td>
+    <td>School Bag (The Education News Site)</td>
     <td><a rel="noopener noreferrer" target="_blank" href="https://www.schoolbag.edu.sg/">https://www.schoolbag.edu.sg/</a></td>
   </tr>
   <tr>
-    <td><a rel="noopener noreferrer" target="_blank" href="https://www.risenchrist.org.sg/">Church of the Risen Christ</a></td>
+    <td>Church of the Risen Christ</td>
     <td><a rel="noopener noreferrer" target="_blank" href="https://www.risenchrist.org.sg/">https://www.risenchrist.org.sg/</a></td>
   </tr>
 </tbody>
