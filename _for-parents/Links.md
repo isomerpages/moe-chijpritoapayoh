@@ -3,4 +3,29 @@ title: Links
 permalink: /for-parents/links/
 description: ""
 ---
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 332.85px;"><a href="https://www.moe.gov.sg/" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; outline: 0px; color: rgb(255, 208, 26);"><img class="wp-image-1031" src="/images/MOE.jpg" alt="http://www.moe.edu.sg/" width="100" height="115" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;">&nbsp;</a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 458.375px;">https://www.moe.gov.sg/</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 332.85px;"></td><td style="box-sizing: inherit; padding: 5px 10px; width: 458.375px;"></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 332.85px;"><a href="https://www.schoolbag.edu.sg/" target="_blank" rel="attachment noopener wp-att-4343 noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);"><img class="alignnone wp-image-4343 size-full" src="/images/school-bag-logo.jpg" alt="" width="150" height="57" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;">&nbsp;</a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 458.375px;">https://www.schoolbag.edu.sg/</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 332.85px;"></td><td style="box-sizing: inherit; padding: 5px 10px; width: 458.375px;"></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 332.85px;"><a href="http://www.risenchrist.org.sg/" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(241, 174, 22);">Church of the Risen Christ</a></td><td style="box-sizing: inherit; padding: 5px 10px; width: 458.375px;">https://www.risenchrist.org.sg/</td></tr></tbody></table>
+<table>
+<thead>
+  <tr>
+    <th>Information</th>
+    <th>Links</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/">MOE</a></td>
+    <td><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/">https://www.moe.gov.sg/</a></td>
+  </tr>
+  <tr>
+    <td><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/primary/p1-registration">Please refer to the MOE website for the timeline and different phases of Primary 1 registration.</a><br><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/primary/p1-registration">Please take note that CHIJ Primary (Toa Payoh) does not host any in-school parallel programmes for the conduct of Non-Tamil Indian Languages</a><br><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/primary/p1-registration">(e.g. Bengali, Gujarati, Hindi, Punjabi or Urdu).</a><br></td>
+    <td><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/primary/p1-registration">https://www.moe.gov.sg/primary/p1-registration</a></td>
+  </tr>
+  <tr>
+    <td><a rel="noopener noreferrer" target="_blank" href="https://www.schoolbag.edu.sg/">School Bag (The Education News Site)</a></td>
+    <td><a rel="noopener noreferrer" target="_blank" href="https://www.schoolbag.edu.sg/">https://www.schoolbag.edu.sg/</a></td>
+  </tr>
+  <tr>
+    <td><a rel="noopener noreferrer" target="_blank" href="https://www.risenchrist.org.sg/">Church of the Risen Christ</a></td>
+    <td><a rel="noopener noreferrer" target="_blank" href="https://www.risenchrist.org.sg/">https://www.risenchrist.org.sg/</a></td>
+  </tr>
+</tbody>
+</table>
