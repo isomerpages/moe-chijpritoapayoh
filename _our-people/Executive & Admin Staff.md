@@ -42,7 +42,7 @@ description: ""
     <td class="tg-zr06">yeo_xue_ni@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5"><span style="font-weight:bold">ICT Associate</span></td>
+    <td class="tg-dgl5"><span style="font-weight:bold">ICT Manager</span></td>
     <td class="tg-zr06">Miss Elizabeth Ng</td>
     <td class="tg-ktyi">ng_lay_ping_elizabeth@moe.edu.sg</td>
   </tr>
