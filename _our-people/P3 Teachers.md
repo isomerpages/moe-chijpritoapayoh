@@ -43,8 +43,8 @@ description: ""
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mrs Karen Ho</td>
-    <td>heng_wee_ling@moe.edu.sg</td>
+    <td>Ms Adele Seah</td>
+    <td></td>
   </tr>
   <tr>
     <td rowspan="2">P3 Lily</td>
