@@ -60,8 +60,8 @@ description: ""
   <tr>
     <td rowspan="2">P3 Orchid</td>
     <td>Form Teacher</td>
-    <td>Mrs Loretta Han</td>
-    <td>lee_siew_ling_loretta@moe.edu.sg</td>
+    <td>Mr Ronnie Lim</td>
+    <td>lim_wen_shien@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
