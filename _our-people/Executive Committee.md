@@ -42,8 +42,8 @@ description: ""
   </tr>
   <tr>
     <td>School Staff Developer</td>
-    <td>Mrs Veerarajoo Devika</td>
-    <td>veerarajoo_devika@moe.edu.sg</td>
+    <td>Mrs Stephanie Goh</td>
+    <td>stephanie_lim_mei_fong@moe.edu.sg</td>
   </tr>
   <tr>
     <th colspan="3">Heads Of Department</th>
