@@ -26,9 +26,9 @@ description: ""
     <th colspan="3">Year Heads and School Staff Developer</th>
   </tr>
   <tr>
-    <td>Lower Primary</td>
-    <td>Miss Jessica Ang</td>
-    <td>jessica_ang_boon_siong@moe.edu.sg</td>
+    <td>Lower Primary (Acting)</td>
+    <td>Mrs Angeline Chiew</td>
+    <td>angeline_ng_swee_kim@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Middle Primary</td>
