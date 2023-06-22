@@ -76,8 +76,8 @@ description: ""
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mdm Virginia Koh</td>
-    <td>koh_wah_mui@moe.edu.sg</td>
+    <td>Mrs Karen Ho</td>
+    <td>heng_wee_ling@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
