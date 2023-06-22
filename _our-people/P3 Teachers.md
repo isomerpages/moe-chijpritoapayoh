@@ -71,13 +71,13 @@ description: ""
   <tr>
     <td rowspan="2">P3 Rose</td>
     <td>Form Teacher</td>
-    <td>Ms Samantha Fong</td>
-    <td>fong_xiu_zhen@moe.edu.sg</td>
+    <td>Mr Ng Jun Kai</td>
+    <td>ng_jun_kai@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mr Ng Jun Kai</td>
-    <td>ng_jun_kai@moe.edu.sg</td>
+    <td>Mdm Virginia Koh</td>
+    <td>koh_wah_mui@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
