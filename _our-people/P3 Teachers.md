@@ -43,8 +43,8 @@ description: ""
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mrs Karen Ho</td>
-    <td>heng_wee_ling@moe.edu.sg</td>
+    <td>Ms Adele Seah</td>
+    <td></td>
   </tr>
   <tr>
     <td rowspan="2">P3 Lily</td>
@@ -60,8 +60,8 @@ description: ""
   <tr>
     <td rowspan="2">P3 Orchid</td>
     <td>Form Teacher</td>
-    <td>Mrs Loretta Han</td>
-    <td>lee_siew_ling_loretta@moe.edu.sg</td>
+    <td>Mr Ronnie Lim</td>
+    <td>lim_wen_shien@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
@@ -71,13 +71,13 @@ description: ""
   <tr>
     <td rowspan="2">P3 Rose</td>
     <td>Form Teacher</td>
-    <td>Ms Samantha Fong</td>
-    <td>fong_xiu_zhen@moe.edu.sg</td>
+    <td>Mr Ng Jun Kai</td>
+    <td>ng_jun_kai@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mr Ng Jun Kai</td>
-    <td>ng_jun_kai@moe.edu.sg</td>
+    <td>Mdm Virginia Koh</td>
+    <td>koh_wah_mui@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

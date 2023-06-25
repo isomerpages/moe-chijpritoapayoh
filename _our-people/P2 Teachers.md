@@ -87,8 +87,8 @@ description: ""
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Miss Jessica Ang</td>
-    <td>jessica_ang_boon_siong@moe.edu.sg</td>
+    <td>Mr Loh Yi Hui</td>
+    <td>Loh_Yi_Hui@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
