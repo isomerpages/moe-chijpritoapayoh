@@ -62,8 +62,7 @@ img {
 </style>  
 
 
-![](/images/cpc%20org%20chart%202023%20-%202.jpg)
-
+![](/images/cpc%20org%20chart%202023%20-%203.jpg)
 
 ### <u>Parent Volunteer Handbook:</u>
 
