@@ -60,13 +60,13 @@ description: ""
   <tr>
     <td rowspan="2">P3 Orchid</td>
     <td>Form Teacher</td>
-    <td>Mr Ronnie Lim</td>
-    <td>lim_wen_shien@moe.edu.sg</td>
+    <td>Miss Geraldine Koh</td>
+    <td>koh_yi_min_geraldine@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Miss Geraldine Koh</td>
-    <td>koh_yi_min_geraldine@moe.edu.sg</td>
+    <td>Mr Ronnie Lim</td>
+    <td>lim_wen_shien@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">P3 Rose</td>
