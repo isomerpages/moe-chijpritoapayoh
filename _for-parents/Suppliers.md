@@ -44,7 +44,7 @@ Tel: 6293 5840
 
 HP: 8638 0499
 
-###### (Please make a e-appointment on their website https://www.magdalene.com.sg/ before visiting their retail shop. Alternatively, the school bookshop will commence the sale of uniforms and PE attire from Feb 2022. However, due to limited stocks and sizes, please call to enquire before proceeding to the bookshop.)
+###### (Please make a e-appointment on their website [https://www.magdalene.com.sg/](https://www.magdalene.com.sg/) before visiting their retail shop. Alternatively, the school bookshop will commence the sale of uniforms and PE attire from Feb 2022. However, due to limited stocks and sizes, please call to enquire before proceeding to the bookshop.)
 
 ##### Singapore EduSmart Student Care Centre @ CHIJ Primary (Toa Payoh)
 
