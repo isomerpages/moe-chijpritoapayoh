@@ -73,6 +73,9 @@ Please click&nbsp;[here](/files/CPC-Parent-Handbook.pdf)&nbsp;to view the Parent
 
 ### **<u>CPC News Articles (2023)</u>**
 
+
+* [24082023 - Lower Primary Games 2023](/files/24082023%20-%20lower%20primary%20games%202023.pdf)
+
 * [25042023 - Easter Egg Hunt Writeup](/files/25042023%20-%20easter%20egg%20hunt%20writeup.pdf)
 
 * [25042023 - P1 and P5 Lifeskills Writeup](/files/25042023%20-%20p1%20and%20p5%20lifeskills%20writeup.pdf)
