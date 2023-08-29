@@ -24,7 +24,7 @@ Tel: 6282 0262
 
 Mobile: 9889 0262 (Ms Marie)
 
-All enquiries are to be make directly with the bus operator.
+All enquiries are to be made directly with the bus operator.
 
 [Bus Service Awarded for 2024 - 2025](/files/school%20bus%20awarded%202024%20to%202025.pdf)
 

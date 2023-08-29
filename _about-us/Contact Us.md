@@ -22,8 +22,8 @@ We would like to remind all parents and caregivers to report to the primary scho
 
 If parents or caregivers are waiting to pick up their daughters after lessons / CCA / supplementary classes, they are to wait at the canteen. Parents and caregivers are not allowed to enter the classroom blocks for the safety of our students.
 
-<u>Gates Opening Hours (Updated as at 24 June 2021)</u>
+<u>Gates Opening Hours (Updated as at 12 September 2023)</u>
 
-![Gate-Operating-Hours](/images/20210624-Gate-Operating-Hours.jpg)
+![Gate-Operating-Hours](/images/gate-operating-hours.jpg)
 
 [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSexc2l7hOc5hAYT2miLjd7fUOWaSQDYoCUiSkGHVoqRnLb6Yg/viewform?usp=sf_link "Feedback")
