@@ -98,7 +98,7 @@ description: ""
     <th colspan="2">Malay Language Department</th>
   </tr>
   <tr>
-    <td>Miss Azliana Abu Bakar</td>
+    <td>Ms Azliana Abu Bakar</td>
     <td>azliana_abu_bakar@moe.edu.sg</td>
   </tr>
   <tr>

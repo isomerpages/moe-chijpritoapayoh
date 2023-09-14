@@ -113,7 +113,7 @@ description: ""
   </tr>
   <tr>
     <td>SH Malay &amp; Tamil Language</td>
-    <td>MIss Azliana Abu Bakar</td>
+    <td>Ms Azliana Abu Bakar</td>
     <td>azliana_abu_bakar@moe.edu.sg</td>
   </tr>
   <tr>
