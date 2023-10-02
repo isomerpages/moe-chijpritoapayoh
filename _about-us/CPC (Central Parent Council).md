@@ -73,7 +73,7 @@ Please click&nbsp;[here](/files/CPC-Parent-Handbook.pdf)&nbsp;to view the Parent
 
 ### **<u>CPC News Articles (2023)</u>**
 
-
+* [29092023 - Dads For Life (Sept 2023)](/files/29092023%20-%20dads%20for%20life%20(sept%202023).pdf)
 * [24082023 - Lower Primary Games 2023](/files/24082023%20-%20lower%20primary%20games%202023.pdf)
 
 * [25042023 - Easter Egg Hunt Writeup](/files/25042023%20-%20easter%20egg%20hunt%20writeup.pdf)
