@@ -48,6 +48,8 @@ HP: 8638 0499
 
 ##### Singapore EduSmart Student Care Centre @ CHIJ Primary (Toa Payoh)
 
-Email: chijtp_sccadmin@singaporeedusmart.com.sg
+Email: chijtp_sccops@singaporeedusmart.edu.sg 
 
 Tel: 6258 5100
+
+HP: 9777 3768
