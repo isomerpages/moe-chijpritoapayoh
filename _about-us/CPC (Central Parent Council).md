@@ -66,7 +66,7 @@ img {
 
 ### <u>Parent Volunteer Handbook:</u>
 
-Please click&nbsp;[here](/files/CPC-Parent-Handbook.pdf)&nbsp;to view the Parent Volunteer Handbook.
+Please&nbsp;[click here](/files/pv%20handbook_2023.pdf)&nbsp;to view the Parent Volunteer Handbook.
 
 
 ### **[Pastoral Activities](/our-programmes/special-programme/faith-formation/)**
