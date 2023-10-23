@@ -18,7 +18,7 @@ description: ""
     <td>lim_boon_keong@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Allied Educators<br>(Teaching &amp; Learning)</td>
+    <td>Special Educational Needs Officer </td>
     <td>Ms Loh Ern Li Adeline</td>
     <td>loh_ern_li_adeline@moe.edu.sg</td>
   </tr>
