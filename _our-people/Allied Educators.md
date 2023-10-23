@@ -19,8 +19,8 @@ description: ""
   </tr>
   <tr>
     <td>Allied Educators<br>(Teaching &amp; Learning)</td>
-    <td>Mdm Helen Pai</td>
-    <td>pai_hung@moe.edu.sg</td>
+    <td>Ms Loh Ern Li Adeline</td>
+    <td>loh_ern_li_adeline@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Allied Educators<br>(Teaching &amp; Learning)</td>
