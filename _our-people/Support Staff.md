@@ -18,13 +18,13 @@ description: ""
 <thead>
   <tr>
     <th class="tg-l2bf">Desktop Engineer</th>
-    <td class="tg-1ppo" colspan="2">Miss Anitha Ramasamy</td>
+    <td class="tg-1ppo" colspan="2">Mr Umirzan Iqbal Bin Konzan</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <th class="tg-rs0e">Desktop Engineer</th>
-    <td class="tg-h5mn" colspan="2">Mr Umirzan Iqbal Bin Konzan</td>
+    <td class="tg-h5mn" colspan="2">Mr Muhammad Malique Ibrahim Bin Ahmad</td>
   </tr>
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">Teacher Assistant</span></td>
@@ -45,6 +45,10 @@ description: ""
   <tr>
     <td class="tg-l2bf"><span style="font-weight:bold">Printing Assistant</span></td>
     <td class="tg-1ppo" colspan="2">Mdm Linda Ooi</td>
+  </tr>
+	  <tr>
+    <td class="tg-rs0e"><span style="font-weight:bold">Librarian</span></td>
+    <td class="tg-h5mn" colspan="2">Ms Marie Lau Wai Quan</td>
   </tr>
 </tbody>
 </table>
