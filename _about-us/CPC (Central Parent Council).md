@@ -73,6 +73,7 @@ Please&nbsp;[click here](/files/pv%20handbook_2023.pdf)&nbsp;to view the Parent 
 
 ### **<u>CPC News Articles (2023)</u>**
 
+* [01112023 - Children’s day 2023](/files/01112023%20-%20children’s%20day%202023.pdf)
 * [29092023 - Dads For Life (Sept 2023)](/files/29092023%20-%20dads%20for%20life%20(sept%202023).pdf)
 * [24082023 - Lower Primary Games 2023](/files/24082023%20-%20lower%20primary%20games%202023.pdf)
 
