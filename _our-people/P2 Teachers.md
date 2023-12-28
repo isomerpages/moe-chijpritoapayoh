@@ -51,7 +51,7 @@ variant: markdown
     <td rowspan="2">P2 Lily</td>
     <td>Form Teacher</td>
     <td>Mdm Wendy Ong</td>
-    <td>@moe.edu.sg</td>
+    <td>Wendy_Lelia_Ong@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
