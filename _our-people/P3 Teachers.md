@@ -2,6 +2,7 @@
 title: P3 Teachers
 permalink: /our-people/p3-teachers/
 description: ""
+variant: markdown
 ---
 <table>
 <thead>
@@ -16,8 +17,19 @@ description: ""
   <tr>
     <td rowspan="2">P3 Daisy</td>
     <td>Form Teacher</td>
-    <td>Mrs Narin devi</td>
-    <td>sri_devi_subramaniam@moe.edu.sg</td>
+    <td>Miss Kavitha S</td>
+    <td>kavitha_sathiamurthi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Co-Form Teacher</td>
+    <td>Miss Christie Ng</td>
+   <td>christie_ng_cai_wen@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">P3 Hibiscus      </td>
+    <td>Form Teacher</td>
+    <td>Ms Adele Seah</td>
+    <td>Adele_Seah_Pei_Jia_A@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
@@ -25,43 +37,32 @@ description: ""
     <td>yeo_hup_teck@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">P3 Hibiscus      </td>
-    <td>Form Teacher</td>
-    <td>Mrs Pauline Soh</td>
-    <td>tan_gek_suan_pauline@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Co-Form Teacher</td>
-    <td>Mdm Yap Swee Sin</td>
-    <td>yap_swee_sin@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td rowspan="2">P3 Ixora</td>
     <td>Form Teacher</td>
-    <td>Mrs Janice Ong</td>
-    <td>janice_deng_cui_cui@moe.edu.sg</td>
+    <td>Mrs Josephine Chia</td>
+    <td>teow_meng_choo_josephine@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Ms Adele Seah</td>
-    <td></td>
+    <td>Mdm Lee Ching</td>
+    <td>lee_ching_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">P3 Lily</td>
     <td>Form Teacher</td>
-    <td>Mrs Brenda Chew</td>
-    <td>tan_geok_hong_brenda@moe.edu.sg</td>
+    <td>Ms Cindy Oo</td>
+    <td>oo_hui_min@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Miss Rajini Devi</td>
-    <td>rajini_devi_ram_rattan@moe.edu.sg</td>
+    <td>Ms Rohini</td>
+    <td>rohini_visva_nathan@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">P3 Orchid</td>
     <td>Form Teacher</td>
-    <td>Miss Geraldine Koh</td>
-    <td>koh_yi_min_geraldine@moe.edu.sg</td>
+    <td>Mrs Brenda Chew</td>
+    <td>tan_geok_hong_brenda@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
@@ -71,13 +72,13 @@ description: ""
   <tr>
     <td rowspan="2">P3 Rose</td>
     <td>Form Teacher</td>
-    <td>Mr Ng Jun Kai</td>
-    <td>ng_jun_kai@moe.edu.sg</td>
+    <td>Mrs Pauline Soh</td>
+    <td>tan_gek_suan_pauline@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mdm Virginia Koh</td>
-    <td>koh_wah_mui@moe.edu.sg</td>
+    <td>Miss Quek Xing Yi</td>
+    <td>Quek_Xing_Yi@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
