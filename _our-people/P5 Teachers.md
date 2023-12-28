@@ -77,8 +77,8 @@ variant: markdown
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mrs Veerarajoo Devika</td>
-    <td>veerarajoo_devika@moe.edu.sg</td>
+    <td>Mrs Veerarajoo Devika / Mrs Stephanie Goh</td>
+    <td>veerarajoo_devika@moe.edu.sg / stephanie_lim_mei_fong@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
