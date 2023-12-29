@@ -8,7 +8,7 @@ variant: markdown
 ### <u>Vision</u>
 
 
-Empowered Girls, Inclusive Community
+Empowered Girls, Effective Leaders
 
 ### <u>Mission</u>
 
