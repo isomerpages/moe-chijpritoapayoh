@@ -2,6 +2,7 @@
 title: Allied Educators
 permalink: /our-people/allied-educators/
 description: ""
+variant: markdown
 ---
 <table>
 <thead>
@@ -21,11 +22,6 @@ description: ""
     <td>Special Educational Needs Officer </td>
     <td>Ms Loh Ern Li Adeline</td>
     <td>loh_ern_li_adeline@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Allied Educators<br>(Teaching &amp; Learning)</td>
-    <td>Mdm Virginia Koh</td>
-    <td>koh_wah_mui@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

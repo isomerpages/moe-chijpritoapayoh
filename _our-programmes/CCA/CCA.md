@@ -3,6 +3,7 @@ title: CCA
 permalink: /our-programmes/cca/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 ### <u>Vision</u>
 
@@ -95,4 +96,5 @@ b.&nbsp;<u>Registration Process for Primary 3 Students</u>
 *   At the end of the CCA registration exercise, students will be allocated their CCAs based on the choices they have submitted.
 *   elections will be conducted by November to assess the suitability of the CCAs they have signed up for.
 
-[2023 CCA &amp; Enrichment Schedule](/files/20230628%20-%20cca%20schedule%202023.pdf)
+
+[2024 CCA &amp; Enrichment Schedule](/files/20231228___CCA_Schedule_2024.pdf)

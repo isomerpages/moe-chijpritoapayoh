@@ -2,6 +2,7 @@
 title: CPC (Central Parent Council)
 permalink: /about-us/cpc-central-parent-council/
 description: ""
+variant: markdown
 ---
 <img src="/images/CPC-Logo.jpg" style="width:25%">
 
@@ -61,8 +62,7 @@ img {
 }  
 </style>  
 
-
-![](/images/cpc%20org%20chart%202023%20-%203.jpg)
+![](/images/CPC_org_chart_2024.jpg)
 
 ### <u>Parent Volunteer Handbook:</u>
 

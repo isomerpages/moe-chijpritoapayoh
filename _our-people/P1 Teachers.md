@@ -2,6 +2,7 @@
 title: P1 Teachers
 permalink: /our-people/p1-teachers/
 description: ""
+variant: markdown
 ---
 <table>
 <thead>
@@ -16,79 +17,77 @@ description: ""
   <tr>
     <th rowspan="2">P1 Daisy
     </th><td>Form Teacher</td>
-    <td>Mrs Angelique Goh</td>
-    <td>woon_li_ying_angelique@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Co-Form Teacher</td>
-    <td>Mrs Mabel Yeo</td>
-    <td>goh_wei_lin_mabel@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <th rowspan="2">P1 Hibiscus
-    </th><td>Form Teacher</td>
-    <td>Miss Soh Yin Ting</td>
-    <td>soh_yin_ting@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Co-Form Teacher</td>
-    <td>Ms Rohini Visva Nathan</td>
-    <td>rohini_visva_nathan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <th rowspan="2">P1 Ixora
-    </th><td>Form Teacher</td>
-    <td>Mrs Rajes Niedu</td>
-    <td>rajoo_rajeswari@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Co-Form Teacher</td>
-    <td>Mrs Tan Chujie</td>
-    <td>tan_chujie@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <th rowspan="2">P1 Lily
-    </th><td>Form Teacher</td>
     <td>Ms Shirley Ang</td>
     <td>ang_ching_ching_shirley@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mdm Tang Li</td>
-    <td>tang_li@moe.edu.sg</td>
+    <td>Ms Hong Xiaoqin</td>
+    <td>hong_xiaoqin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <th rowspan="2">P1 Hibiscus
+    </th><td>Form Teacher</td>
+    <td>Mrs Regina Begum</td>
+    <td>soh_yin_ting@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Co-Form Teacher</td>
+    <td>Mdm Peh Sok Hong</td>
+    <td>peh_sok_hong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <th rowspan="2">P1 Ixora
+    </th><td>Form Teacher</td>
+    <td>Mrs Selvi Sundar</td>
+    <td>thamilselvi_letchumanan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Co-Form Teacher</td>
+    <td>Dr Dong Yaru</td>
+    <td>dong_yaru@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <th rowspan="2">P1 Lily
+    </th><td>Form Teacher</td>
+    <td>Mrs Angelique Goh</td>
+    <td>woon_li_ying_angelique@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Co-Form Teacher</td>
+    <td>Mdm Charlotte Ngew</td>
+    <td>ngew_shu_shin@moe.edu.sg</td>
   </tr>
   <tr>
     <th rowspan="2">P1 Orchid
     </th><td>Form Teacher</td>
-    <td>Miss Brenda Liu</td>
-    <td>liu_congling@moe.edu.sg</td>
+    <td>Mrs Elaine Toh</td>
+<td>chong_mei_lin_elaine@moe.edu.sg</td>
+  </tr>
+    <tr><td>Co-Form Teacher</td>
+    <td>Mrs Angeline Chiew / Mdm Anpazhaki</td>
+    <td>angeline_ng_swee_kim@moe.edu.sg / anpazhaki_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Co-Form Teacher</td>
-    <td>Mdm Huang Qiuqin</td>
-    <td>huang_qiuqin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <th rowspan="2">P1 Rose
+	   <th rowspan="2">P1 Rose
     </th><td>Form Teacher</td>
-    <td>Ms Cindy Oo</td>
-    <td>oo_hui_min@moe.edu.sg</td>
+    <td>Mrs Jasmine Ho</td>
+<td>lau_li_hsiang_jasmine@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Co-Form Teacher</td>
-    <td>Miss Nina Mark</td>
-    <td>mark_pei_lai_nina@moe.edu.sg</td>
+    <tr><td>Co-Form Teacher</td>
+    <td>Mrs Tan Chujie</td>
+    <td>tan_chujie@moe.edu.sg</td>
   </tr>
   <tr>
     <th rowspan="2">P1 Violet
     </th><td>Form Teacher</td>
-    <td>Miss Yeo Bee Leng</td>
-    <td>yeo_bee_leng@moe.edu.sg</td>
+    <td>Mrs Joy Drysdale</td>
+    <td>rodrigues_joy_ann-marie@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mdm Jiang Lina</td>
-    <td>jiang_lina@moe.edu.sg</td>
+    <td>Mdm Low Chiou Miin</td>
+    <td>low_chiou_miin@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

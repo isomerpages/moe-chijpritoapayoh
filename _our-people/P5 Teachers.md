@@ -2,6 +2,7 @@
 title: P5 Teachers
 permalink: /our-people/p5-teachers/
 description: ""
+variant: markdown
 ---
 <table>
 <thead>
@@ -16,30 +17,41 @@ description: ""
   <tr>
     <td rowspan="2">P5 Daisy</td>
     <td>Form Teacher</td>
-    <td>Mrs Lynette Ng</td>
-    <td>chan_heng_jing_lynette@moe.edu.sg</td>
+    <td>Mr Justin Yeo</td>
+    <td>justin_yeo_tian_wei@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Ms Nur Arafah</td>
-    <td>nur_arafah@moe.edu.sg</td>
+    <td>Ms Azliana</td>
+    <td>azliana_abu_bakar@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">P5 Hibiscus      </td>
     <td>Form Teacher</td>
-    <td>Mrs Denise Tan</td>
-    <td>lit_lei_kim_denise@moe.edu.sg</td>
+    <td>Ms Joey Tang</td>
+    <td>@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mr Jumaeen</td>
-    <td>mohammed_jumaeen_amat_kamsin@moe.edu.sg</td>
+    <td>Ms Chandra Bavani</td>
+    <td>chandraselven_bavani@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">P5 Ixora</td>
     <td>Form Teacher</td>
-    <td>Mrs Sathia</td>
-    <td>sathiabhavani_subramaniya_pilli@moe.edu.sg</td>
+    <td>Mrs Jennifer Kwek</td>
+    <td>goh_ai_gek@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Co-Form Teacher</td>
+    <td>Mr Loh Yi Hui</td>
+    <td>Loh_Yi_Hui@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">P5 Lily</td>
+    <td>Form Teacher</td>
+    <td>Ms Charmaine Chu</td>
+    <td>chu_see_min_charmaine@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
@@ -47,37 +59,26 @@ description: ""
     <td>tan_hsien_yang_brendan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">P5 Lily</td>
-    <td>Form Teacher</td>
-    <td>Miss Andrea Ni</td>
-    <td>ni_qiaoxian_andrea@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Co-Form Teacher</td>
-    <td>Mdm Anpazhaki D/O M Nagarethinam</td>
-    <td>anpazhaki_a@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td rowspan="2">P5 Orchid</td>
     <td>Form Teacher</td>
-    <td>Ms Charmaine Chu</td>
-    <td>chu_see_min_charmaine@moe.edu.sg</td>
+    <td>Mrs Denise Tan</td>
+    <td>lit_lei_kim_denise@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Ms Elsa Ang</td>
-    <td>elsa_ang@moe.edu.sg</td>
+    <td>Mr Joserve Teo</td>
+    <td>@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">P5 Rose</td>
     <td>Form Teacher</td>
-    <td>Mr Low Hock Siang</td>
-    <td>low_hock_siang@moe.edu.sg</td>
+    <td>Miss Patricia Lim</td>
+    <td>lim_poh_choo_patricia@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
-    <td>Mdm Peh Sok Hong</td>
-    <td>peh_sok_hong@moe.edu.sg</td>
+    <td>Mrs Veerarajoo Devika / Mrs Stephanie Goh</td>
+    <td>veerarajoo_devika@moe.edu.sg / stephanie_lim_mei_fong@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
