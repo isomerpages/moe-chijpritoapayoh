@@ -2,5 +2,6 @@
 title: Our Board
 permalink: /about-us/our-board/
 description: ""
+variant: tiptap
 ---
-![](/images/20230830%20-%20ij%20bom%20members%20photo%20chart.jpg)
+<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240102___IJ_BOM_Members_Photo_Chart.jpg"></div><p></p>
