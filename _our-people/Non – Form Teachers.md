@@ -2,35 +2,6 @@
 title: Non – Form Teachers
 permalink: /our-people/non-ft/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Email Address</th>
-    <th>Subject/s</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Mrs Dorothy Tan</td>
-    <td>tan_kok_thye@moe.edu.sg</td>
-    <td>Mathematics</td>
-  </tr>
-  <tr>
-    <td>Mrs Gail Siow</td> <td>gabriel_antoinettene_stravens@moe.edu.sg</td>
-    <td>English Language &amp; Social Studies</td>
-  </tr>
-  <tr>
-    <td>Mrs Koh Mei Yin</td>
-    <td>liew_mei_yin@moe.edu.sg</td>
-    <td>Mathematics</td>
-  </tr>
-  <tr>
-    <td>Mr Ronnie Lim</td>
-    <td>lim_wen_shien@moe.edu.sg</td>
-    <td>Physical Education</td>
-  </tr>
-</tbody>
-</table>
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Email Address</p></th><th rowspan="1" colspan="1"><p>Subject/s</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Arielle Liew Soo Eng</p></td><td rowspan="1" colspan="1"><p>arielle_liew_soo_eng@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Chua Lay Kim</p></td><td rowspan="1" colspan="1"><p>chua_lay_kim_a_1@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Dorothy Tan</p></td><td rowspan="1" colspan="1"><p>tan_kok_thye@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Gail Siow</p></td><td rowspan="1" colspan="1"><p>gabriel_antoinettene_stravens@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>English Language &amp; Social Studies</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ho Sheen Yee</p></td><td rowspan="1" colspan="1"><p>ho_sheen_yee@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Jenny Ong</p></td><td rowspan="1" colspan="1"><p>lim_wen_shien@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>English Language</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Joanne Teo</p></td><td rowspan="1" colspan="1"><p>ong_shuyi_joanne@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Mathematics and Science</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Koh Mei Yin</p></td><td rowspan="1" colspan="1"><p>liew_mei_yin@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Koh Kai Jun</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr></tbody></table><p></p>
