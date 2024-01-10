@@ -1,5 +1,5 @@
 ---
-title: Character and Citizenship Education (CCE) Department Vision
+title: Character and Citizenship Education (CCE) Department
 permalink: /our-programmes/departments/character-and-citizenship-education-cce-department/
 description: ""
 third_nav_title: Departments
