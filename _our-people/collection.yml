@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Awards and Accolades.md
       - Executive Committee.md
       - P1 Teachers.md
       - P2 Teachers.md
