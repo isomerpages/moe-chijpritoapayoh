@@ -29,7 +29,7 @@ variant: markdown
     <th rowspan="2">P1 Hibiscus
     </th><td>Form Teacher</td>
     <td>Mrs Regina Begum</td>
-    <td>soh_yin_ting@moe.edu.sg</td>
+    <td>regina_begum_mohamed_ayoob@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Co-Form Teacher</td>
