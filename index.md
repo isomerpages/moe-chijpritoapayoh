@@ -7,7 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/20240115___Carousel.gif
+      background: /images/20240115___Hero_Banner.gif
+      variant: image
   - infopic:
       title: History
       description: In the year 1662, a Minim priest, Father Nicolas Barré saw...
