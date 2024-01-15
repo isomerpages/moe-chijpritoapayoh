@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/chijtoapayoh.gif
+      background: /images/20240115___Carousel.gif
   - infopic:
       title: History
       description: In the year 1662, a Minim priest, Father Nicolas Barré saw...
