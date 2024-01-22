@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/20240116___Hero_Banner_2.gif
+      background: /images/20240122___Hero_Banner_1.gif
       variant: image
   - infopic:
       title: History
