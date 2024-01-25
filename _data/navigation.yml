@@ -1,0 +1,12 @@
+logo: /images/2023 school logo banner - 4.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our People
+    collection: our-people
+  - title: Our Programmes
+    collection: our-programmes
+  - title: For Parents
+    collection: for-parents
+  - title: Contact Us
+    url: /about-us/contact-us/

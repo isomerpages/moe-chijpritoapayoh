@@ -1,0 +1,39 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - Departments/.keep
+      - Departments/English.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Mother Tongue.md
+      - Departments/Physical Education.md
+      - Departments/Aesthetics.md
+      - Departments/Character and Citizenship Education (CCE) Department.md
+      - Departments/Information Technology.md
+      - Special Programmes/.keep
+      - Special Programmes/Faith Formation.md
+      - Special Programmes/Performing Arts.md
+      - Special Programmes/Sports.md
+      - Special Programmes/Student Leadership.md
+      - CCA/.keep
+      - CCA/CCA.md
+      - CCA/Athletics.md
+      - CCA/Artistic Gymnastics.md
+      - CCA/Fencing.md
+      - CCA/Netball.md
+      - CCA/IJ Sports & Stars (P3 Sports Fun Module are subsumed under IJ Sports
+        & Stars).md
+      - CCA/Swimming.md
+      - CCA/Tennis.md
+      - CCA/Brownies.md
+      - CCA/Art Club.md
+      - CCA/Choir.md
+      - CCA/Cultural Dance.md
+      - CCA/Modern Dance.md
+      - CCA/Handbells Ensemble.md
+      - CCA/Theatre Academy.md
+      - CCA/Ballet (Enrichment).md
+      - CCA/Green Club.md
+      - CCA/International Chess.md
+      - CCA/Media & Photography.md
