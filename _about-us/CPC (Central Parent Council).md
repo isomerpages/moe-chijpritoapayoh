@@ -39,8 +39,9 @@ of our girls.</p>
 </div>
 <p>or email CPC at&nbsp;<a href="mailto:chijpri.cpc@gmail.com" rel="noopener noreferrer nofollow" target="_blank">chijpri.cpc@gmail.com</a>
 </p>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPC_org_chart_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPC_Org_Chart_for_Sch_Website.png">
 </div>
 <h3><u>Parent Volunteer Handbook:</u></h3>
 <p>Please&nbsp;<a href="/files/pv%20handbook_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;to
