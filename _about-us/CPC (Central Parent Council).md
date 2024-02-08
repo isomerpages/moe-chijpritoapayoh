@@ -27,7 +27,8 @@ represented by a blue ribbon, to form a complete heart, emphasizing the
 important&nbsp; influence of both family and school on the holistic development
 of our girls.</p>
 <p></p>
-<p>Please click here for the CPC Welcome Letter 2024</p>
+<p><a href="/files/CPC_welcome_letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Please click here for the CPC Welcome Letter 2024</a>
+</p>
 <p>To be on the Parents Mailing List For School activities, please visit:</p>
 <p><a href="https://form.gov.sg/634e95ebd25d7f0012f3d1f4" rel="noopener noreferrer nofollow" target="_blank">Please click here to sign up</a>
 </p>
@@ -38,8 +39,9 @@ of our girls.</p>
 </div>
 <p>or email CPC at&nbsp;<a href="mailto:chijpri.cpc@gmail.com" rel="noopener noreferrer nofollow" target="_blank">chijpri.cpc@gmail.com</a>
 </p>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPC_org_chart_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPC_Org_Chart_for_Sch_Website.png">
 </div>
 <h3><u>Parent Volunteer Handbook:</u></h3>
 <p>Please&nbsp;<a href="/files/pv%20handbook_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;to
