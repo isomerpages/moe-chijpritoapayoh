@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Ballet (Enrichment).md
       - Awards and Accolades.md
       - folder-page.md
       - example-subfolder/.keep
