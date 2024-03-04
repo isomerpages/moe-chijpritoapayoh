@@ -2,7 +2,6 @@
 title: Ballet (Enrichment)
 permalink: /our-programmes/cca/ballet-enrichment/
 description: ""
-third_nav_title: CCA
 ---
 Ballet improves posture, builds muscle and agility, improves flexibility, improves co-ordination, improves learning ability, improves balance and stimulates creativity.
 
