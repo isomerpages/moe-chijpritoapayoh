@@ -39,7 +39,7 @@ variant: tiptap
 <p>Ms Lee Lai Cher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_lai_cher@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -143,4 +143,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="mailto:lee_lai_cher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lai_cher@moe.edu.sg</a>
+</p>
