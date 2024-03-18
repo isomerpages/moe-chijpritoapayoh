@@ -51,6 +51,10 @@ view the Parent Volunteer Handbook.</p>
 <h3><strong><u>CPC News Articles (2024)</u></strong></h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/LifeSkills_2.pdf" rel="noopener noreferrer nofollow" target="_blank">14032024 - Lifeskills</a>
+</p>
+</li>
+<li>
 <p><a href="/files/20240126___CPC_Jan_Welcome_Bfast.pdf" rel="noopener noreferrer nofollow" target="_blank">26012024 - CPC Jan Welcome Breakfast</a>
 </p>
 </li>
