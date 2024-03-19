@@ -44,7 +44,7 @@ of our girls.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPC_Org_Chart_for_Sch_Website.png">
 </div>
 <h3><u>Parent Volunteer Handbook:</u></h3>
-<p>Please&nbsp;<a href="/files/pv%20handbook_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;to
+<p>Please&nbsp;<a href="/files/PVhandbook24_1a.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;to
 view the Parent Volunteer Handbook.</p>
 <h3><strong><a href="/our-programmes/special-programme/faith-formation/" rel="noopener noreferrer nofollow" target="_blank">Pastoral Activities</a></strong></h3>
 <p></p>
