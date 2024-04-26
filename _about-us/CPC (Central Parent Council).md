@@ -51,6 +51,10 @@ view the Parent Volunteer Handbook.</p>
 <h3><strong><u>CPC News Articles (2024)</u></strong></h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/20240425___Easter_Play_and_Easter_Egg__write_ups__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">25042024 - Easter Play and Easter Egg</a>
+</p>
+</li>
+<li>
 <p><a href="/files/LifeSkills_2.pdf" rel="noopener noreferrer nofollow" target="_blank">14032024 - Lifeskills</a>
 </p>
 </li>
