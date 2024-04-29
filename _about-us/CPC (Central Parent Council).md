@@ -51,7 +51,11 @@ view the Parent Volunteer Handbook.</p>
 <h3><strong><u>CPC News Articles (2024)</u></strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/20240425___Easter_Play_and_Easter_Egg__write_ups__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">25042024 - Easter Play and Easter Egg</a>
+<p><a href="/files/20240425___Easter_Play_write_ups__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">25042024 - Easter Play</a>
+</p>
+</li>
+<li>
+<p><a href="/files/20240425___Easter_Egg__write_ups__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">25042024 - Easter Egg Hunt</a>
 </p>
 </li>
 <li>
