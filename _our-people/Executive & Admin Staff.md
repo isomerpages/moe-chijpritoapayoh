@@ -4,7 +4,12 @@ permalink: /our-people/executive-and-admin-staff/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -139,6 +144,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Kong Wai Kean</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm Susan Pek</p>
 </td>
 </tr>
 </tbody>
