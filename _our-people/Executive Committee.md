@@ -4,7 +4,12 @@ permalink: /our-people/executive-committee/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -261,7 +266,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Character &amp; Citizen Education</p>
+<p>SH Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lui Zi Hui</p>
