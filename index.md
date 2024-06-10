@@ -18,18 +18,21 @@ sections:
       alt: History of CHIJ
   - infopic:
       title: Events
-      description: Look ahead at what's happening in the school calendar
+      description: 2024 was a very special year for us as CHIJ celebrated its 170th
+        anniversary.
       button: Read More
       url: /events/
-      image: /images/events.png
+      image: /images/events4.jpg
       alt: Sports Day
   - infopic:
       title: Faith Formation
-      description: 2021 was a very special year for us as we celebrated the 400th year
-        of our Founder, Blessed Nicolas Barre's birth. As part of our Founder's
-        Day Project...
+      description: >-
+        At CHIJ Primary School, we believe that education extends beyond
+        textbooks and
+
+        classrooms...
       button: Find Out More
       url: /our-programmes/special-programme/faith-formation/
-      image: /images/faith formation.png
+      image: /images/events2.jpg
       alt: Faith Formation
 ---
