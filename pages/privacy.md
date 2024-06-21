@@ -4,4 +4,3 @@ permalink: /privacy/
 variant: markdown
 ---
 ### **Coming soon...**
-
