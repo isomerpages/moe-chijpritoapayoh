@@ -319,58 +319,64 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>International Chess</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Tang Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tang_li@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Charlotte Ngew</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Media &amp; Photography Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Cindy Oo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>oo_hui_min@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Angelique Goh
+<br>Mrs Tan Chujie (Adviser)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Gary Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>khoo_wei_hong_gary@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Jumaeen (2IC)
+<br>Ms Samantha Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Arafah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_arafah@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Justin Yeo (2IC)
+<br>Ms Low ChiouMiin (2IC)
+<br>Mdm Anpa
+<br>Ms Christie Ng
+<br>Mrs Kian Lan Gosian (Adviser)</p>
 </td>
 </tr>
 <tr>
