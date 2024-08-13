@@ -373,7 +373,7 @@ third_nav_title: CCA
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Justin Yeo (2IC)
-<br>Ms Low ChiouMiin (2IC)
+<br>Ms Low Chiou Miin (2IC)
 <br>Mdm Anpa
 <br>Ms Christie Ng
 <br>Mrs Kian Lan Gosian (Adviser)</p>
