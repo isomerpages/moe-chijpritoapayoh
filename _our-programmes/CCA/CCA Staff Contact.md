@@ -368,3 +368,93 @@ third_nav_title: CCA
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Enrichment Activities (Sign-Up in January)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Active Youth
+<br>(P1 -P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gary Khoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khoo_wei_hong_gary_@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kian Gosian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fun Gym
+<br>(P1 - P3 only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Huang Qiu Qin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>huang_qiuqin@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kian Gosian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tennis Bounce
+<br>(P1 - P3 only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ronnie Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_wen_shien@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kian Gosian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports Modules
+<br>(P3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Jun Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_jun)kai_@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kian Gosian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Speech &amp; Drama (P1 - P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tang Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_li@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Christie Ng</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
