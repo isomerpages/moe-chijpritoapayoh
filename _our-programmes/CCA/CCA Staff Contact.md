@@ -258,58 +258,63 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Green Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Loh Yi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>loh_yi_hui@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Pauline Soh
+<br>Ms Jeannette Tan (Adviser)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gymnastics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Elaine Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chong_mei_lin_elaine@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Joserve Teo (2IC)
+<br>Ms Adele Seah
+<br>Ms Charmaine Ng
+<br>Ms Kavitha
+<br>Mrs Mabel Yeo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gymnastics Recreaction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nur Linda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nur_linda_halek@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Kian Lan Gosian (Adviser)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Handbells Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nina Mark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mark_pei_lai_nina@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Dong Yaru</p>
 </td>
 </tr>
 </tbody>
