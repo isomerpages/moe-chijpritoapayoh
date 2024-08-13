@@ -226,30 +226,34 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance Club</p>
+<p>Dance Club
+<br>(Modern &amp; Cultural)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Quek Xing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>quek_xing_yi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Jiang Lina (2IC)
+<br>Mrs Veera
+<br>Ms Sathia
+<br>Ms Geraldine Koh (Adviser)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Fencing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Brenda Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_geok_hong_brenda@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Evelyn Chee</p>
 </td>
 </tr>
 <tr>
