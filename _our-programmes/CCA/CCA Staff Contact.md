@@ -381,55 +381,55 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tennis Recreation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Hong Xiao Qin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>hong_xiaoqin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Hong Xiao Qin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Theatre Academy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Andrea Ni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ni_qiaoxian)andrea@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Rajeswari Niedu</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Swimming Recreation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Selvi Sundar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>thamilselvi_letchumanan@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kian Lan Gosian (Adviser)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Swimming Competitive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Brenda Liu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liu_congling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
