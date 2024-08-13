@@ -417,8 +417,9 @@ third_nav_title: CCA
 <td rowspan="1" colspan="1">
 <p>thamilselvi_letchumanan@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mrs Kian Lan Gosian (Adviser)</p>
+<td rowspan="2" colspan="1">
+<p>
+<br>Mrs Kian Lan Gosian (Adviser)</p>
 </td>
 </tr>
 <tr>
@@ -430,6 +431,17 @@ third_nav_title: CCA
 </td>
 <td rowspan="1" colspan="1">
 <p>liu_congling@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
