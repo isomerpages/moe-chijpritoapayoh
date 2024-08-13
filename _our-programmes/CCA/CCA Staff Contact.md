@@ -435,7 +435,7 @@ third_nav_title: CCA
 <p>Mr Ng Jun Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_jun)kai_@moe.edu.sg</p>
+<p>ng_jun_kai@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kian Gosian</p>
