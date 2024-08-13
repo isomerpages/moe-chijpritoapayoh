@@ -177,8 +177,8 @@ third_nav_title: CCA
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rohini (2IC)
-<br>Mrs Denise Tan
-<br>Mrs Kian Lan Gosian (2IC)</p>
+<br>Mrs Kian Lan Gosian (2IC)
+<br>Mrs Denise Tan</p>
 </td>
 </tr>
 <tr>
@@ -197,35 +197,36 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Devi Narin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sri_devi_subramaniam@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Soh Yin Ting (2IC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Joyce Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>joyce_ang_bee_gaik@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Bee Leng (2IC)
+<br>Ms Chia Yen Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
