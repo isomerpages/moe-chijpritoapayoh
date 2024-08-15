@@ -165,7 +165,7 @@ third_nav_title: CCA
 <p>Mrs Veera</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>veerarajoo_devika@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -182,7 +182,9 @@ third_nav_title: CCA
 <p>tan_geok_hong_brenda@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Evelyn Chee</p>
+<p>Mrs Evelyn Chee
+<br>
+</p>
 </td>
 </tr>
 <tr>
