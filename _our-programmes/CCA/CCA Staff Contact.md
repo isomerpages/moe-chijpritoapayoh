@@ -222,7 +222,7 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gymnastics Recreaction</p>
+<p>Gymnastics Recreation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Linda</p>
