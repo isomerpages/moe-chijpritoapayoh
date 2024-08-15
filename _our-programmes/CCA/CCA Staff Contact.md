@@ -144,8 +144,7 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance Club
-<br>(Modern &amp; Cultural)</p>
+<p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Quek Xing Yi</p>
@@ -155,9 +154,21 @@ third_nav_title: CCA
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jiang Lina (2IC)
-<br>Mrs Veera
-<br>Ms Sathia
-<br>Ms Geraldine Koh (Adviser)</p>
+<br>Mrs Lynette Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cultural Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Veera</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
