@@ -173,22 +173,6 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fencing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Brenda Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_geok_hong_brenda@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Evelyn Chee
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Green Club</p>
 </td>
 <td rowspan="1" colspan="1">
