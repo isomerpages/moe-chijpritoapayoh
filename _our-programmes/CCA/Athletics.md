@@ -42,11 +42,19 @@ and developing their fitness.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Teachers-in-charge</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Teachers-in-charge</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Email</h4>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -78,6 +86,14 @@ and developing their fitness.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lit_lei_kim_denise@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
