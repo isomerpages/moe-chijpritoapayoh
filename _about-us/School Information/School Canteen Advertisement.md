@@ -5,12 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: School Information
 ---
-<p>School Canteen Advertisement</p>
+<h4>School Canteen Advertisement</h4>
 <p>Type of Stall Status Requirements</p>
 <p>Chinese noodle stall open please contact us for details</p>
 <p>Malay stall selling halal noodles or rice dishes open please contact us
 for details</p>
-<p>Application Procedure</p>
+<p><a href="/files/Canteen_appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Procedure</a>
+</p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
 <p>• Application Form</p>
