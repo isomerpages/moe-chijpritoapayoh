@@ -2,12 +2,13 @@
 title: Suppliers
 permalink: /for-parents/information-for-parents/
 description: ""
+variant: markdown
 ---
 ##### School Bookshop
 
 Pacific Book Pte Ltd
 
-Tel: 6258 3326
+Tel: 90480462
 
 **(The bookshop is available for walk-in from 11.45am to 1pm on the first Wednesday of each month, and if the first Wednesday falls on a Public Holiday, then the bookshop will be open on the 2nd Wednesday of that month.)**
 
@@ -30,7 +31,7 @@ All enquiries are to be made directly with the bus operator.
 
 ##### School Dental Clinic
 
-Tel: 6259 1473
+Tel: 87647307
 
 ###### (As the dental nurse is roving between cluster schools, please call to make appointment before coming down for dental trauma, facial / gum swelling or toothache.  For emergencies, you may contact the School Dental Center at 64353782 for assistance.)
 
