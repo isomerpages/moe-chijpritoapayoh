@@ -4,7 +4,13 @@ permalink: /our-people/p4-teachers/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -114,10 +120,14 @@ variant: tiptap
 <p>Co-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rajini Devi</p>
+<p>Ms Rajini Devi
+<br>
+<br>Mrs Kian Lan Gosian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rajini_devi_ram_rattan@moe.edu.sg</p>
+<p></p>
+<p>quek_kian_lan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
