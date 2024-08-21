@@ -44,7 +44,8 @@ Singapore Food Agency (SFA).</p>
 <p>Shortlisted applicants will be notified for an interview and will be required
 to provide food sampling for the School Canteen Selection Committee at
 the applicant’s own expense.</p>
-<p>School Address</p>
+<p><strong>School Address</strong>
+</p>
 <p>• Address: 628 Lor 1 Toa Payoh, Singapore 319765</p>
 <p>• Contact No: 6353 2164</p>
 <p>• Email: <a href="mailto:seng_liat_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_liat_heng@moe.edu.sg</a>
