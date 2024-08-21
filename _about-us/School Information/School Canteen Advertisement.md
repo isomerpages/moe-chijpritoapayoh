@@ -10,11 +10,12 @@ third_nav_title: School Information
 <p>Chinese noodle stall open please contact us for details</p>
 <p>Malay stall selling halal noodles or rice dishes open please contact us
 for details</p>
-<p><a href="/files/Canteen_appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Procedure</a>
+<p><strong>Application Procedure</strong>
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p>• Application Form</p>
+<p>• <a href="/files/Canteen_appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+</p>
 <p>2. Attached the following documents together with the application form:</p>
 <p>• Photocopy of the NRIC (front and back)</p>
 <p>• List of proposed menu and pricing for all items</p>
@@ -22,7 +23,8 @@ a hardcopy from the School’s General Office.</p>
 etc</p>
 <p>3. Submit the completed application form and documents by closing date
 via email OR to the School’s General Office.</p>
-<p>Interest applicants must meet the following criteria:</p>
+<p><strong>Interest applicants must meet the following criteria:</strong>
+</p>
 <p>• Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
 and stall assistant.</p>
 <p>• Able to provide good service and quality food with prices determined
@@ -32,7 +34,8 @@ set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
 Programme (HMSP)” guidelines (see link).</p>
 <p>• Able to maintain high standard of food safety and personal hygiene.</p>
 <p>• Healthy and fit to operate the stall.</p>
-<p>Applicants should preferably fulfil the following criteria:</p>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
+</p>
 <p>• Successful applicant and stall assistant(s) must possess the WSQ Basic
 Food Hygiene Certificate.</p>
 <p>• Possess catering experience or experience operating in a school environment.</p>
@@ -47,7 +50,8 @@ the applicant’s own expense.</p>
 <p>• Email: <a href="mailto:seng_liat_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_liat_heng@moe.edu.sg</a>
 </p>
 <p>• Contact Person: Mr Joel Seng (Operations Manager)</p>
-<p>How to get there?</p>
+<p><strong>How to get there?</strong>
+</p>
 <p>• Nearest MRT: Toa Payoh MRT</p>
 <p>• Bus number: 231, 59, 141</p>
 <p></p>
