@@ -198,6 +198,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nazurah Bte Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nazurah_ibrahim_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Nur Arafah</p>
 </td>
 <td rowspan="1" colspan="1">
