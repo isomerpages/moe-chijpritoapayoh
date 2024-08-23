@@ -35,6 +35,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Balvin Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kaur_balvin_betermarjit_s@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language &amp; Social Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Chua Lay Kim</p>
 </td>
 <td rowspan="1" colspan="1">
