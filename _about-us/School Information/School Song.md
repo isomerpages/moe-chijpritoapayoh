@@ -3,20 +3,18 @@ title: School Song
 permalink: /about-us/school-information/school-song/
 description: ""
 third_nav_title: School Information
-variant: markdown
+variant: tiptap
 ---
-Forward CHIJ forge a future bright  
-Advancing our aims with zeal and might  
-Guide us in our studies, O Lord we pray  
-Wisdom, courage and charity  
-Strengthen in us each day
-Solidly united in our motto sound  
-Simple in virtue, strong in duty bound
-
-Loyal to our isle we will ever be  
-Defending and serving our country  
-Noble in ambition, thought, word and deed  
-Rally round CHIJ, we will strive to succeed
-
-Solidly united in our motto sound  
-Simple in virtue, strong in duty bound
+<p>Forward CHIJ forge a future bright
+<br>Advancing our aims with zeal and might
+<br>Guide us in our studies, O Lord we pray
+<br>Wisdom, courage and charity
+<br>Strengthen in us each day
+<br>Solidly united in our motto sound
+<br>Simple in virtue, strong in duty bound</p>
+<p>Loyal to our isle we will ever be
+<br>Defending and serving our country
+<br>Noble in ambition, thought, word and deed
+<br>Rally round CHIJ, we will strive to succeed</p>
+<p>Solidly united in our motto sound
+<br>Simple in virtue, strong in duty bound</p>
