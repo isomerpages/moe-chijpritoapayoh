@@ -25,3 +25,9 @@ more information</p>
 <br>628 Lorong 1 Toa Payoh Singapore 319765
 <br>Email: chijtp_sccops@singaporeedusmart.edu.sg
 <br>Tel: 9777 3768</p>
+<p><strong>2025 Primary 1 SCC Registration of Interest</strong>
+<br>Kindly click on the link below to submit your interest for SCC services
+in 2025.
+<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSc_hypD46uRvd4xP-K0evpjRM1i-s0I0G0YfWnKrPiU8_rHlQ/viewform?usp=pp_url" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSc_hypD46uRvd4xP-K0evpjRM1i-s0I0G0YfWnKrPiU8_rHlQ/viewform?usp=pp_url</a>
+</p>
+<p></p>
