@@ -57,17 +57,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Dorothy Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_kok_thye@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Gail Siow</p>
 </td>
 <td rowspan="1" colspan="1">
