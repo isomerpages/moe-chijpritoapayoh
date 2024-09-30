@@ -134,7 +134,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Miss Peh Poh Geok</p>
+<p>Mr Kong Wai Kean</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +143,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Kong Wai Kean</p>
+<p>Ms Paulina</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Miss Peh Poh Geok</p>
 </td>
 </tr>
 <tr>
