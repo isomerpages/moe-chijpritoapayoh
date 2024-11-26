@@ -34,6 +34,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice - Principal (Curriculum)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Melissa Yap</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice - Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -83,10 +91,10 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Stephanie Goh</p>
+<p>Mrs Karen Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>stephanie_lim_mei_fong@moe.edu.sg</p>
+<p>heng_wee_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -118,13 +126,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Science</p>
+<p>HOD Science (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Ho</p>
+<p>Mrs Jennifer Kwek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>heng_wee_ling@moe.edu.sg</p>
+<p>goh_ai_gek@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -151,24 +159,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_ching_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Character &amp; Citizenship Education (Internal)</p>
+<p>HOD Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Loretta Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_siew_ling_loretta@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Aesthetics (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Geraldine Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koh_yi_min_geraldine@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Physical Education &amp; Co-Curricular Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Peng Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_peng_kee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -203,10 +222,10 @@ variant: tiptap
 <p>SH Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jennifer Kwek</p>
+<p>Ms Chen Weixuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_ai_gek@moe.edu.sg</p>
+<p>chen_weixuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -233,18 +252,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Geraldine Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koh_yi_min_geraldine@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH&nbsp;&nbsp;Infocomm Technology</p>
+<p>SH&nbsp;Infocomm Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Low Hock Siang</p>
@@ -284,6 +292,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>joey_tang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Julia Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chia_yee_ming_julia@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
