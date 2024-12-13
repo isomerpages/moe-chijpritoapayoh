@@ -29,7 +29,7 @@ at 64353782 for assistance.)</p>
 <br>5000 Ang Mo Kio Ave 5, Techplace 2 #05-09, Singapore 569870
 <br>Tel: 6293 5840
 <br>(Please make a e-appointment on their website <a href="https://www.magdalene.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg/</a> before
-visiting their retail shop.</p>
+visiting their retail shop.)</p>
 <h5>Singapore EduSmart Student Care Centre @ CHIJ Primary (Toa Payoh)</h5>
 <p>Email: <a href="mailto:chijtp_sccops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijtp_sccops@singaporeedusmart.edu.sg</a>
 <br>Tel: 6258 5100
