@@ -24,15 +24,12 @@ variant: tiptap
 make appointment before coming down for dental trauma, facial / gum swelling
 or toothache. For emergencies, you may contact the School Dental Center
 at 64353782 for assistance.)</p>
-<h5>School Uniform (including PE attire)</h5>
+<h5>School Uniform</h5>
 <p>Magdalene Sewing Centre Pte Ltd
 <br>5000 Ang Mo Kio Ave 5, Techplace 2 #05-09, Singapore 569870
 <br>Tel: 6293 5840
-<br>HP: 8638 0499
 <br>(Please make a e-appointment on their website <a href="https://www.magdalene.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg/</a> before
-visiting their retail shop. Alternatively, the school bookshop will commence
-the sale of uniforms and PE attire from Feb 2022. However, due to limited
-stocks and sizes, please call to enquire before proceeding to the bookshop.)</p>
+visiting their retail shop.)</p>
 <h5>Singapore EduSmart Student Care Centre @ CHIJ Primary (Toa Payoh)</h5>
 <p>Email: <a href="mailto:chijtp_sccops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijtp_sccops@singaporeedusmart.edu.sg</a>
 <br>Tel: 6258 5100
