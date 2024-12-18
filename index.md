@@ -17,7 +17,7 @@ sections:
       image: /images/history.png
       alt: History of CHIJ
   - infopic:
-      title: Events
+      title: Highlights
       description: 2024 was a very special year for us as CHIJ celebrated its 170th
         anniversary.
       button: Read More
@@ -26,11 +26,8 @@ sections:
       alt: Sports Day
   - infopic:
       title: Faith Formation
-      description: >-
-        At CHIJ Primary School, we believe that education extends beyond
-        textbooks and
-
-        classrooms...
+      description: At CHIJ Primary School, we believe that education extends beyond
+        textbooks and classrooms...
       button: Find Out More
       url: /our-programmes/special-programme/faith-formation/
       image: /images/events2.jpg
