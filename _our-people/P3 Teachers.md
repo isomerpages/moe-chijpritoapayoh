@@ -95,10 +95,10 @@ variant: tiptap
 <p>Co-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Ching</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_ching_a@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -159,10 +159,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Pauline Soh</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_gek_suan_pauline@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
