@@ -61,7 +61,7 @@ role in educating and promoting Tamil Language among their students.</p>
 <p>In addition, Mrs Veerarajoo was featured and interviewed in “Ethiroli”
 – an educational programme by Vasantham on 4 Sept 2024. The programme featured
 5 teachers who made a difference in the lives of their students. Click
-here to view the excerpt of the <a href="https://drive.google.com/drive/folders/1E4joeLwv4fgyJ0dp5MIT_nHDpRy99fuU" rel="noopener noreferrer nofollow" target="_blank">programme</a>
+here to view the excerpt of the <a href="https://drive.google.com/file/d/1dTBmv-NsqHz8Zh7XsxCI3DRWJ--K7vHo/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">programme</a>
 </p>
 </div>
 </details>
