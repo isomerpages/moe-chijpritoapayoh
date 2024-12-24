@@ -131,13 +131,13 @@ variant: tiptap
 <p>P3 Orchid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Brenda Chew</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_geok_hong_brenda@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -159,10 +159,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Pauline Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_gek_suan_pauline@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
