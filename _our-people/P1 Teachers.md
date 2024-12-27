@@ -145,10 +145,10 @@ variant: tiptap
 <p>Co-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Angeline Chiew / Mdm Anpazhaki</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>angeline_ng_swee_kim@moe.edu.sg / anpazhaki_a@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
