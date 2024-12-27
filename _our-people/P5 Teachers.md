@@ -4,9 +4,8 @@ permalink: /our-people/p5-teachers/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -26,9 +25,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email Address</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
@@ -43,9 +39,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>justin_yeo_tian_wei@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -56,9 +49,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>azliana_abu_bakar@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -74,9 +64,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>joey_tang@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -87,9 +74,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chandraselven_bavani@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -105,9 +89,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>goh_ai_gek@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -118,9 +99,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Loh_Yi_Hui@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -136,16 +114,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>tan_hsien_yang_brendan@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -167,9 +139,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>lit_lei_kim_denise@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -181,16 +150,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>teo_zhaowei@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>P5 Rose</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -205,9 +168,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
