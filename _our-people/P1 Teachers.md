@@ -52,7 +52,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<th rowspan="2" colspan="1">
+<th rowspan="3" colspan="1">
 <p>P1 Hibiscus</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -63,6 +63,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>regina_begum_mohamed_ayoob@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Soh Yin ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>soh_yin_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
