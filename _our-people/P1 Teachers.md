@@ -84,10 +84,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Rajes Neidu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>rajoo_rajeswari@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
