@@ -95,10 +95,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Linda</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_linda_halek@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -170,10 +170,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nur Linda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nur_linda_halek@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
