@@ -27,8 +27,8 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="3" colspan="1">
+<p>P3 Daisy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -49,9 +49,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>P3 Daisy</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </td>
