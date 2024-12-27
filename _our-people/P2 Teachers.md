@@ -206,10 +206,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yeo Bee Leng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_bee_leng@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
