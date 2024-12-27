@@ -34,10 +34,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Halijah Redwan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>halijah_mohamed_ismail@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -45,10 +45,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Halijah Redwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>halijah_mohamed_ismail@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -70,10 +70,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chandra Bavani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chandraselven_bavani@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -81,10 +81,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chandra Bavani</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chandraselven_bavani@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
