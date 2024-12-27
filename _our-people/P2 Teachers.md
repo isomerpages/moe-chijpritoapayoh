@@ -27,7 +27,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P2 Daisy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,6 +38,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_pui_ling@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shirley Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_ching_ching_shirley@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -156,10 +167,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joy Drysdale</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rodrigues_joy_ann-marie@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -206,10 +217,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shirley Ang</p>
+<p>Mrs Joy Drysdale</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_ching_ching_shirley@moe.edu.sg</p>
+<p>rodrigues_joy_ann-marie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
