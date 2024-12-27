@@ -77,7 +77,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P3 Ixora</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,10 +95,21 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Kian Lan Gosian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>quek_kian_lan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Quek Xing Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quek_Xing_Yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -170,10 +181,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Quek Xing Yi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quek_Xing_Yi@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
