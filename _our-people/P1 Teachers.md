@@ -84,7 +84,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rajes Neidu</p>
+<p>Mrs Rajes Niedu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rajoo_rajeswari@moe.edu.sg</p>
