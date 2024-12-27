@@ -70,10 +70,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Jason Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yeo_hup_teck@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
