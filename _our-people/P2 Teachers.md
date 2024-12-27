@@ -70,10 +70,10 @@ variant: tiptap
 <p>Co-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Loh Yi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Loh_Yi_Hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
