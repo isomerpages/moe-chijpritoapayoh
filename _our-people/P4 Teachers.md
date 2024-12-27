@@ -84,10 +84,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Janice Ong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>janice_deng_cui_cui@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
