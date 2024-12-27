@@ -120,10 +120,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Low Chiou Miin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>low_chiou_miin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -195,10 +195,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Chiou Miin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_chiou_miin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
