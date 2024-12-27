@@ -34,10 +34,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Kavitha S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kavitha_sathiamurthi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
