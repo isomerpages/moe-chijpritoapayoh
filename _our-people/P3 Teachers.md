@@ -27,6 +27,20 @@ variant: tiptap
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>P3 Daisy</p>
 </td>
@@ -37,7 +51,7 @@ variant: tiptap
 <p>Ms Rajini Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>rajini_devi_ram_rattan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
