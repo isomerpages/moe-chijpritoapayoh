@@ -87,7 +87,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chen_weixuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
