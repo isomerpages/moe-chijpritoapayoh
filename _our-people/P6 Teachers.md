@@ -84,13 +84,6 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sathia</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Mrs Jennifer Kwek</p>
 <p><a href="mailto:goh_ai_gek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ai_gek@moe.edu.sg</a>
 </p>
