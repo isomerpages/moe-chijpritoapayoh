@@ -87,8 +87,7 @@ variant: tiptap
 <p>Mrs Jennifer Kwek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_ai_gek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ai_gek@moe.edu.sg</a>
-</p>
+<p>goh_ai_gek@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
