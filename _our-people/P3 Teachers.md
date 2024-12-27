@@ -34,7 +34,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Rajini Devi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
