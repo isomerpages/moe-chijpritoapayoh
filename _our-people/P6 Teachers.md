@@ -34,15 +34,15 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Halijah Redwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>halijah_mohamed_ismail@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Arafah</p>
@@ -67,7 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jumaeen</p>
@@ -92,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jiang Lina</p>
@@ -117,7 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Elsa Ang</p>
@@ -134,15 +134,15 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Halijah Redwan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>halijah_mohamed_ismail@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Carmen Fernando</p>
@@ -167,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Karen Ho</p>
