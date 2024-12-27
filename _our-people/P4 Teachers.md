@@ -120,7 +120,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rajini Devi
+<p>
 <br>
 <br>Mrs Kian Lan Gosian</p>
 </td>
