@@ -59,10 +59,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Lynette Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chan_heng_jing_lynette@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
