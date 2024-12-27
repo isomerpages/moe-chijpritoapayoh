@@ -71,9 +71,31 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jumaeen</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammed_jumaeen_amat_kamsin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chandra Bavani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chandraselven_bavani@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -95,10 +117,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jiang Lina</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jiang_lina@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
