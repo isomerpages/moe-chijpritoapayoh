@@ -56,13 +56,13 @@ variant: tiptap
 <p>P4 Hibiscus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Reinette Li</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>choy_shi_yi_reinette@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
