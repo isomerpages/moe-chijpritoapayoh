@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hong Xiaoqin</p>
@@ -67,7 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Peh Sok Hong</p>
@@ -92,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Dong Yaru</p>
@@ -117,7 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Charlotte Ngew</p>
@@ -142,13 +142,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Lui Zi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>goh_zi_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -167,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan Chujie</p>
@@ -192,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Low Chiou Miin</p>
