@@ -167,10 +167,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Angeline Chiew / Mdm Anpazhaki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>angeline_ng_swee_kim@moe.edu.sg / anpazhaki_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
