@@ -117,7 +117,7 @@ variant: tiptap
 <p>Miss Quek Xing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quek_Xing_Yi@moe.edu.sg</p>
+<p>quek_xing_yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
