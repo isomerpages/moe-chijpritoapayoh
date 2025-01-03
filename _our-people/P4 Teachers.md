@@ -17,7 +17,7 @@ variant: tiptap
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher / Co-Form Teacher</p>
+<p>Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
@@ -178,4 +178,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
