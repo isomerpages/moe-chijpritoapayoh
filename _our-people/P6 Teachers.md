@@ -17,7 +17,7 @@ variant: tiptap
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher / Co-Form Teacher</p>
+<p>Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
@@ -189,5 +189,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="mailto:goh_ai_gek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ai_gek@moe.edu.sg</a>
-</p>
+<p></p>
