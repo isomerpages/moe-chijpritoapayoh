@@ -46,28 +46,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Lay Kim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_lay_kim_a_1@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Gail Siow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>gabriel_antoinettene_stravens@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language &amp; Social Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ho Sheen Yee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,17 +53,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jenny Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jenny_ong@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
 </td>
 </tr>
 <tr>
@@ -119,17 +86,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lim Siew Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>heng_siew_choo_b@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics and Science</p>
 </td>
 </tr>
 </tbody>
