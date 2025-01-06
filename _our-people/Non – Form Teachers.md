@@ -79,10 +79,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ling</p>
+<p>Mrs Sherene Ye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sherene_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics and Science</p>
@@ -90,24 +90,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Song</p>
+<p>Ms Lilin Song</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>song_gek_kin_lilian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh</p>
+<p>Mdm Adeline Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>toh_miao_ling_adeline@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>English Language</p>
 </td>
 </tr>
 <tr>
