@@ -145,14 +145,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Chiew Pheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_chiew_pheng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Tan Chu Jie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,14 +186,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>azliana_abu_bakar@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nazurah Bte Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nazurah_ibrahim_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
