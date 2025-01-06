@@ -42,7 +42,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Tan Lee Lee</p>
+<p></p>
 </td>
 </tr>
 <tr>
