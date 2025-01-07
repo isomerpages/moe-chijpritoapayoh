@@ -115,7 +115,7 @@ variant: tiptap
 <p>Mdm Irene Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>koh_irene@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics and Science</p>
