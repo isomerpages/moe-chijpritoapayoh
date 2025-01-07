@@ -180,7 +180,7 @@ variant: tiptap
 <p>Mdm Joy Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Joy_Lim_Kah_Cheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
