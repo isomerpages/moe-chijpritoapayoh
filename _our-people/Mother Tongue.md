@@ -89,6 +89,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Joy Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joy_Lim_Kah_Cheng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ke Jinqi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,14 +181,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>zhang_cuizhi_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Joy Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Joy_Lim_Kah_Cheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
