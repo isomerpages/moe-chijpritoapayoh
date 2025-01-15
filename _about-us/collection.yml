@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Corporate Video.md
       - History.md
       - School Information/.keep
       - School Information/School Crest.md
