@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - History.md
-      - School Information/Corporate Video.md
       - School Information/.keep
       - School Information/School Crest.md
       - School Information/Core Values.md
+      - School Information/Corporate Video.md
       - School Information/School Song.md
       - School Information/Founder’s Day Song.md
       - School Information/School Rules.md
