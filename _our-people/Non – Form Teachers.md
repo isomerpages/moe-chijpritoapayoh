@@ -24,17 +24,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Arielle Liew Soo Eng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>arielle_liew_soo_eng@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Balvin Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,24 +35,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Lay Kim</p>
+<p>Mrs Pauline Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_lay_kim_a_1@moe.edu.sg</p>
+<p>tan_gek_suan_pauline@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Gail Siow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>gabriel_antoinettene_stravens@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language &amp; Social Studies</p>
+<p>English Language, Mathematics and Science</p>
 </td>
 </tr>
 <tr>
@@ -79,17 +57,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jenny Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jenny_ong@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Joanne Teo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,17 +64,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics and Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Koh Mei Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liew_mei_yin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -123,13 +79,57 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Siew Choo</p>
+<p>Mrs Sherene Ye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>heng_siew_choo_b@moe.edu.sg</p>
+<p>sherene_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics and Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lilin Song</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>song_gek_kin_lilian@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Adeline Toh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>toh_miao_ling_adeline@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Irene Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koh_irene@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics and Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Quek Kah Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
 </td>
 </tr>
 </tbody>

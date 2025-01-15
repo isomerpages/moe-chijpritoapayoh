@@ -29,6 +29,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Librarian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Marie Lau Wai Quan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Teacher Assistant</strong>
 </p>
 </td>
@@ -42,16 +51,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Tan Lee Lee</p>
+<p>Mdm Parameswari</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Librarian</strong>
+<p><strong>Science Lab Assistant</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Marie Lau Wai Quan</p>
+<p>Mdm Aisah Bte Mohd Yusoff</p>
 </td>
 </tr>
 </tbody>
