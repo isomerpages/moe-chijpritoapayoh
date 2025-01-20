@@ -99,7 +99,13 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 </ul>
 </li>
 </ul>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -177,7 +183,13 @@ CCA Recruitment Week for all Primary Three students.</p>
 <p>Students will select a CCA from the list below:</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -337,5 +349,4 @@ their CCAs based on the choices they have submitted.</p>
 CCAs they have signed up for.</p>
 </li>
 </ul>
-<p><a href="/files/20231228___CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CCA &amp; Enrichment Schedule</a>
-</p>
+<p></p>
