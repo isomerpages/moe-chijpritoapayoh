@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h3><u>Vision</u></h3>
-<p>Nurturing a Committed and Virtuous Citizen</p>
+<p>Empowering Values-Driven Leaders and Citizens</p>
 <h3><u>Mission</u></h3>
 <p>Every child matters at CHIJ Primary (Toa Payoh). Through our Character
 and Citizenship Education (CCE) curriculum, we aim to inculcate values
