@@ -74,12 +74,6 @@ CCA:
 <br>– A record of achievement and attendance log</p>
 </li>
 <li>
-<p>The student concerned should have represented either Singapore OR the
-school at the National School Games competitions in the following: Diving,
-Golf, Artistic Swimming, Sports Climbing, Taekwondo, Wushu, Ballet, Dance
-or Singing.</p>
-</li>
-<li>
 <p>Any other valid reason must be stated in a letter to the Principal.</p>
 </li>
 </ul>
@@ -141,7 +135,7 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 <p>*Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Dance Club</p>
+<p>Cultural and Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Handbells Ensemble</p>
@@ -167,7 +161,7 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 <br>
 <br>b. <u>Selected Sports CCAs</u>
 <br>The same early recruitment procedure also applies to Primary 3 students
-who show potential in selected Sports CCAs such as Fencing.</p>
+who show potential in selected Sports CCAs.</p>
 </li>
 </ul>
 <p><strong>D. CCA Registration</strong>
@@ -217,19 +211,11 @@ CCA Recruitment Week for all Primary Three students.</p>
 </p>
 </li>
 <li>
-<p><a href="/our-programmes/cca/artistic-gymnastics/" rel="noopener noreferrer" target="_blank"><u>Artistic Gymnatstics</u></a>
-</p>
-</li>
-<li>
-<p><a href="/our-programmes/cca/fencing/" rel="noopener noreferrer" target="_blank"><u>Fencing</u></a>
+<p><a href="/our-programmes/cca/artistic-gymnastics/" rel="noopener noreferrer" target="_blank"><u>Artistic Gymnastics</u></a>
 </p>
 </li>
 <li>
 <p><a href="/our-programmes/cca/netball/" rel="noopener noreferrer" target="_blank"><u>Netball</u></a>
-</p>
-</li>
-<li>
-<p><a href="/our-programmes/cca/ij-sports-stars-p3-sports-fun-module-subsumed/" rel="noopener noreferrer" target="_blank"><u>IJ Sports &amp; Stars &amp; P3 Sports Modules</u></a>
 </p>
 </li>
 <li>
@@ -325,16 +311,14 @@ the General Office to join a CCA.</p>
 Office by the end of the first week of school.</p>
 </li>
 </ul>
-<p>&nbsp; &nbsp; d.&nbsp;<u>Change of CCA for Primary 4 and Primary 5 Students</u>
+<p>&nbsp; &nbsp; d.&nbsp;<u>Change of CCA Request</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Primary 4 and 5 students who wish to make a change in their CCA for the
-following year are to submit the request using the&nbsp;<strong>Change of CCA Form by August</strong>.</p>
-</li>
-<li>
-<p>Completed forms are to be returned to the Admin Executive at the General
-Office before the end of September.</p>
+<p>Students will be allocated a CCA in Primary 4 and they are required to
+remain in the same CCA until Primary 6 to develop their interest and deepen
+their skills. Any request for change of CCA should only be made through
+their CCA Teacher in September and this is subject to approval.</p>
 </li>
 </ul>
 <p><strong>CCA Confirmation</strong>
@@ -343,10 +327,6 @@ Office before the end of September.</p>
 <li>
 <p>At the end of the CCA registration exercise, students will be allocated
 their CCAs based on the choices they have submitted.</p>
-</li>
-<li>
-<p>elections will be conducted by November to assess the suitability of the
-CCAs they have signed up for.</p>
 </li>
 </ul>
 <p></p>
