@@ -135,7 +135,7 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 <p>*Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cultural and Modern Dance</p>
+<p>*Cultural and Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Handbells Ensemble</p>
