@@ -48,7 +48,7 @@ third_nav_title: School Information
 hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Application Form&nbsp;</a>
+<p><a href="/files/20250206___Canteen_appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 </ul>
@@ -119,8 +119,7 @@ Singapore Food Agency (SFA).</p>
 <p>Address: 628 Lor 1 Toa Payoh, Singapore 319765</p>
 </li>
 <li>
-<p>Contact No: <a href="https://www.google.com/search?q=chij+toa+payoh+primary&amp;rlz=1C1GCEA_enSG1042SG1042&amp;oq=&amp;gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQsxOTE1MjY5ajFqN6gCCLACAQ&amp;sourceid=chrome&amp;ie=UTF-8" rel="noopener noreferrer nofollow" target="_blank">6353 2164</a>
-</p>
+<p>Contact No. 6353 2164</p>
 </li>
 <li>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">seng_liat_heng@moe.edu.sg</a>
