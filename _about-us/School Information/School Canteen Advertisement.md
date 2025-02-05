@@ -69,7 +69,7 @@ etc</p>
 </ul>
 </li>
 <li>
-<p>Submit the completed application form and documents by closing date via
+<p>Submit the completed application form and documents by closing date, <strong>14 March 2025, 2pm</strong> via
 email OR to the School’s General Office.</p>
 </li>
 </ol>
