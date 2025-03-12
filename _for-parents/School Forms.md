@@ -14,9 +14,9 @@ more information</p>
 <hr>
 <h5><strong><a href="/files/Updating_Pupils_Personal_Particulars_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Updating Pupils Personal Particulars Form</a></strong></h5>
 <hr>
-<h5><strong><a href="go.gov.sg/waitlist-application" rel="noopener noreferrer nofollow" target="_blank">Waiting List Application Form</a></strong></h5>
+<h5><strong><a href="https://form.gov.sg/67cfd9f9dd496a3035e680bc" rel="noopener noreferrer nofollow" target="_blank">Waiting List Application Form</a></strong></h5>
 <hr>
-<h5><strong><a href="go.gov.sg/leave-of-absence-application" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence Application Form</a></strong></h5>
+<h5><strong><a href="https://form.gov.sg/67cfd88ccdf17695ded57273" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence Application Form</a></strong></h5>
 <hr>
 <h5><strong>Student Care Centre</strong></h5>
 <p>Please contact our Student Care Centre for registration enquiries
