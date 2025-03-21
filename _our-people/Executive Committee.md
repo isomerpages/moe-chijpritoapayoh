@@ -29,14 +29,6 @@ variant: tiptap
 <p>Vice - Principal (Curriculum)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Charmaine Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice - Principal (Curriculum)</p>
-</td>
-<td rowspan="1" colspan="2">
 <p>Mrs Melissa Yap</p>
 </td>
 </tr>
