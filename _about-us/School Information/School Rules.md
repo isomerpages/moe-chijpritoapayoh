@@ -3,6 +3,7 @@ title: School Rules
 permalink: /about-us/school-information/school-rules/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 #### **Attire and Appearance**
 
@@ -10,13 +11,11 @@ third_nav_title: School Information
 
 *   Every student must come to school in full uniform i.e. correct shade of blue pinafore and belt over a white blouse, with the school badge of office (if any).
 
-<img src="/images/ijuniform.gif"  
-style="width:40%">
+<img src="/images/ijuniform.gif" style="width:40%">
 
 *   Badges should be worn in this order on the left yoke of the pinafore:
 
-<img src="/images/badges.gif"  
-style="width:40%">
+<img src="/images/badges.gif" style="width:40%">
 
 <br>
 
@@ -61,7 +60,7 @@ style="width:40%">
 
 <u>Punctuality</u>
 
-*   Students are to be seated with their class at the designated assembly area (e.g. parade square, Barre Hall or classrooms) by **7.30am** for the flag-raising ceremony, failing which, students will be considered late for school.
+*   Students are to be seated with their class at the designated assembly area (e.g. parade square, Barre Hall or classrooms) by&nbsp;**7.30am**&nbsp;for the flag-raising ceremony, failing which, students will be considered late for school.
 *   Students who are late 4 times in each term will receive a letter from the school.
 *   Students who are late 5 or more times in each term will have their names recorded in the Student Offence Management System.
 
@@ -80,7 +79,7 @@ style="width:40%">
 <u>Absence from school</u>
 
 *   Students are expected to attend school regularly throughout the year. Permission to take leave from school during term-term will only be granted by the Principal upon advance notice, and only for valid reasons.
-*   In the event of absence from school, CCA or remedial / supplementary lessons, a letter of excuse of medical certificate must be submitted to the Form Teacher, CCA Teacher or Subject Teacher upon return.
+*   In the event of absence from school, CCA or Booster / Academic Support class, a letter of excuse or medical certificate must be submitted to the Form Teacher, CCA Teacher or Subject Teacher upon return.
 
 <u>Mobile Devices</u>
 
