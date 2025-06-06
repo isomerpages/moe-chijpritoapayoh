@@ -120,10 +120,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Charlotte Ngew</p>
+<p>Mdm Low Chiou Miin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ngew_shu_shin@moe.edu.sg</p>
+<p>low_chiou_miin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
