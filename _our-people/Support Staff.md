@@ -29,15 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Librarian</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Ms Marie Lau Wai Quan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Teacher Assistant</strong>
 </p>
 </td>
