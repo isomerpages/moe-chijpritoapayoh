@@ -18,6 +18,7 @@ The CHIJ Aesthetics Curriculum aims to nurture our students to
 Art
 Drawing is a core component of our Visual Art curriculum, but students also explore a wide range of media and styles across levels to develop their creativity and appreciation for the arts.
 At each level, students experience unique art forms:
+
 *	Primary 1: Drawing, oil pastelling, and plasticine art to build fine motor skills and learn basic colour theory.
 *	Primary 2: Introduction to painting with emphasis on water-to-paint control.
 *	Primary 3: Exploring traditional performances such as Wayang Kulit.
