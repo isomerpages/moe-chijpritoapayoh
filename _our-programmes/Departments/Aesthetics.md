@@ -33,6 +33,8 @@ Students also present their artworks through school exhibitions and take part in
 ### **<u>Music</u>**
 Music develops students in their socio-emotional skills by being actively involved in the process of music making individually and as a group. They are critical thinkers who seek to understand, appreciate music through analyzing and evaluating musical observations and experiences
 
+![](/images/Picture3.jpg)
+
 ### **<u>Aesthetics Programme</u>**
 
 At our school, we provide a variety of platforms and experiences to encourage students to express themselves creatively and appreciate different art forms.
