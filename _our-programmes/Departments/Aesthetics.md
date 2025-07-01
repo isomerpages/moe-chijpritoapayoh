@@ -42,5 +42,5 @@ At our school, we provide a variety of platforms and experiences to encourage st
 Highlights of Our Aesthetics Programmes:
 * **Creative Cove and Wayang Corner:**  Dedicated spaces for art exhibitions, as well as student performances during recess and lunch.
 * **CHIJmes:**  Every Friday morning, students showcase their artistic talents and share their passion for the arts with the school community.
-* A**nnual Performing Arts CCA Showcase:**  A special event where parents are invited to enjoy performances by our Performing Arts CCA groups.
+* **Annual Performing Arts CCA Showcase:**  A special event where parents are invited to enjoy performances by our Performing Arts CCA groups.
 * **Viva Spiritus (Primary 1 &amp; 2):**  A joyful dance performance featuring our youngest students, celebrating their creativity and spirit.
