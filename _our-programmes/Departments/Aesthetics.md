@@ -8,6 +8,7 @@ variant: markdown
 ### **<u>Vision</u>**
 
 At CHIJ Primary (Toa Payoh), we believe the arts has intrinsic value in our lives as it plays a vital role in sparking imagination and providing opportunities for emotional development. 
+
 The CHIJ Aesthetics Curriculum aims to nurture our students to
 *   have a lively and inquisitive mind 
 *   express themselves confidently through the different arts forms
