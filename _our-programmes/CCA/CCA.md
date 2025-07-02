@@ -330,5 +330,5 @@ their CCAs based on the choices they have submitted.</p>
 </li>
 </ul>
 <p></p>
-<p><a href="/files/20250121___CCA_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCA Schedule</a>
+<p><a href="/files/CCA_Schedule_2025__Sem_2__latest.pdf" rel="noopener nofollow" target="_blank">CCA Schedule 2025 (Sem 2)</a>
 </p>
