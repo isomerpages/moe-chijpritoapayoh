@@ -22,7 +22,7 @@ sections:
         anniversary.
       button: Read More
       url: /events/
-      image: /images/events4.jpg
+      image: /images/30_August_2025_with_qr_final_page_0001.jpg
       alt: Sports Day
   - infopic:
       title: Faith Formation
