@@ -104,16 +104,14 @@ as perseverance, sportsmanship, teamwork, resilience, and respect through
 training and competition.</p>
 <p><strong><u>Achievements</u></strong>
 </p>
-<p><strong>National School Games 2023</strong>
-</p>
+<p>National School Games 2023</p>
 <p>Senior 1 Long Jump – 1st</p>
 <p>Senior 1 Long Implement Throw – 1st</p>
 <p>Senior 1 80m Hurdles – 3rd</p>
 <p>Junior 1 8 x 50m Relay – 4th</p>
 <p>Senior 1 Vertical Jump – 7th</p>
 <p></p>
-<p><strong>National School Games 2024</strong>
-</p>
+<p>National School Games 2024</p>
 <p>Junior 2 25m – 2nd</p>
 <p>Junior 2 Scissor Jump – 2nd</p>
 <p>Junior 1 Overhead Beanbag Throw – 4th and 8th</p>
