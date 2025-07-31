@@ -39,24 +39,30 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Jun Kai</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">ng_jun_kai@moe.edu.sg</a>)</p>
+<p>(ng_jun_kai @moe.edu.sg)</p>
+<p></p>
 <p>Ms Rohini Visva Nathan</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">rohini_visva_nathan@moe.edu.sg</a>)</p>
+<p>(rohini_visva_nathan@moe.edu.sg)</p>
+<p></p>
 <p>Ms Kian Lan Gosian</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">quek_kian_lan@moe.edu.sg</a>)</p>
+<p>(quek_kian_lan @moe.edu.sg)</p>
+<p></p>
 <p>Ms Koh Kai Jun</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">koh_kai_jun@moe.edu.sg</a>)</p>
+<p>(koh_kai_jun @moe.edu.sg)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kaitlyn Wan See Yin (6 Rose)</p>
 <p>Robyn Natalia Khor (5 Hibiscus)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Competitive and Developmental Team</p>
+<p><u>Competitive and Developmental Team</u>
+</p>
 <p>Mondays and Thursdays</p>
 <p>2.15pm to 3.45pm</p>
 <p>School Field</p>
-<p>Recreational Team</p>
+<p></p>
+<p><u>Recreational Team</u>
+</p>
 <p>Thursdays</p>
 <p>2.15pm to 3.45pm</p>
 <p>School Field</p>
