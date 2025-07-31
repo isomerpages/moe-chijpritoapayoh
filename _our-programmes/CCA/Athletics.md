@@ -10,9 +10,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Athletics" src="/images/Athletics_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Athletics" src="/images/Athletics_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Athletics_3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Athletics_4.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -28,7 +31,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Leaders                   </strong>
+<p><strong>CCA Leaders</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,4 +126,5 @@ training and competition.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
