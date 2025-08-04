@@ -5,8 +5,6 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<p>Weekly sessions include physical conditioning, netball-related skills
-and other activities such as group discussions.</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
