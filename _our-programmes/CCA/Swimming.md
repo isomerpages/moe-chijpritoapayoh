@@ -72,7 +72,6 @@ to embrace swimming as a lifelong activity.</p>
 <p>&nbsp;</p>
 <p>The Swim CCA shall be ceasing from Semester Two 2026 onward.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong><u>Learning Outcomes</u></strong>
 </p>
 <p>By participating in the Swim CCA, students will be able to:</p>
@@ -90,7 +89,6 @@ swimming strokes and technique to become better swimmers.</p>
 rules in swimming.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inculcate values of
 sportsmanship, excellence, fair play, teamwork and discipline.</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong><u>Achievements</u></strong>
 </p>
