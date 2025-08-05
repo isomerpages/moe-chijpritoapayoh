@@ -67,12 +67,11 @@ from Primary 3 to Primary 6, with a total of 44 students. The Handbells
 Ensemble is a CCA that aims to expose the handbell ringers to a wide range
 of different forms of music genre to further develop the potential in the
 students.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>With maximum exposure and intensive training provided, the Handbells Ensemble
 also aims to prepare the students to represent the school in various music
 competitions and performances, not only locally but in the international
 scene if the opportunity arises.</p>
-<p>&nbsp;</p>
 <p><strong><u>Learning Outcomes</u></strong>
 </p>
 <p>By participating in the Handbells Ensemble CCA, students will be able
