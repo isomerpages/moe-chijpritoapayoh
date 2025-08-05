@@ -58,7 +58,6 @@ variant: tiptap
 <p>&nbsp;</p>
 <p>Mrs Joanne Teo</p>
 <p>(ong_shuyi_joanne@moe.edu.sg)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kyra Chong Wen Xuan (6 Daisy)</p>
@@ -92,7 +91,6 @@ skills and teamwork.</p>
 <p><strong><u>Achievements</u></strong>
 </p>
 <p>Annual CHIJ Primary (Toa Payoh) Performing Arts Concert</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
