@@ -68,8 +68,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>Overview</u></strong>
 </p>
 <p>Our Modern Dance CCA provides students with exposure to various dance
@@ -95,7 +93,6 @@ performing.</p>
 <p><strong><u>Achievements</u></strong>
 </p>
 <p>Singapore Youth Festival 2024 Arts Presentation – Certificate of Distinction</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
