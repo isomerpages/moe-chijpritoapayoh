@@ -57,8 +57,6 @@ variant: tiptap
 <p>&nbsp;Andrea Poo Yi Xuan (5 Orchid)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
 <p><u>Semester 1</u>
 </p>
 <p>Thursdays</p>
