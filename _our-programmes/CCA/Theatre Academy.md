@@ -51,11 +51,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Ms Andrea Ni Qiaoxian</p>
-<p>(<a href="mailto:ni_qiaoxian_andrea@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ni_qiaoxian_andrea@moe.edu.sg</a>)</p>
-<p></p>
+<p>(ni_qiaoxian_andrea@moe.edu.sg)</p>
 <p>Mdm Wendy Ong</p>
 <p>(wendy_lelia_ong@moe.edu.sg)</p>
-<p>&nbsp;</p>
 <p>Mrs Joanne Teo</p>
 <p>(ong_shuyi_joanne@moe.edu.sg)</p>
 </td>
