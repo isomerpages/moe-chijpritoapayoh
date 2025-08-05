@@ -54,7 +54,6 @@ variant: tiptap
 <p>&nbsp;</p>
 <p>Mdm Jiang Lina</p>
 <p>(jiang_lina@moe.edu.sg)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Zi’En Jazelle (6 Daisy)</p>
