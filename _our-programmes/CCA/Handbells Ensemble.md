@@ -44,7 +44,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;Ms Nina Mark</p>
 <p>(mark_pei_lai_nina@moe.edu.sg)</p>
-<p>&nbsp;</p>
 <p>Dr Dong Yaru</p>
 <p>(dong_yaru@moe.edu.sg)</p>
 </td>
