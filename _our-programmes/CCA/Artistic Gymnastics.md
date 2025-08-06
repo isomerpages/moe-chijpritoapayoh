@@ -43,7 +43,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Mrs Elaine Toh</p>
 <p>(I/C for Development and Competitive Teams)</p>
 <p>(chong_mei_lin_elaine@moe.edu.sg)</p>
@@ -72,8 +71,6 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
 <p><u>Senior Team</u>
 </p>
 <p>Jacy Wong Jing En (6 Lily)</p>
