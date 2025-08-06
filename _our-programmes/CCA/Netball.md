@@ -33,7 +33,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Mohammed Jumaeen</p>
 <p>(I/C for Senior Team)</p>
-<p>(<a href="mailto:mohammed_jumaeen_amat_kamsin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_jumaeen_amat_kamsin@moe.edu.sg</a>)</p>
+<p>(mohammed_jumaeen_amat_kamsin@moe.edu.sg)</p>
 <p>Mr Gary Khoo</p>
 <p>(I/C for Junior Team)</p>
 <p>(<a href="mailto:khoo_wei_hong_gary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wei_hong_gary@moe.edu.sg</a>)</p>
