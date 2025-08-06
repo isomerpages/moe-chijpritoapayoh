@@ -50,29 +50,28 @@ variant: tiptap
 <p>Mrs Elaine Toh</p>
 <p>(I/C for Development and Competitive Teams)</p>
 <p>(chong_mei_lin_elaine@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Ms Nur Linda</p>
 <p>(I/C for Recreational Team)</p>
 <p>(nur_linda_halek@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Ms Shirley Ang</p>
 <p>(ang_ching_ching_shirley@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Miss Kavitha</p>
 <p>(kavitha_sathiamurthi@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Mrs Mabel Yeo</p>
 <p>(goh_wei_lin_mabel@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Mrs Geraldine Tay</p>
 <p>(goh_swee_hong_geraldine@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Mrs Rajes Niedu</p>
 <p>(rajoo_rajeswari@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Mdm Adeline Toh</p>
 <p>(toh_miao_ling_adeline@moe.edu.sg)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Senior Team</u>
@@ -96,25 +95,25 @@ variant: tiptap
 <p>Mondays to Thursdays</p>
 <p>2.15pm to 5.45pm</p>
 <p>Gymnasium</p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Development A Team</u>
 </p>
 <p>Mondays and Wednesdays</p>
 <p>2.15pm to 5.00pm</p>
 <p>Gymnasium</p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Development B Team</u>
 </p>
 <p>Tuesdays and Thursdays</p>
 <p>2.15pm to 5.00pm</p>
 <p>Gymnasium</p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Primary 1 Selected Group</u>
 </p>
 <p>Thursdays</p>
 <p>2.15pm to 3.45pm</p>
 <p>Gymnasium</p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Recreational Team</u>
 </p>
 <p>Tuesdays</p>
