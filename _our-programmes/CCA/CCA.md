@@ -8,36 +8,36 @@ variant: tiptap
 <h3><u>Vision</u></h3>
 <p>Empowered Girls, Effective Leaders</p>
 <h3><u>Mission</u></h3>
-<p>Inspire IJ girls to be Courageous, Confident, Innovative, Compassionate,
-Generous and Collaborative through the CCAs</p>
+<p>Inspire IJ girls to be Courageous, Innovative, Compassionate and Collaborative
+through CCA experiences</p>
 <h3><u>Approach</u></h3>
 <p>Building the 3Cs of Character, Confidence, Capacity through a Co-curricular
-framework that supports the holistic development of every child.</p>
+framework that supports the holistic development of every child</p>
 <p><strong>A. CCA Policy</strong>
 </p>
-<p>CCA is a platform for the development of character and talents/ interests
-of students.</p>
-<p>Our CCA Policy is:
-<br>“An IJ girl should strive to attain desirable affective and social values.
-She will develop to her fullest potential lifetime recreational and health-related
-pursuits by participating in at least one CCA.”</p>
+<p>CCAs aim to provide students with a holistic education by fostering personal
+development, character building and the acquisition of skills. An IJ girl
+should strive to discover her interest and talent, develop her character
+and values and deepen her sense of belonging to the school and community
+by participating in a CCA.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Primary 4, 5 and 6 students are required to select one CCA and will remain
-in the same CCA for the complete school year.</p>
+in the same CCA for the duration of the school year.</p>
 </li>
 <li>
-<p>Students who are members of the Sports Development Squads, Training Squads,
-School Teams or Performing Arts SYF Groups are expected to remain in the
-same CCA until Primary 6.</p>
+<p>Students who have been selected as members of the Sports CCA Development
+or Competitive Teams or, Performing Arts SYF Groups are expected to remain
+in the same CCA until they step down in Primary 6.</p>
 </li>
 <li>
-<p>Primary 6 students will attend CCA in the first semester. However, they
-will continue to represent the school in Term 3, if required.</p>
+<p>Primary 6 students will be expected to attend CCA in the first semester.
+However, they will continue to represent the school in Term 3 for competitions
+or events, if required.</p>
 </li>
 <li>
-<p>Students are to submit a medical certificate or a letter of excuse at
-the following session if they have missed their weekly CCA.</p>
+<p>Students are to submit a medical certificate or letter of excuse to the
+CCA teacher-in-charge if they have missed their weekly CCA.</p>
 </li>
 <li>
 <p>Only students who have attained 80% attendance will have their CCA recorded
@@ -56,41 +56,33 @@ the school’s approval:</p>
 a doctor’s recommendation.</p>
 </li>
 <li>
-<p>The doctor’s letter of recommendation is to be submitted to the HOD PE/CCA
-at the start of each school year.</p>
+<p>The doctor’s letter of recommendation is to be submitted to the HOD (PE
+&amp; CCA) at the start of each school year.</p>
 </li>
 </ul>
 <p><u>Regular Participation in External Co-Curricular Activities (not offered by the school)</u>
-<br>The following requirements must be met:</p>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The student concerned must attend intensive training at least 3 times
-weekly.</p>
+<p>The student concerned must be attending training for the external activity
+at least 3 times a week at a relatively intensive level.</p>
 </li>
 <li>
-<p>The following supporting documents are to be submitted to the HOD PE /
-CCA:
-<br>– A letter from the coach / instructor or conducting agency
-<br>– A record of achievement and attendance log</p>
-</li>
-<li>
-<p>Any other valid reason must be stated in a letter to the Principal.</p>
+<p>A letter or memo from the coach or conducting agency of the student’s
+external activity will need to be submitted to the HOD (PE &amp; CCA) for
+documentation purposes.</p>
 </li>
 </ul>
 <p><strong>C. Early Recruitment for Selected CCAs</strong>
 </p>
-<p>a. <u>Core CCAs</u>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>For Core CCAs, new talent will be recruited from as early as Primary 1,
-2, or 3.</p>
-<ul data-tight="true" class="tight">
+<p>For selected CCAs, new talent may be recruited from as early as Primary
+1, 2 or 3.</p>
+</li>
 <li>
 <p>This early recruitment drive identifies students with talent and aptitude
 in the following Core CCAs and provides them with opportunities to excel:</p>
-</li>
-</ul>
 </li>
 </ul>
 <table style="minWidth: 100px">
@@ -107,7 +99,7 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong>Core CCA</strong>
+<p><strong>Selected CCA</strong>
 </p>
 </td>
 </tr>
@@ -117,13 +109,13 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Artistic Gymnastics</p>
+<p>Artistic Gymnastics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Tennis</p>
+<p>Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -138,7 +130,7 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 <p>*Cultural and Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Handbells Ensemble</p>
+<p>* Handbells Ensemble</p>
 </td>
 </tr>
 <tr>
@@ -146,30 +138,30 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 <p>Athletics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Swimming</p>
+<p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>*<em>Students are selected based on attitude and aptitude displayed during music and PAL lessons in Primary 2.</em>
+</p>
+<p></p>
+<p><strong>D. CCA Registration</strong>
+<br>The CCA Registration Exercise will be held for all Primary 3 students
+during the CCA Recruitment Week in Term 3.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Open selection for Core CCAs may also be conducted from other levels (Primary
-4 and 5) on an ad-hoc basis, depending on the need to increase membership.
-<br>
-<br>b. <u>Selected Sports CCAs</u>
-<br>The same early recruitment procedure also applies to Primary 3 students
-who show potential in selected Sports CCAs.</p>
+<p>Primary 3 students who are already members of Sports CCA Developmental
+or Competitive Teams, or Performing Arts CCA SYF Groups will select the
+current CCA they are in during the registration exercise.</p>
 </li>
 </ul>
-<p><strong>D. CCA Registration</strong>
-<br>The registration for CCA is scheduled at the end of August during the
-CCA Recruitment Week for all Primary Three students.</p>
-<p>a. <u>List of CCAs Offered</u>
+<p>a.&nbsp;<u>List of CCAs Offered</u>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Information on the various CCAs can be found on the school website.</p>
 </li>
@@ -267,7 +259,7 @@ CCA Recruitment Week for all Primary Three students.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/our-programmes/cca/green-club/" rel="noopener noreferrer" target="_blank"><u>Green Club</u></a>
+<p><a href="/our-programmes/cca/green-club/" rel="noopener noreferrer" target="_blank"><u>Green Pixel Club</u></a>
 </p>
 </li>
 <li>
@@ -275,7 +267,7 @@ CCA Recruitment Week for all Primary Three students.</p>
 </p>
 </li>
 <li>
-<p><a href="/our-programmes/cca/media-photography/" rel="noopener noreferrer" target="_blank"><u>Media &amp; Photography</u></a>
+<p><a href="/our-programmes/cca/media-photography/" rel="noopener noreferrer" target="_blank"><u>Tech &amp; Media Club</u></a>
 </p>
 </li>
 </ul>
@@ -287,41 +279,22 @@ CCA Recruitment Week for all Primary Three students.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Registration is conducted online via the Parents Gateway in August.</p>
+<p>Registration is conducted online via Parents Gateway in August.</p>
 </li>
 <li>
-<p>Students will visit CCA booths and view CCA Showcase video clips during
-CCA Recruitment Week, and subsequently sign up online for a CCA that they
-are interested in.</p>
-</li>
-<li>
-<p>Students who intend to join a second CCA will need to obtain a CCA Registration
-Form from the General Office.</p>
+<p>Students will visit CCA booths during CCA Recruitment Week, and subsequently
+sign up online for a CCA that they are interested in.</p>
 </li>
 </ul>
-<p>&nbsp; &nbsp; c.&nbsp;<u>CCA Recruitment for New Students in Primary 4 – 6</u>
+<p>c.&nbsp;<u>CCA Recruitment for New Students in Primary 4 – 6</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>New students who join the school in Primary 4, 5 or 6 may obtain a&nbsp;<strong>CCA Registration Form</strong>&nbsp;from
-the General Office to join a CCA.</p>
-</li>
-<li>
-<p>Completed forms are to be returned to the Admin Executive at the General
-Office by the end of the first week of school.</p>
+<p>New students who join the school in Primary 4, 5 or 6 are to approach
+either the SH (PE &amp; CCA) or HOD (PE &amp; CCA) to sign up for a CCA.</p>
 </li>
 </ul>
-<p>&nbsp; &nbsp; d.&nbsp;<u>Change of CCA Request</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students will be allocated a CCA in Primary 4 and they are required to
-remain in the same CCA until Primary 6 to develop their interest and deepen
-their skills. Any request for change of CCA should only be made through
-their CCA Teacher in September and this is subject to approval.</p>
-</li>
-</ul>
-<p><strong>CCA Confirmation</strong>
+<p><strong>E. CCA Confirmation</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -329,6 +302,17 @@ their CCA Teacher in September and this is subject to approval.</p>
 their CCAs based on the choices they have submitted.</p>
 </li>
 </ul>
+<p><strong>F. Request for Change of CCA</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students who are allocated a CCA are required to remain in the same CCA
+until Primary 6 to develop their interest and deepen their skills. Any
+request for change of CCA should only be made through their CCA teacher-in-charge
+in September and this is subjected to approval.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <p><a href="/files/CCA_Schedule_2025__Sem_2__latest.pdf" rel="noopener nofollow" target="_blank">CCA Schedule 2025 (Sem 2)</a>
 </p>
