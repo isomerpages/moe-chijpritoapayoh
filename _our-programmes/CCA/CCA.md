@@ -158,24 +158,13 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="4">
+<p>*<em>Students are selected based on attitude and aptitude displayed during music and PAL lessons in Primary 2.</em>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*<em>Students are selected based on attitude and aptitude displayed during music and PAL lessons in Primary 2.</em>
-</p>
-<p></p>
 <p><strong>D. CCA Registration</strong>
 <br>The CCA Registration Exercise will be held for all Primary 3 students
 during the CCA Recruitment Week in Term 3.</p>
