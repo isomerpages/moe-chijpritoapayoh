@@ -119,9 +119,11 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Primary 3</strong>
 </p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Choir</p>
@@ -135,10 +137,35 @@ in the following Core CCAs and provides them with opportunities to excel:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>*Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Athletics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
