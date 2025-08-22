@@ -47,11 +47,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Ms Cindy Oo</p>
-<p>(o<a href="mailto:oo_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">o_hui_min@moe.edu.sg</a>)</p>
-<p>&nbsp;</p>
+<p>(oo_hui_min@moe.edu.sg)</p>
+<p></p>
 <p>Mrs Angelique Goh</p>
 <p>(woon_li_ying_angelique@moe.edu.sg)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ang Min Xuan Celeste (4 Lily)</p>
