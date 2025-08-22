@@ -162,14 +162,21 @@ competitions.</p>
 </p>
 <p>By participating in the Artistic Gymnastics CCA, students will be able
 to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explain and apply their
-knowledge of artistic gymnastics to execute skills safely.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Execute some of the
-compulsory routines at the non-competitive level and to complete the entire
-routines on the 4 apparatus – balance beam, vault, uneven bars and floor
-exercise.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate good sportsmanship
-and values of excellence, fair play, teamwork, discipline through gymnastics.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Explain and apply their knowledge of artistic gymnastics to execute skills
+safely.</p>
+</li>
+<li>
+<p>Execute some of the compulsory routines at the non-competitive level and
+to complete the entire routines on the 4 apparatus – balance beam, vault,
+uneven bars and floor exercise.</p>
+</li>
+<li>
+<p>Demonstrate good sportsmanship and values of excellence, fair play, teamwork,
+discipline through gymnastics.</p>
+</li>
+</ul>
 <p></p>
 <p><strong><u>Achievements</u></strong>
 </p>
