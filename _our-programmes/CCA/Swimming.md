@@ -6,6 +6,9 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Swimming_4.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,18 +35,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sathia</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">sathiabhavani_subramaniya_pilli@moe.edu.sg</a>)</p>
-<p>&nbsp;</p>
+<p>(sathiabhavani_subramaniya_pilli@moe.edu.sg)</p>
 <p>Mrs Selvi Sundar</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">thamilselvi_letchumanan@moe.edu.sg</a>)</p>
+<p>(thamilselvi_letchumanan@moe.edu.sg)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Recreational Team</u>
 </p>
 <p>Lim Hui Xin, Lana (5 Rose)</p>
+<p></p>
 <p>Kaelyn Chan Li Min (4 Ixora)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><u>Competitive Team</u>
 </p>
 <p>Edrea Lim Yu Cheng (6 Lily)</p>
@@ -69,27 +71,38 @@ the rules of the sport, and promoting values such as sportsmanship, excellence,
 fair play, teamwork, and discipline. Beyond skill development, it aims
 to create an enjoyable and supportive environment that encourages students
 to embrace swimming as a lifelong activity.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The Swim CCA shall be ceasing from Semester Two 2026 onward.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Learning Outcomes</u></strong>
 </p>
 <p>By participating in the Swim CCA, students will be able to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build water confidence
-and safety in the waters.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop students water
-survival skills.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop physical fitness
-of students through building of strength, endurance and coordination.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn different swimming
-strokes.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Correct and improve
-swimming strokes and technique to become better swimmers.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn and apply the
-rules in swimming.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inculcate values of
-sportsmanship, excellence, fair play, teamwork and discipline.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Build water confidence and safety in the waters.</p>
+</li>
+<li>
+<p>Develop students water survival skills.</p>
+</li>
+<li>
+<p>Develop physical fitness of students through building of strength, endurance
+and coordination.</p>
+</li>
+<li>
+<p>Learn different swimming strokes.</p>
+</li>
+<li>
+<p>Correct and improve swimming strokes and technique to become better swimmers.</p>
+</li>
+<li>
+<p>Learn and apply the rules in swimming.</p>
+</li>
+<li>
+<p>Inculcate values of sportsmanship, excellence, fair play, teamwork and
+discipline.</p>
+</li>
+</ul>
+<p></p>
 <p><strong><u>Achievements</u></strong>
 </p>
 <p>National School Games 2024</p>
@@ -101,7 +114,7 @@ sportsmanship, excellence, fair play, teamwork and discipline.</p>
 <p><u>Junior Division</u>
 </p>
 <p>Edrea Lim (5 Lily) – 7th in 50m Freestyle</p>
-<p>&nbsp;</p>
+<p></p>
 <p>National School Games 2025</p>
 <p><u>Senior Division</u>
 </p>
@@ -121,7 +134,4 @@ Freestyle</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Swimming_4.jpg">
-</div>
 <p></p>
