@@ -107,7 +107,6 @@ Me.</p>
 <p>International – My Globe, My Guiding World &amp; My Guiding Friend.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
