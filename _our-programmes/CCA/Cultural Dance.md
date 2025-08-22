@@ -44,10 +44,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Quek Xing Yi</p>
 <p>(quek_xing_yi@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Mrs Regina Begum</p>
 <p>(regina_begum_mohamed_ayoob@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Mdm Zhang Cui Zhi</p>
 <p>(zhang_cuizhi_a@moe.edu.sg<u>)</u>
 </p>
