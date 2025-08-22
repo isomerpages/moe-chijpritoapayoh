@@ -5,6 +5,21 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis_2_compressed.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis_4.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,35 +47,30 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nur Arafah Yaacoob</p>
 <p>(I/C for Development and Competitive Teams)</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">nur_arafah@moe.edu.sg</a>)</p>
-<p>&nbsp;</p>
+<p>(nur_arafah@moe.edu.sg)</p>
 <p>Ms Hong Xiaoqin</p>
 <p>(I/C for Recreational Team)</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">hong_xiaoqin@moe.edu.sg</a>)</p>
-<p>&nbsp;</p>
+<p>(hong_xiaoqin@moe.edu.sg)</p>
 <p>Mdm Low Chiou Miin</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">low_chiou_miin@moe.edu.sg</a>)</p>
-<p>&nbsp;</p>
+<p>(low_chiou_miin@moe.edu.sg)</p>
 <p>Ms Kian Lan Gosian</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">quek_kian_lan@moe.edu.sg</a>)</p>
-<p>&nbsp;</p>
+<p>(quek_kian_lan@moe.edu.sg)</p>
 <p>Mdm Anpazhaki</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">anpazhaki_a@moe.edu.sg</a>)</p>
-<p>&nbsp;</p>
+<p>(anpazhaki_a@moe.edu.sg)</p>
 <p>Mr Justin Yeo</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">justin_yeo_tian_wei@moe.edu.sg</a>)</p>
+<p>(justin_yeo_tian_wei@moe.edu.sg)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Senior Team</u>
 </p>
 <p>Chen Yueyi, Megan (6 Lily)</p>
 <p>Summer Cheung Min (6 Rose)</p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Junior Team</u>
 </p>
 <p>Ong Si En Vera (5 Orchid)</p>
 <p>Charlotte Lee Wen Jun (5 Lily)</p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Recreational Team</u>
 </p>
 <p>Wong Shi Qi Vera (6 Orchid)</p>
@@ -72,7 +82,7 @@ variant: tiptap
 <p>Mondays, Wednesdays and Thursdays</p>
 <p>2.20pm to 4.50pm</p>
 <p>ActiveSG Tennis Courts / Indoor Sports Hall</p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Recreational Team</u>
 </p>
 <p>Tuesdays</p>
@@ -94,36 +104,40 @@ levels to experience tennis through fun and games, drills and routines.</p>
 <p><strong><u>Learning Outcomes</u></strong>
 </p>
 <p>By participating in the Tennis CCA, students will be able to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explain and apply their
-knowledge of basic rules of tennis to play the game correctly.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn the fundamentals
-of the game that players of all levels should master.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn the 3 basic strokes
-– Forehand, Backhand &amp; Service.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Become confident players
-and demonstrate good sportsmanship and values of excellence, fair play,
-teamwork, discipline through playing tennis.</p>
-<p>&nbsp;</p>
-<p><strong><u>Achievements (if applicable)</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Explain and apply their knowledge of basic rules of tennis to play the
+game correctly.</p>
+</li>
+<li>
+<p>Learn the fundamentals of the game that players of all levels should master.</p>
+</li>
+<li>
+<p>Learn the 3 basic strokes – Forehand, Backhand &amp; Service.</p>
+</li>
+<li>
+<p>Become confident players and demonstrate good sportsmanship and values
+of excellence, fair play, teamwork, discipline through playing tennis.</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Achievements</u></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National School Games
-2024 – 3rd for Senior Division</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National School Games
-2025 – 3rd for Senior Division</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games 2024 – 3rd for Senior Division</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games 2025 – 3rd for Senior Division</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis_3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis_4.jpg">
-</div>
 <p></p>
