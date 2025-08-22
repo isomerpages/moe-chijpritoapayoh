@@ -78,12 +78,11 @@ variant: tiptap
 </p>
 <p>Jacy Wong Jing En (6 Lily)</p>
 <p>Hannah Lauren Yong Tze Hui (6 Hibiscus)</p>
-<p>&nbsp;</p>
-<p><u>Junior Team</u>
+<p>&nbsp;<u>Junior Team</u>
 </p>
 <p>Josie Lee Tarbard (5 Lily)</p>
 <p>Cozette Sng Yi Qing (5 Rose)</p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Recreational Team</u>
 </p>
 <p>Adele Ann En Rui (6 Hibiscus)</p>
