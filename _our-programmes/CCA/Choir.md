@@ -80,23 +80,35 @@ student’s ability to pitch, keep time and rhythm.</p>
 <p><strong><u>Learning Outcomes</u></strong>
 </p>
 <p>By participating in the Choir CCA, students will be able to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sing in pitch using
-proper breathing techniques.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be musically literate.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sing confidently in
-harmony.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Display a flair for
-performance in front of an audience.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grow in confidence through
-singing and display CHRIST values.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sing in pitch using proper breathing techniques.</p>
+</li>
+<li>
+<p>Be musically literate.</p>
+</li>
+<li>
+<p>Sing confidently in harmony.</p>
+</li>
+<li>
+<p>Display a flair for performance in front of an audience.</p>
+</li>
+<li>
+<p>Grow in confidence through singing and display CHRIST values.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p><strong><u>Achievements</u></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth Festival
-2024 Arts Presentation – Certificate of Distinction</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation in masterclass,
-performance and choir exchange in Voices of Singapore Festival in September
-2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival 2024 Arts Presentation – Certificate of Distinction</p>
+</li>
+<li>
+<p>Participation in masterclass, performance and choir exchange in Voices
+of Singapore Festival in September 2025</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
