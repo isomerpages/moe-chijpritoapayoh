@@ -48,7 +48,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;Ms Cindy Oo</p>
 <p>(oo_hui_min@moe.edu.sg)</p>
-<p></p>
 <p>Mrs Angelique Goh</p>
 <p>(woon_li_ying_angelique@moe.edu.sg)</p>
 </td>
