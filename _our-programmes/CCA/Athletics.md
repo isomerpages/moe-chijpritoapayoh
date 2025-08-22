@@ -109,13 +109,19 @@ discipline to represent the school in official track and field meets.</p>
 <p><strong><u>Learning Outcomes</u></strong>
 </p>
 <p>By participating in the Athletics CCA, students will be able to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Apply proper techniques
-in sprinting, jumping, and throwing events to ensure performance and safety.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand rules and
-strategies related to various track and field disciplines.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Display values such
-as perseverance, sportsmanship, teamwork, resilience, and respect through
-training and competition.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Apply proper techniques in sprinting, jumping, and throwing events to
+ensure performance and safety.</p>
+</li>
+<li>
+<p>Understand rules and strategies related to various track and field disciplines.</p>
+</li>
+<li>
+<p>Display values such as perseverance, sportsmanship, teamwork, resilience,
+and respect through training and competition.</p>
+</li>
+</ul>
 <p><strong><u>Achievements</u></strong>
 </p>
 <p>National School Games 2023</p>
