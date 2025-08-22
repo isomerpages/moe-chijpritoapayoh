@@ -73,7 +73,7 @@ variant: tiptap
 <p>Choir CCA provides students with opportunities to perform in internal
 and external choral events. Students are exposed to singing in different
 languages and genres of music.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Admission criteria to the choir involves a simple audition to assess the
 student’s ability to pitch, keep time and rhythm.</p>
 <p></p>
