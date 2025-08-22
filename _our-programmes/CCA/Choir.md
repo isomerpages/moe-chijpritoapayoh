@@ -48,13 +48,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;Mdm Joyce Ang</p>
 <p>(joyce_ang_bee_gaik@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Ms Yeo Bee Leng</p>
 <p>(yeo_bee_leng@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Mdm Chia Yen Ping</p>
 <p>(chia_yen_ping@moe.edu.sg)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sophia Alexandria Martinez (6 Rose)</p>
