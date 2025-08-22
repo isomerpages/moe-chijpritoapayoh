@@ -68,7 +68,6 @@ variant: tiptap
 <p>Mondays and Thursdays</p>
 <p>2.15pm to 3.45pm</p>
 <p>Barre Hall</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
