@@ -97,7 +97,6 @@ student’s ability to pitch, keep time and rhythm.</p>
 <p>Grow in confidence through singing and display CHRIST values.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><u>Achievements</u></strong>
 </p>
 <ul data-tight="true" class="tight">
