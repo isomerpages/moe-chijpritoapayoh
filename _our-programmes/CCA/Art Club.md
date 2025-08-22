@@ -3,23 +3,101 @@ title: Art Club
 permalink: /our-programmes/cca/art-club/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-Art Club offers students with an interest in visual arts to come together and learn about art.
-
-Students are given the opportunity to showcase their talents and expand their knowledge in art and art-making through different mediums, including ceramics, painting, wiring, relief plaster etc.
-
-Students also go on field trips to museums to appreciate art exhibitions which help create awareness and appreciation of art around them. Exchange programmes are also organised for Art Club students to learn about other art forms in other schools.
-
-<u>Learning Outcomes :</u>
-
-_Students will be able to …_
-
-*   Learn new techniques and medium of art through hands-on activities and visitation to museums, exhibitions and schools.
-*   Express their thoughts, feelings and creativity through the various visual art forms.
-*   Participate and excel in competitions.
-
-![Art Club](/images/Art-1.jpg)
-
-![Art Club](/images/Art-2.jpg)
-
-![Art Club](/images/Art-3.jpeg)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Club_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Club_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Club_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Club_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Club_5.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-charge</strong>
+</p>
+<p><strong>(email address)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Schedule</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Mr Brendan Tan</p>
+<p>tan_hsien_yang_brendan@moe.edu.sg</p>
+<p>Ms Tay Hwee Yin Felicia</p>
+<p>(tay_hwee_yin_felicia@moe.edu.sg)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Natasha Lim Jia Xin (6 Hibiscus)</p>
+<p>Tan Yue Ning (5 Hibiscus)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+<p>2.15pm to 3.45pm</p>
+<p>The Canvas / The Palette</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>Overview</u></strong>
+</p>
+<p>During Art Club sessions, students are given the opportunity to handle
+a wider variety of art-materials and learn more in-depth art-making skills
+on top of day-to-day curriculum lessons.</p>
+<p></p>
+<p>Students collaborate in groups for various projects and participate in
+competitions arranged by external organisations throughout the year.</p>
+<p></p>
+<p><strong><u>Learning Outcomes</u></strong>
+</p>
+<p>By participating in the Art Club CCA, students will be able to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Use a variety of art tools to work individually and collaboratively to
+create different Art forms.</p>
+</li>
+<li>
+<p>Appreciate a variety of Art forms through discussions during CCA sessions.</p>
+</li>
+<li>
+<p>Take ownership of their learning and exhibit the CHRIST values in their
+art-making journey.</p>
+</li>
+</ul>
+<p><strong><u>Achievements</u></strong>
+</p>
+<p>SYF Art Exhibition 2025 – Participation in lower, middle and upper primary
+categories.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
