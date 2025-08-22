@@ -48,10 +48,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;Mrs Lynette Ng</p>
 <p>(chan_heng_jing_lynette@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Ms Melody Soh</p>
 <p>(melody_soh_ming_li@moe.edu.sg)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Mdm Jiang Lina</p>
 <p>(jiang_lina@moe.edu.sg)</p>
 </td>
