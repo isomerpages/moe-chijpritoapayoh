@@ -72,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>&nbsp;<strong><u>Overview</u></strong>
+<p><strong><u>Overview</u></strong>
 </p>
 <p>The Cultural Dance CCA introduces students to the vibrant and diverse
 world of traditional dances from Singapore’s major ethnic groups – Chinese,
