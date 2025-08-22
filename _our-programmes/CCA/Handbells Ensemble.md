@@ -76,12 +76,17 @@ scene if the opportunity arises.</p>
 </p>
 <p>By participating in the Handbells Ensemble CCA, students will be able
 to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate good handbell
-techniques.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master the techniques
-and skills in playing handbells and handchimes.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn music pieces to
-perform for the school and the community.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate good handbell techniques.</p>
+</li>
+<li>
+<p>Master the techniques and skills in playing handbells and handchimes.</p>
+</li>
+<li>
+<p>Learn music pieces to perform for the school and the community.</p>
+</li>
+</ul>
 <p></p>
 <p><strong><u>Achievements</u></strong>
 </p>
