@@ -27,7 +27,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P3 Daisy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,6 +60,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Soo Ming Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_ming_ting_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>P3 Hibiscus</p>
 </td>
@@ -85,7 +96,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P3 Ixora</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,17 +118,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>quek_kian_lan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Quek Xing Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>quek_xing_yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -189,10 +189,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Hock Siang</p>
+<p>Miss Quek Xing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_hock_siang@moe.edu.sg</p>
+<p>quek_xing_yi@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

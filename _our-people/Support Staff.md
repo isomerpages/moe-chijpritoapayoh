@@ -54,6 +54,15 @@ variant: tiptap
 <p>Mdm Aisah Bte Mohd Yusoff</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Library Assistant</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Jesmin Poh</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
