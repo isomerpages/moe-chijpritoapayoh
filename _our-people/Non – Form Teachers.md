@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lilin Song</p>
+<p>Ms Lilian Song</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>song_gek_kin_lilian@moe.edu.sg</p>
