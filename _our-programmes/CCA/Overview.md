@@ -223,7 +223,7 @@ current CCA they are in during the registration exercise.</p>
 </p>
 </li>
 <li>
-<p><a href="/our-programmes/cca/artistic-gymnastics/" rel="noopener noreferrer" target="_blank"><u>Basketball</u></a>
+<p><u>Basketball</u>
 </p>
 </li>
 <li>
