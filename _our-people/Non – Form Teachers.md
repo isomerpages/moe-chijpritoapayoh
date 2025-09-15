@@ -104,7 +104,7 @@ variant: tiptap
 <p>Mdm Tan Soon Fun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_soon_fun_c@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language and Science</p>
