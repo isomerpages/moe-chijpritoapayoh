@@ -35,17 +35,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Pauline Soh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_gek_suan_pauline@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language, Mathematics and Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ho Sheen Yee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,24 +101,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Irene Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koh_irene@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics and Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Quek Kah Ling</p>
+<p>Mdm Tan Soon Fun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music</p>
+<p>English Language and Science</p>
 </td>
 </tr>
 </tbody>
