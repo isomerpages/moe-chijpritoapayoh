@@ -9,7 +9,7 @@ variant: tiptap
 <br>Tel: 90480462
 <br><strong>(The bookshop is available for walk-in from 11.45am to 1pm on the first Wednesday of each month, and if the first Wednesday falls on a Public Holiday, then the bookshop will be open on the 2nd Wednesday of that month.)</strong>
 <br>Click on the link below to download the booklist
-<br><a href="https://www.chijpritoapayoh.moe.edu.sg/for-parents/booklists/" rel="noopener noreferrer nofollow" target="_blank">Book &amp; Stationary List</a>
+<br><a href="https://www.chijpritoapayoh.moe.edu.sg/for-parents/booklists/" rel="noopener noreferrer nofollow" target="_blank">Book &amp; Stationery List</a>
 </p>
 <h5>School Bus Service</h5>
 <p>(for provision of bus service with effect from January 2020)
