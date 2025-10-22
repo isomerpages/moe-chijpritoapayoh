@@ -27,15 +27,8 @@ represented by a blue ribbon, to form a complete heart, emphasizing the
 important&nbsp; influence of both family and school on the holistic development
 of our girls.</p>
 <p></p>
-<p>To be on the Parents Mailing List For School activities, please visit:</p>
-<p><a href="https://form.gov.sg/634e95ebd25d7f0012f3d1f4" rel="noopener noreferrer nofollow" target="_blank">Please click here to sign up</a>
-</p>
-<p>or
-<br>scan the QR Code</p>
-<div class="isomer-image-wrapper">
-<img style="width:25%;" height="auto" width="100%" alt="QR-sign-up" src="/images/2023-CPC-Mailing-List-QR-Code.png">
-</div>
-<p>or email CPC at&nbsp;<a href="mailto:chijpri.cpc@gmail.com" rel="noopener noreferrer nofollow" target="_blank">chijpri.cpc@gmail.com</a>
+<p>To be on the Parents Mailing List For School activities, please email
+CPC at&nbsp;<a href="mailto:chijpri.cpc@gmail.com" rel="noopener noreferrer nofollow" target="_blank">chijpri.cpc@gmail.com</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/orgCHART_cpc25.png">
