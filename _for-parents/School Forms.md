@@ -8,8 +8,8 @@ variant: tiptap
 <hr>
 <h5><strong><a href="https://studentgpa.incomegroupins.com.sg/#/dashboard" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance Claim for Students</a></strong></h5>
 <hr>
-<h5><strong><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">FAS Application Form 2025</a></strong></h5>
-<p>Click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance." rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<h5><strong><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">FAS Application Form 2026</a></strong></h5>
+<p>Click <a href="https://go.gov.sg/press-releases-20251016" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information</p>
 <hr>
 <h5><strong><a href="/files/Updating_Pupils_Personal_Particulars_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Updating Pupils Personal Particulars Form</a></strong></h5>
