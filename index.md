@@ -18,8 +18,9 @@ sections:
       alt: History of CHIJ
   - infopic:
       title: Highlights
-      description: Ms Vivienne Lim, IJ Board of Management Chairperson, shares her
-        reflections and gratitude as we conclude another meaningful year.
+      description: Ms Vivienne Lim, Chairperson of the CHIJ Board of Management,
+        shares her reflections and gratitude as we conclude another meaningful
+        year.
       button: Read More
       url: /events/
       image: /images/events3.jpg
