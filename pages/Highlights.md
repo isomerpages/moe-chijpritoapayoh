@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2025 Year End Message from Ms Vivienne Lim IJ Board of Management Chairperson</strong>
+<summary><strong>2025 Year End Message from Ms Vivienne Lim, Chairperson of the CHIJ Board of Management</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
