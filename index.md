@@ -18,8 +18,8 @@ sections:
       alt: History of CHIJ
   - infopic:
       title: Highlights
-      description: 2024 was a very special year for us as CHIJ celebrated its 170th
-        anniversary.
+      description: Ms Vivienne Lim, IJ Board of Management Chairperson, shares her
+        reflections and gratitude as we conclude another meaningful year.
       button: Read More
       url: /events/
       image: /images/events3.jpg
