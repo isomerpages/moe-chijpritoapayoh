@@ -34,8 +34,6 @@ visiting their retail shop.)</p>
 <p>Email: <a href="mailto:chijtp_sccops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijtp_sccops@singaporeedusmart.edu.sg</a>
 <br>Tel: 6258 5100
 <br>HP: 9777 3768
-<br><strong>2025 Primary 1 SCC Registration of Interest</strong> 
-<br>Kindly click on the link below to submit your interest for SCC services
-in 2025.
-<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSc_hypD46uRvd4xP-K0evpjRM1i-s0I0G0YfWnKrPiU8_rHlQ/viewform?usp=pp_url" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSc_hypD46uRvd4xP-K0evpjRM1i-s0I0G0YfWnKrPiU8_rHlQ/viewform?usp=pp_url</a>
-</p>
+<br><strong>2026 Primary 1 SCC Registration of Interest</strong> 
+<br>Please click <a href="https://forms.gle/Po6w127gZGKYYVtC6" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+submit your interest for SCC enrolment by 14 Nov 2025.</p>
