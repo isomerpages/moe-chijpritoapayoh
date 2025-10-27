@@ -62,27 +62,6 @@ staff, students, parents and alumnae, now and always.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Inspiring TL Teacher Award 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>On 21 September 2024, our Lead Teacher (Tamil) Mrs Veerarajoo Devika &nbsp;received
-the Inspiring TL Teacher Award 2024 from Minister for Law Mr K. Shanmugam.
-This award is jointly organised by Tamil Murasu, Singapore Tamil Teachers’
-Union and the Tamil Language Learning and Promotion Committee. This award
-serves to recognise the stellar performance of Tamil teachers in their
-role in educating and promoting Tamil Language among their students.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240922_WA0024_Veera_preference.jpg">
-</div>
-<p>In addition, Mrs Veerarajoo was featured and interviewed in “Ethiroli”
-– an educational programme by Vasantham on 4 Sept 2024. The programme featured
-5 teachers who made a difference in the lives of their students. Click
-here to view the excerpt of the <a href="https://drive.google.com/file/d/1dTBmv-NsqHz8Zh7XsxCI3DRWJ--K7vHo/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">programme</a>
-</p>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>CHIJ 170th Anniversary</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -119,6 +98,27 @@ view the article from The Straits Times</p>
 </p>
 </li>
 </ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Inspiring TL Teacher Award 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 21 September 2024, our Lead Teacher (Tamil) Mrs Veerarajoo Devika &nbsp;received
+the Inspiring TL Teacher Award 2024 from Minister for Law Mr K. Shanmugam.
+This award is jointly organised by Tamil Murasu, Singapore Tamil Teachers’
+Union and the Tamil Language Learning and Promotion Committee. This award
+serves to recognise the stellar performance of Tamil teachers in their
+role in educating and promoting Tamil Language among their students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240922_WA0024_Veera_preference.jpg">
+</div>
+<p>In addition, Mrs Veerarajoo was featured and interviewed in “Ethiroli”
+– an educational programme by Vasantham on 4 Sept 2024. The programme featured
+5 teachers who made a difference in the lives of their students. Click
+here to view the excerpt of the <a href="https://drive.google.com/file/d/1dTBmv-NsqHz8Zh7XsxCI3DRWJ--K7vHo/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">programme</a>
+</p>
 </div>
 </details>
 </div>
