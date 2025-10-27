@@ -22,7 +22,7 @@ sections:
         reflections and gratitude as we conclude another meaningful year.
       button: Read More
       url: /events/
-      image: /images/1761534340478_2f1aeb25_bf61_45c1_877b_6ec4fa44a80b_1.jpg
+      image: /images/School_Crest___French.jpg
       alt: Sports Day
   - infopic:
       title: Faith Formation
