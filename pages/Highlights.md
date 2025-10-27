@@ -65,5 +65,12 @@ here to view the excerpt of the <a href="https://drive.google.com/file/d/1dTBmv-
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Year End 2025 Message from Ms Vivienne Lim IJ Board of Management Chairperson</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
