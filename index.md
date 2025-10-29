@@ -23,7 +23,7 @@ sections:
         year.
       button: Read More
       url: /events/
-      image: /images/events3.jpg
+      image: /images/IJ_Girl_V1_Celebration_of_Hope.png
       alt: Sports Day
   - infopic:
       title: Faith Formation
