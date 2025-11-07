@@ -6,16 +6,15 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPC_Logo_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_06_at_3_08_39_PM.jpg">
 </div>
 <p><strong>INTRODUCTION&nbsp;</strong>
 </p>
-<p>2024 marks a significant milestone of our school’s history as we celebrate
-the the 170th anniversary of CHIJ schools in Singapore</p>
-<p>As we celebrate together with our school, the CHIJ Central Parent Council
-(CHIJ CPC) has launched a refreshed look as we look ahead to more collaborations
-with the school and seek to enhance the IJ experience our girls can enjoy
-today and for many generations of girls to come.</p>
+<p><em>At CHIJ Central Parent Council, our hearts beat with love and sincerity, guided by our school's motto: "Simple in Virtue, Steadfast in Duty”.&nbsp;</em>
+</p>
+<p></p>
+<p><em>We coordinate and facilitate efforts to support our vibrant school community, fostering collaboration between parents and the school. We work together with trust and mutual respect to nurture the holistic development of all our girls. Our Parent Volunteers embody the spirit of service &amp; camaraderie. Together, with family and school united, we strive to make a positive impact on the lives of all our daughters.</em>
+</p>
 <p></p>
 <p><strong>LOGO WRITE-UP&nbsp;</strong>
 </p>
@@ -27,9 +26,15 @@ represented by a blue ribbon, to form a complete heart, emphasizing the
 important&nbsp; influence of both family and school on the holistic development
 of our girls.</p>
 <p></p>
-<p>To be on the Parents Mailing List For School activities, please email
-CPC at&nbsp;<a href="mailto:chijpri.cpc@gmail.com" rel="noopener noreferrer nofollow" target="_blank">chijpri.cpc@gmail.com</a>
-</p>
+<p>To join the Parents Mailing List For School activities, please email CPC
+at&nbsp;<a href="mailto:chijpri.cpc@gmail.com" rel="noopener noreferrer nofollow" target="_blank">chijpri.cpc@gmail.com </a>with
+the following details:</p>
+<p>i. Full Name</p>
+<p>ii. Relationship to Child&nbsp;</p>
+<p>iii. Mobile number&nbsp;</p>
+<p>iv. Name of Child&nbsp;</p>
+<p>v. Child's Class in 2026&nbsp;</p>
+<p>vi. Parent 2 (Full name)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/orgCHART_cpc25.png">
 </div>
