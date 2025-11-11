@@ -69,11 +69,12 @@ of schools was launched at the event.</p>
 <summary><strong>CHIJ 170th Anniversary</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<blockquote>
+<p></p>
 <p>2024 was a very special year for us as CHIJ celebrated its 170th anniversary.
 An album with 12 songs written by students, teachers and alumni from across
 the CHIJ family of schools was launched at the event.</p>
 <p>Articles on CHIJ 170th Celebrations</p>
+<blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Click <a href="/files/CHIJ_170th_anniversary_celebrations_address___20_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
