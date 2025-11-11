@@ -54,7 +54,11 @@ of challenge, and may hope inspire you to be a light for others. And may
 we always strive to be “Simple in Virture, Steadfast in Duty”.</p>
 <p>It has been my profound honour to share this journey with you.</p>
 <p>May God continue to bless CHIJ Primary, her leaders, teaching and non-teaching
-staff, students, parents and alumnae, now and always.</p>
+staff, students, parents and alumnae, now and always.2024 was a very special
+year for us as CHIJ celebrated its 170th anniversary. An album with 12
+songs written by students, teachers and alumni from across the CHIJ family
+of schools was launched at the event.</p>
+<p></p>
 <p>With Thanksgiving and Love,</p>
 <p>Vivienne Lim</p>
 <p>Chairperson</p>
@@ -65,9 +69,12 @@ staff, students, parents and alumnae, now and always.</p>
 <summary><strong>CHIJ 170th Anniversary</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3>2024 was a very special year for us as CHIJ celebrated its 170th anniversary. An album with 12 songs written by students, teachers and alumni from across the CHIJ family of schools was launched at the event.</h3>
 <p></p>
-<h4>Articles on CHIJ 170th Celebrations</h4>
+<p>2024 was a very special year for us as CHIJ celebrated its 170th anniversary.
+An album with 12 songs written by students, teachers and alumni from across
+the CHIJ family of schools was launched at the event.</p>
+<p>Articles on CHIJ 170th Celebrations</p>
+<blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Click <a href="/files/CHIJ_170th_anniversary_celebrations_address___20_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
@@ -83,7 +90,9 @@ view the article from Catholic News</p>
 view the article from The Straits Times</p>
 </li>
 </ul>
+</blockquote>
 <p>Click here to access our Hold On To Our IJ Dream album</p>
+<blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://music.apple.com/us/album/hold-on-to-our-ij-dream/1742259531" rel="noopener noreferrer nofollow" target="_blank">Apple Music</a>
@@ -98,6 +107,7 @@ view the article from The Straits Times</p>
 </p>
 </li>
 </ul>
+</blockquote>
 </div>
 </details>
 <details class="isomer-details">
