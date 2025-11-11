@@ -90,7 +90,9 @@ view the article from Catholic News</p>
 view the article from The Straits Times</p>
 </li>
 </ul>
+</blockquote>
 <p>Click here to access our Hold On To Our IJ Dream album</p>
+<blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://music.apple.com/us/album/hold-on-to-our-ij-dream/1742259531" rel="noopener noreferrer nofollow" target="_blank">Apple Music</a>
