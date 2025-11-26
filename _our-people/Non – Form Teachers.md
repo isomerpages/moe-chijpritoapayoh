@@ -46,43 +46,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Joanne Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_shuyi_joanne@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics and Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Koh Kai Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>koh_kai_jun@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Sherene Ye</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sherene_ling@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics and Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lilian Song</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>song_gek_kin_lilian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
@@ -97,17 +64,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Soon Fun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_soon_fun_c@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language and Science</p>
 </td>
 </tr>
 </tbody>
