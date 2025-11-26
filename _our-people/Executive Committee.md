@@ -34,6 +34,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice - Principal (Curriculum)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Miss Imelda Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice - Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="2">
