@@ -34,7 +34,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice - Principal (Staff Development)</p>
+<p>Vice - Principal</p>
+<p>(Staff Development)</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Miss Imelda Tan</p>
