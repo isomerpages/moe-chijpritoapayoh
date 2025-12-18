@@ -17,42 +17,42 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Principal</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mrs Judina Cheong</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Vice - Principal (Curriculum)</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mrs Melissa Yap</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Vice - Principal</p>
-<p>(Staff Development)</p>
-</td>
 <td rowspan="1" colspan="2">
+<p>Vice - Principal (Staff Development)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Miss Imelda Tan</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Vice - Principal (Administration)</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mrs Yvonne Tan</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="3">
-<p>Year Heads and School Staff Developer</p>
-</th>
+<td rowspan="1" colspan="3">
+<p><strong>Year Heads and School Staff Developer</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
