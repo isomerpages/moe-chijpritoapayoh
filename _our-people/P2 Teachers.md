@@ -31,13 +31,13 @@ variant: tiptap
 <p>P2 Daisy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shirley Ang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_ching_ching_shirley@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
