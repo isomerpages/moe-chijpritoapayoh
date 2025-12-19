@@ -192,13 +192,13 @@ variant: tiptap
 <p>P2 Violet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Geraldine Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>koh_yi_min_geraldine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
