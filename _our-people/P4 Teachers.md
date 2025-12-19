@@ -150,13 +150,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Geraldine Koh</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_yi_min_geraldine@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
