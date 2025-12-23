@@ -164,13 +164,13 @@ variant: tiptap
 <p>P3 Rose</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Jasmine Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lau_li_hsiang_jasmine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
