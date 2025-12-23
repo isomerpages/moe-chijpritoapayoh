@@ -137,7 +137,7 @@ variant: tiptap
 <p>Mdm Wendy Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wendy_Lelia_Ong@moe.edu.sg</p>
+<p>wendy_lelia_ong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
