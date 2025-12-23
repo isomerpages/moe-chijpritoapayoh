@@ -31,13 +31,13 @@ variant: tiptap
 <p>P5 Daisy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Adele Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Adele_Seah_Pei_Jia_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
