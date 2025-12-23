@@ -184,7 +184,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Geraldine Koh</p>
+<p>Ms Geraldine Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>koh_yi_min_geraldine@moe.edu.sg</p>
