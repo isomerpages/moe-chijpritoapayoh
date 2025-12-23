@@ -81,13 +81,13 @@ variant: tiptap
 <p>P3 Ixora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Charmaine Chu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chu_see_min_charmaine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
