@@ -125,13 +125,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Loretta Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_siew_ling_loretta@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
