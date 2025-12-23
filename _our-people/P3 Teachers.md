@@ -42,13 +42,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Rajini Devi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rajini_devi_ram_rattan@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
