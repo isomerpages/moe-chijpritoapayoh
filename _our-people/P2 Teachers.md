@@ -67,13 +67,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Quek Xing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>quek_xing_yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
