@@ -173,7 +173,7 @@ variant: tiptap
 <p>Mr Low Hock Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>low_hock_siang@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
