@@ -92,13 +92,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Loh Yi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>loh_yi_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
