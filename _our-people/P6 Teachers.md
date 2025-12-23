@@ -170,13 +170,13 @@ variant: tiptap
 <p>P6 Rose</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Veerarajoo Devika</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>veerarajoo_devika@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
