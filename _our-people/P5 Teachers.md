@@ -37,7 +37,7 @@ variant: tiptap
 <p>Miss Adele Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adele_Seah_Pei_Jia_A@moe.edu.sg</p>
+<p>adele_seah_pei_jia_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chandra Bavani</p>
+<p>Miss Chandra Bavani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chandraselven_bavani@moe.edu.sg</p>
