@@ -117,13 +117,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Nina Mark</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mark_pei_lai_nina@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
