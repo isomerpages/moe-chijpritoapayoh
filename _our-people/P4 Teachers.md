@@ -112,7 +112,7 @@ variant: tiptap
 <p>Mrs Joanne Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ong_shuyi_joanne@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
