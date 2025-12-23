@@ -81,24 +81,24 @@ variant: tiptap
 <p>P6 Ixora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Jeannette Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_boon_lee_jeannette@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Teo Peng Kee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>teo_peng_kee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
