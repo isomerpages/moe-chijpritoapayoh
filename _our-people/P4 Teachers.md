@@ -167,10 +167,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Low Hock Siang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
