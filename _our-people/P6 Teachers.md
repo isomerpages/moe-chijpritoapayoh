@@ -106,13 +106,13 @@ variant: tiptap
 <p>P6 Lily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh Mei Yin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liew_mei_yin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
