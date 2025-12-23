@@ -156,13 +156,13 @@ variant: tiptap
 <p>P4 Rose</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Andrea Ni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ni_qiaoxian_andrea@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
