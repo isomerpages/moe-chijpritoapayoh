@@ -77,7 +77,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P6 Ixora</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,17 +99,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>teo_peng_kee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Huang Qiu Qin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>huang_qiuqin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
