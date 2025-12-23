@@ -81,13 +81,13 @@ variant: tiptap
 <p>P5 Ixora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Julia Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chia_yee_ming_julia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
