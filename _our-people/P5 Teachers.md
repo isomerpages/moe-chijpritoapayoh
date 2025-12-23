@@ -167,13 +167,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Rohini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>rohini_visva_nathan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
