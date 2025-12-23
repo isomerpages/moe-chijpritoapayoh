@@ -31,13 +31,13 @@ variant: tiptap
 <p>P4 Daisy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kavitha</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kavitha_sathiamurthi@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -56,13 +56,13 @@ variant: tiptap
 <p>P4 Hibiscus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Kavitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kavitha_sathiamurthi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
