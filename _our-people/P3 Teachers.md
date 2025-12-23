@@ -139,13 +139,13 @@ variant: tiptap
 <p>P3 Orchid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Samantha Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>fong_xiu_zhen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
