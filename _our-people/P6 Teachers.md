@@ -131,13 +131,13 @@ variant: tiptap
 <p>P6 Orchid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Elsa Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>elsa_ang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
