@@ -102,7 +102,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<th rowspan="2" colspan="1">
+<th rowspan="3" colspan="1">
 <p>P1 Lily</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -113,6 +113,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Sathiabhavani_Subramaniya_Pilli@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hong Xiaoqin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hong_xiaoqin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -167,13 +178,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hong Xiaoqin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hong_xiaoqin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
