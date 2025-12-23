@@ -153,13 +153,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lui Zi Hui</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_zi_hui@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -178,13 +178,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Lui Zi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>goh_zi_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
