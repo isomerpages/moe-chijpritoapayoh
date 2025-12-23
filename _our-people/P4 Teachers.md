@@ -106,21 +106,13 @@ variant: tiptap
 <p>P4 Lily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jumaeen</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammed_jumaeen_amat_kamsin@moe.edu.sg</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
