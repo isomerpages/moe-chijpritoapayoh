@@ -34,10 +34,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kelly Ho</p>
+<p>Miss Yeo Bee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_pui_ling@moe.edu.sg</p>
+<p>yeo_bee_leng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -45,10 +45,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mabel Yeo</p>
+<p>Mdm Jiang Lina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_wei_lin_mabel@moe.edu.sg</p>
+<p>jiang_lina@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -59,10 +59,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Soh Yin Ting</p>
+<p>Ms Shirley Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soh_yin_ting@moe.edu.sg</p>
+<p>ang_ching_ching_shirley@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -84,10 +84,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rajes Niedu</p>
+<p>Mrs Joy Drysdale</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rajoo_rajeswari@moe.edu.sg</p>
+<p>rodrigues_joy_ann-marie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -95,15 +95,40 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tang Li</p>
+<p>Mdm Low Chiou Miin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_li@moe.edu.sg</p>
+<p>low_chiou_miin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <th rowspan="2" colspan="1">
 <p>P1 Lily</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sathia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sathiabhavani_Subramaniya_Pilli@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hong Xiaoqin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hong_xiaoqin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<th rowspan="2" colspan="1">
+<p>P1 Orchid</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -120,24 +145,24 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nina Mark</p>
+<p>Ms Azliana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mark_pei_lai_nina@moe.edu.sg</p>
+<p>azliana_abu_bakar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <th rowspan="2" colspan="1">
-<p>P1 Orchid</p>
+<p>P1 Rose</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Selvi Sundar</p>
+<p>Mrs Elaine Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>thamilselvi_letchumanan@moe.edu.sg</p>
+<p>chong_mei_lin_elaine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -153,41 +178,16 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="2" colspan="1">
-<p>P1 Rose</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Regina Begum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>regina_begum_mohamed_ayoob@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hong Xiaoqin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hong_xiaoqin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<th rowspan="2" colspan="1">
 <p>P1 Violet</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yeo Bee Leng</p>
+<p>Mrs Angelique Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_bee_leng@moe.edu.sg</p>
+<p>woon_li_ying_angelique@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -195,10 +195,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Arafah</p>
+<p>Mr Ng Jun Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_arafah@moe.edu.sg</p>
+<p>ng_jun_kai@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

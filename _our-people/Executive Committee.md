@@ -17,41 +17,42 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Principal</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mrs Judina Cheong</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Vice - Principal (Curriculum)</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mrs Melissa Yap</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Vice - Principal (Curriculum)</p>
-</td>
 <td rowspan="1" colspan="2">
+<p>Vice - Principal (Staff Development)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Miss Imelda Tan</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Vice - Principal (Admin)</p>
-</td>
 <td rowspan="1" colspan="2">
+<p>Vice - Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Yvonne Tan</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="3">
-<p>Year Heads and School Staff Developer</p>
-</th>
+<td rowspan="1" colspan="3">
+<p><strong>Year Heads and School Staff Developer</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -80,10 +81,10 @@ variant: tiptap
 <p>Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Carmen Fernando</p>
+<p>Mrs Tan Chujie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>carmen_judith_wijeysingha@moe.edu.sg</p>
+<p>tan_chujie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Science (Internal)</p>
+<p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jennifer Kwek</p>
@@ -148,13 +149,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Infocomm Technology</p>
+<p>HOD Infocomm Technology (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Chujie</p>
+<p>Mr Low Hock Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chujie@moe.edu.sg</p>
+<p>low_hock_siang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -170,10 +171,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Aesthetics (Internal)</p>
+<p>HOD Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Geraldine Koh</p>
+<p>Ms Geraldine Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>koh_yi_min_geraldine@moe.edu.sg</p>
@@ -197,7 +198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH English Language (Internal)</p>
+<p>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jasmine Ho</p>
@@ -248,17 +249,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>azliana_abu_bakar@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH&nbsp;Infocomm Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Low Hock Siang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>low_hock_siang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

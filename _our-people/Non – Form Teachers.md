@@ -35,6 +35,50 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Chia Yanshan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chen_yanshan@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chua Siew Noi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_siew_noi@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics &amp; English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Diana See</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leong_saow_yong_diana_a@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Evelyn Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sng_meng_choo@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ho Sheen Yee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,6 +90,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Jasmine Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_soek_leng_jasmine@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics &amp; Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Koh Kai Jun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,17 +108,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Adeline Toh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>toh_miao_ling_adeline@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
 </td>
 </tr>
 </tbody>
