@@ -35,8 +35,9 @@ the following details:</p>
 <p>iv. Name of Child&nbsp;</p>
 <p>v. Child's Class in 2026&nbsp;</p>
 <p>vi. Parent 2 (Full name)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/orgCHART_cpc25.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cpc_2026.png">
 </div>
 <h3><u>Parent Volunteer Handbook:</u></h3>
 <p>Please&nbsp;<a href="/files/PVhandbook24_1a.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;to
