@@ -21,7 +21,7 @@ of virtue, committed to the service of community, nation and beyond.</p>
 </li>
 <li>
 <p>Sexuality Education (Primary 5 and Primary 6 Growing Years)
-<br>- <a href="/files/20250115___P5___P6_SEd_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Programme</a>
+<br>- <a href="/files/20260108___P5_and_P6_SEd_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Programme</a>
 <br>- <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">MOE Corporate Website</a>
 </p>
 </li>
