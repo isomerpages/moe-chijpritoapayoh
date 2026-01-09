@@ -44,7 +44,7 @@ variant: tiptap
 <p>Mr Anthony Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>heng_lian_kng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
