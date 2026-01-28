@@ -334,5 +334,5 @@ in September and this is subjected to approval.</p>
 </ul>
 <p></p>
 <p></p>
-<p><a href="/files/CCA_Schedule_2025__Sem_2__latest.pdf" rel="noopener nofollow" target="_blank">CCA Schedule 2025 (Sem 2)</a>
+<p><a href="/files/CCA_Schedule_2026__Sem_1_.pdf" rel="noopener nofollow" target="_blank">CCA Schedule 2026 (Sem 1)</a>
 </p>
