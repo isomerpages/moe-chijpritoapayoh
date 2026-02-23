@@ -4,8 +4,8 @@ permalink: /grow-well/
 variant: tiptap
 description: ""
 ---
-<p><strong>The Grow Well @ CHIJ Primary</strong> initiative aims to support
-the nation’s direction in promoting national health through early intervention
+<p><strong>Grow Well @ CHIJ Primary</strong> initiative aims to support the
+nation’s direction in promoting national health through early intervention
 to shape healthy habits in our students from young. We hope to develop
 a community of learners who will take ownership in cultivating a lifelong
 healthy lifestyle.</p>
