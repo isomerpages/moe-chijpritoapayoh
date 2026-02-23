@@ -2,20 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Departments/.keep
-      - Departments/English.md
-      - Departments/Mathematics.md
-      - Departments/Science.md
-      - Departments/Mother Tongue.md
-      - Departments/Physical Education.md
-      - Departments/Aesthetics.md
-      - Departments/Character and Citizenship Education (CCE) Department.md
-      - Departments/Information Technology.md
-      - Special Programmes/.keep
-      - Special Programmes/Faith Formation.md
-      - Special Programmes/Performing Arts.md
-      - Special Programmes/Sports.md
-      - Special Programmes/Student Leadership.md
       - CCA/.keep
       - CCA/Overview.md
       - CCA/Art Club.md
@@ -33,3 +19,18 @@ collections:
       - CCA/Swimming.md
       - CCA/Tennis.md
       - CCA/Theatre Academy.md
+      - Departments/.keep
+      - Departments/English.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Mother Tongue.md
+      - Departments/Physical Education.md
+      - Departments/Aesthetics.md
+      - Departments/Character and Citizenship Education (CCE) Department.md
+      - Departments/Information Technology.md
+      - Grow Well.md
+      - Special Programmes/.keep
+      - Special Programmes/Faith Formation.md
+      - Special Programmes/Performing Arts.md
+      - Special Programmes/Sports.md
+      - Special Programmes/Student Leadership.md
