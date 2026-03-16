@@ -29,7 +29,7 @@ third_nav_title: School Information
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Korean Food Stall</p>
+<p>Muslim Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open</p>
@@ -48,7 +48,8 @@ third_nav_title: School Information
 hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/20250917___Canteen_appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form&nbsp;</a>
+<p><a href="/files/20260316___Canteen_appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<a href="" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </li>
 </ul>
@@ -113,7 +114,7 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
-<h6>School Address</h6>
+<h6><strong>School Address</strong></h6>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 628 Lor 1 Toa Payoh, Singapore 319765</p>
@@ -123,11 +124,11 @@ Singapore Food Agency (SFA).</p>
 </p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">seng_liat_heng@moe.edu.sg</a>
+<p>Email: <a href="mailto:Heng_Lian_Kng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Heng_Lian_Kng@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Contact Person: Mr Joel Seng (Operations Manager)</p>
+<p>Contact Person: Mr Anthony Heng (Operations Manager)</p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
