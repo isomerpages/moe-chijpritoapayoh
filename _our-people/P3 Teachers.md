@@ -139,10 +139,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Adeline Toh</p>
+<p>Mdm Ong Poh Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>toh_miao_ling_adeline@moe.edu.sg</p>
+<p>ong_poh_leng_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
