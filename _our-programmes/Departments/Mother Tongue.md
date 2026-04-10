@@ -34,3 +34,24 @@ In line with the wide&nbsp;<u>school-approach</u>&nbsp;of developing students to
 **TL Reading Programme**
 
 One of the department’s key programme is the Tamil Language (TL) Reading programme which mid and upper primary students participate in. Daily reading takes place in the classroom using class library books or materials subscribed to by the students. Follow-up activities are executed by the teachers to ensure students are developed into confident and effective readers. The TL Library Reading Programme allows all students to visit the school libary and borrow books of their choice. Students will participate in book reviews and other activities to enhance their reading skills and understanding of the content of the books.
+
+**CHIJ Schools Combined P6 Cultural Camp**
+   
+The CHIJ Schools Combined P6 Cultural Camp 
+recently celebrated its 20th anniversary on March 12 at CHIJ Primary (Toa Payoh). This milestone event brought together 61 Primary 6 students, 14 teachers, and 8 Parent Volunteers from six participating CHIJ schools: CHIJ (Katong) Primary, CHIJ Our Lady of the Nativity, CHIJ (Kellock), CHIJ Our Lady Queen of Peace, CHIJ Primary (Toa Payoh), and CHIJ Our Lady of Good Counsel.
+
+Mrs. Judina Cheong, Principal of CHIJ Primary (Toa Payoh), graced the occasion as the guest speaker.
+
+The primary objective of the camp was to foster friendships among the Primary 6 students across the various CHIJ schools while deepening their appreciation for Indian heritage and culture.
+
+To achieve this, the camp featured three engaging, hands-on activity stations:
+
+•Saree Tying
+
+•Pallanguzhi
+
+•Aadu Puli Aatam
+
+A highlight of this year's camp was the introduction of a new conversational activity. For the first time, students were encouraged to present their learnings creatively, expressing themselves through drama, rap, or other performance formats.
+
+Overall, the girls had a wonderful time, thoroughly enjoying the immersive cultural activities and the opportunity to bond with their peers.
