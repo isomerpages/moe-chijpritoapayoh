@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /our-programmes/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ### **<u>Vision</u>**
 
@@ -20,15 +21,15 @@ In addition, our teachers bring our students to the school library to borrow sto
 The Chinese Language Department has been running an optional payable Speech and Drama enrichment programme to cater to students who have a keen interest in expressive themselves through the Chinese Language.  
 This programme is conducted by an external vendor and students can look forward to fun and engaging weekly lessons. At the end of the programme, students can look forward to putting up a performance for their peers.
 
-### **Malay Language Department**
+### **Malay&nbsp;Language Department**
 
 **ML Reading Programme**
 
-The department has put in efforts to promote reading among P1 to P6 students through a reading programme. All students are encouraged to read ML story books every Wednesday & Thursday mornings before the start of morning assembly. In class, during the assigned reading programme period, students are given reading articles from newspapers or story books. Students will also complete follow-up activities based on their reading articles.
+The department has put in efforts to promote reading among P1 to P6 students through a reading programme. All students are encouraged to read ML story books every Wednesday &amp; Thursday mornings before the start of morning assembly. In class, during the assigned reading programme period, students are given reading articles from newspapers or story books. Students will also complete follow-up activities based on their reading articles.
 
-In line with the wide <u>school-approach</u> of developing students to be effective communicators, the ML Department also places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation. In class, during the assigned ML Reading Programme period, students are given the opportunities to read aloud; and teachers will then guide students and provide feedback on their reading.
+In line with the wide&nbsp;<u>school-approach</u>&nbsp;of developing students to be effective communicators, the ML Department also places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation. In class, during the assigned ML Reading Programme period, students are given the opportunities to read aloud; and teachers will then guide students and provide feedback on their reading.
 
-**Tamil Language Department**
+### Tamil Language Department
 
 **TL Reading Programme**
 
