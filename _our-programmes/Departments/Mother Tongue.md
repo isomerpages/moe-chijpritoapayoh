@@ -54,4 +54,9 @@ To achieve this, the camp featured three engaging, hands-on activity stations:
 
 A highlight of this year's camp was the introduction of a new conversational activity. For the first time, students were encouraged to present their learnings creatively, expressing themselves through drama, rap, or other performance formats.
 
-Overall, the girls had a wonderful time, thoroughly enjoying the immersive cultural activities and the opportunity to bond with their peers.
+Overall, the girls had a wonderful time, thoroughly enjoying the immersive cultural activities and the opportunity to bond with their peers.![](/images/Mrs_Cheong__TL.jpg) 
+**Mrs Judina Cheong delivering her opening speech**
+![](/images/HOD_SH_MT_TL.jpg)
+**HOD and SH for Mother Tongue Languages**
+![](/images/Students_TL.jpg)
+**Students trying out saree tying**
