@@ -60,3 +60,4 @@ Overall, the girls had a wonderful time, thoroughly enjoying the immersive cultu
 **HOD and SH for Mother Tongue Languages**
 ![](/images/Students_TL.jpg)
 **Students trying out saree tying**
+![Students at the Pallanguzhi station  ](/images/Students2_TL.jpg)
