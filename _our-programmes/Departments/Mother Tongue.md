@@ -105,7 +105,7 @@ cultural activities and the opportunity to bond with their peers.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students trying out saree tying" src="/images/Students_TL_final.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students trying out saree tying" src="/images/Students_TL_final_final.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
