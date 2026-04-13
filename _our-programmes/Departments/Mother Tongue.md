@@ -83,7 +83,7 @@ cultural activities and the opportunity to bond with their peers.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Cheong_updated.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mrs Judina Cheong delivering her opening speech" src="/images/Mrs_Cheong__TL_final.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -94,7 +94,7 @@ cultural activities and the opportunity to bond with their peers.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/HOD_SH_MT_TL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="HOD and SH for Mother Tongue Languages" src="/images/HOD_SH_MT_TL_final.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -105,7 +105,7 @@ cultural activities and the opportunity to bond with their peers.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students trying out saree tying" src="/images/Students_TL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students trying out saree tying" src="/images/Students_TL_final.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -116,7 +116,7 @@ cultural activities and the opportunity to bond with their peers.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students at the Pallanguzhi station" src="/images/Students2_TL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students at the Pallanguzhi station" src="/images/Students2_TL_final.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
