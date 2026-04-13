@@ -87,7 +87,6 @@ cultural activities and the opportunity to bond with their peers.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
 <div class="isomer-card-description">Mrs Judina Cheong delivering her opening speech</div>
 </div>
 </div>
@@ -98,7 +97,6 @@ cultural activities and the opportunity to bond with their peers.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
 <div class="isomer-card-description">HOD and SH for Mother Tongue Languages</div>
 </div>
 </div>
@@ -109,7 +107,6 @@ cultural activities and the opportunity to bond with their peers.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
 <div class="isomer-card-description">Students trying out saree tying</div>
 </div>
 </div>
@@ -120,7 +117,6 @@ cultural activities and the opportunity to bond with their peers.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
 <div class="isomer-card-description">Students at the Pallanguzhi station</div>
 </div>
 </div>
