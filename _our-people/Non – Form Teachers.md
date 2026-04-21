@@ -110,6 +110,17 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Reinette Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>choy_shi_yi_reinette@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics &amp; Science</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
