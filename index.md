@@ -18,13 +18,12 @@ sections:
       alt: History of CHIJ
   - infopic:
       title: Highlights
-      description: Ms Vivienne Lim, Chairperson of the CHIJ Board of Management,
-        shares her reflections and gratitude as we conclude another meaningful
-        year.
+      description: Reinstatement of the Original Names of CHIJ Primary (Toa Payoh) and
+        CHIJ Secondary (Toa Payoh)
       button: Read More
       url: /events/
       image: /images/IJ_Girl_V1_Original_Celebration_of_Hope_edited.png
-      alt: Sports Day
+      alt: Picture of IJ Girl
   - infopic:
       title: Faith Formation
       description: At CHIJ Primary School, we believe that education extends beyond
