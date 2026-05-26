@@ -18,8 +18,7 @@ sections:
       alt: History of CHIJ
   - infopic:
       title: Highlights
-      description: Reinstatement of the Original Names of CHIJ Primary (Toa Payoh) and
-        CHIJ Secondary (Toa Payoh)
+      description: Reinstatement of the Original Names
       button: Read More
       url: /events/
       image: /images/IJ_Girl_V1_Original_Celebration_of_Hope_edited.png

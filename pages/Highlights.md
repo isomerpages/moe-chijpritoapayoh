@@ -4,40 +4,93 @@ permalink: /events/
 description: ""
 variant: tiptap
 ---
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Reinstatement of the Original Names of CHIJ Primary (Toa Payoh) and CHIJ Secondary (Toa Payoh)</strong>
+<summary><strong>Reinstatement of the Original Names</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>In 1854, the Sisters of the Congregation of the Holy Infant Jesus (IJ
-Sisters), founded the Convent of the Holy Infant Jesus at Victoria Street.
-At that time, the school served all levels of education. The school was
-separated into distinct Primary and Secondary schools in 1964.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_26_155521.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Founder’s Day Message 2026</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>In December 1983, both schools relocated from Victoria Street to Lorong
-1 Toa Payoh and were renamed Convent of the Holy Infant Jesus Primary (Toa
-Payoh) and Convent of the Holy Infant Jesus Secondary (Toa Payoh) respectively.</p>
-<p>In 1992, to establish a unified identity across all 11 of the Convent
-of the Holy Infant Jesus schools, the Infant Jesus Board of Management
-(IJBOM) prefixed all 11 school names with "CHIJ", resulting in the current
-names CHIJ Primary (Toa Payoh) and CHIJ Secondary (Toa Payoh). While “CHIJ”
-is the acronym for “Convent of the Holy Infant Jesus”, the full name was
-no longer officially used.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_172_chij.png">
+</div>
+<p>Dear School Leaders, Teachers, Staff, and Students of our CHIJ Schools,</p>
 <p></p>
-<p>To return to our historical identity and heritage, the names of our schools,
-as the mother schools of the CHIJ family of schools, will be reinstated
-to our original names, “Convent of the Holy Infant Jesus (Primary)” and
-“Convent of the Holy Infant Jesus (Secondary)” respectively.</p>
-<p></p>
-<p>The reinstatement has been approved by the Ministry of Education, and
-the IJ Sisters together with the IJBOM, and will take effect from 1 January
-2027.</p>
-<p></p>
-<p>As the oldest girls’ Catholic schools in Singapore, we have nurtured generations
-of young women who are anchored on the CHIJ values of truth, justice, freedom
-and love. We remain committed to our mission to develop IJ girls who live
-out our school motto, “Simple in Virtue, Steadfast in Duty”.</p>
+<p>Today, we gather as one family to celebrate the Feast of Father Nicolas
+Barré. We do this in the light of Pentecost. This special day connects
+our past, our present, and the future we are building together, extending
+across every CHIJ school and our community at the CHIJ Sanctuary for Children.</p>
+<p>Pentecost is all about a transformation of the heart. The early disciples
+knew exactly what it felt like to experience uncertainty, anxiety, and
+fear of the unknown. Yet, when the Spirit moved among them, it did not
+change their difficult circumstances. It changed <em>them</em>. It ignited
+a resilient, fearless courage inside them, giving them a deep purpose and
+the absolute certainty that they were never alone. God was with them.</p>
+<p>We live in a fast-paced digital world. It is so easy to get caught up
+in an endless race to perform, to compare our lives through a screen, and
+to feel the pressure to fit into a mould. Within our schools, studying
+hard, making discoveries, and growing your talents matter. Striving to
+excel and achieving academic success is necessary and valuable. But a test
+score or a grade can never define who you are meant to become.</p>
+<p>True education is about expanding your heart as well as your mind. It
+is about becoming a fully integrated, compassionate human being. We are
+called to go far beyond ourselves. The unique, God given gifts and strengths
+you have received were never meant to be hoarded for personal status. They
+are meant to be poured out to touch the lives of others. True greatness
+is found when you use your talents generously to lift up those who are
+struggling, stand with the vulnerable, and ignite a fire that builds a
+better home, a better school, and a more just society for everyone.</p>
+<p>&nbsp;</p>
+<p>Within these school walls, you are also given a precious space to build
+connections that matter. CHIJ friends are friends for life. I encourage
+each of you to invest real time and heart into your friendships here. These
+bonds of sisterhood and support will become your anchors, shaping who you
+are long after your school days are over.</p>
+<p>The vision of Father Nicolas Barré shows us exactly what this looks like
+in real life. He looked at the vulnerable and saw an undeniable, sacred
+dignity in every single person. His dream was to build communities where
+no one is left behind, where the weak are protected, and where every person
+is valued for exactly who they are.</p>
+<p>We are not just inheriting this dream. We are actively building it today.
+Our CHIJ journey is about the choices we make every single day. Today,
+we are called to a higher stewardship, a sacred duty to care for the Earth,
+our common home, and to protect those who are most vulnerable in our midst.</p>
+<p>I invite each of you today to make a personal commitment. Choose a mindset
+where care is not just a passing feeling, but where concrete actions become
+the true expression of our commitment to Mother Earth and to the poor.
+Be true ambassadors of peace. Cultivate that peace within your own hearts
+first, and then carry it into your daily interactions, at home, in school,
+and in the public spaces you walk through every day.</p>
+<p>Never think your actions are too small to matter. Every single time you
+protect our environment, listen without judgement, guide a peer with patience,
+stand up for the overlooked, and show unwavering belief in one another,
+you are keeping the spirit of Father Barré alive. A single choice to act
+with integrity, or one quiet moment of kindness, can completely change
+a life.</p>
+<p>We have the power to make an impact right now. As one united CHIJ family,
+bound by one Spirit, let us renew our commitment to live with love, simplicity,
+and faith. Let us ensure our schools remain sanctuaries of wisdom, kindness,
+peace, and hope.</p>
+<p>Believe in it, live it, and be the light in our community.</p>
+<p>With our IJ Sisters and lay members of the Nicolas Barré family, I wish
+you all a deeply meaningful and happy Feast Day.</p>
+<p>&nbsp;</p>
+<p>Sr Elizabeth Moey</p>
+<p>Provincial</p>
+<p>Infant Jesus Sisters</p>
+<p>Singapore</p>
+<p>&nbsp;</p>
+<p>May 2026</p>
 </div>
 </details>
 <details class="isomer-details">
