@@ -7,7 +7,7 @@ variant: tiptap
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Reinstatement of the Original Name of CHIJ Primary (Toa Payoh) </strong>
+<summary><strong>Reinstatement of the Original Names</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
