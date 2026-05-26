@@ -23,7 +23,7 @@ sections:
       button: Read More
       url: /events/
       image: /images/IJ_Girl_V1_Original_Celebration_of_Hope_edited.png
-      alt: Sports Day
+      alt: Picture of IJ Girl
   - infopic:
       title: Faith Formation
       description: At CHIJ Primary School, we believe that education extends beyond
