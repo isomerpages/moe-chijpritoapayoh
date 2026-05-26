@@ -10,34 +10,7 @@ variant: tiptap
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>In 1854, the Sisters of the Congregation of the Holy Infant Jesus (IJ
-Sisters), founded the Convent of the Holy Infant Jesus at Victoria Street.
-At that time, the school served all levels of education. The school was
-separated into distinct Primary and Secondary schools in 1964.</p>
 <p></p>
-<p>In December 1983, both schools relocated from Victoria Street to Lorong
-1 Toa Payoh and were renamed Convent of the Holy Infant Jesus Primary (Toa
-Payoh) and Convent of the Holy Infant Jesus Secondary (Toa Payoh) respectively.</p>
-<p>In 1992, to establish a unified identity across all 11 of the Convent
-of the Holy Infant Jesus schools, the Infant Jesus Board of Management
-(IJBOM) prefixed all 11 school names with "CHIJ", resulting in the current
-names CHIJ Primary (Toa Payoh) and CHIJ Secondary (Toa Payoh). While “CHIJ”
-is the acronym for “Convent of the Holy Infant Jesus”, the full name was
-no longer officially used.</p>
-<p></p>
-<p>To return to our historical identity and heritage, the names of our schools,
-as the mother schools of the CHIJ family of schools, will be reinstated
-to our original names, “Convent of the Holy Infant Jesus (Primary)” and
-“Convent of the Holy Infant Jesus (Secondary)” respectively.</p>
-<p></p>
-<p>The reinstatement has been approved by the Ministry of Education, and
-the IJ Sisters together with the IJBOM, and will take effect from 1 January
-2027.</p>
-<p></p>
-<p>As the oldest girls’ Catholic schools in Singapore, we have nurtured generations
-of young women who are anchored on the CHIJ values of truth, justice, freedom
-and love. We remain committed to our mission to develop IJ girls who live
-out our school motto, “Simple in Virtue, Steadfast in Duty”.</p>
 </div>
 </details>
 <details class="isomer-details">
