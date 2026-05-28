@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Information
 ---
-<h4>School Canteen Advertisement</h4>
+<h4><strong>School Canteen Advertisement</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -38,18 +38,27 @@ third_nav_title: School Information
 <p>Please contact us for details</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drinks &amp; Fruits Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please contact us for details</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>Application Procedure</strong>
-</p>
+<h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/20260316___Canteen_appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
-<a href="" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p><a href="/files/Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form&nbsp;</a>
 </p>
 </li>
 </ul>
@@ -74,8 +83,7 @@ etc</p>
 email OR to the School’s General Office.</p>
 </li>
 </ol>
-<p><strong>Interest applicants must meet the following criteria:</strong>
-</p>
+<h4><strong>Interest applicants must meet the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
@@ -97,8 +105,7 @@ Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools
 <p>Healthy and fit to operate the stall.</p>
 </li>
 </ul>
-<p><strong>Applicants should preferably fulfil the following criteria:</strong>
-</p>
+<h4><strong>Applicants should preferably fulfil the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Successful applicant and stall assistant(s) must possess the WSQ Basic
@@ -114,7 +121,7 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
-<h6><strong>School Address</strong></h6>
+<h4><strong>School Address</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 628 Lor 1 Toa Payoh, Singapore 319765</p>
@@ -131,8 +138,7 @@ Singapore Food Agency (SFA).</p>
 <p>Contact Person: Mr Anthony Heng (Operations Manager)</p>
 </li>
 </ul>
-<p><strong>How to get there?</strong>
-</p>
+<h4><strong>How to get there?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nearest MRT: Toa Payoh MRT</p>
