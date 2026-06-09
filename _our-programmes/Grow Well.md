@@ -72,10 +72,41 @@ platforms:</p>
 the different departments in the school and harnessing support from parents
 and other external partners, we are confident that we will be able to help
 our IJ girls Grow Well and Live Well.&nbsp;&nbsp;&nbsp;</p>
-<p><strong><u>Grow Well @ CHIJ Primary Framework</u></strong>
-</p>
+<h4><strong><u>Grow Well @ CHIJ Primary Framework</u></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Grow_Well_Framework.png">
 </div>
 <p></p>
+<h3><strong>Shaping our students’ health habits through our Grow Well @ CHIJ Primary Initiatives</strong></h3>
+<p><strong><u>Launch of Fruity Friday</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Launch of Fruity Friday" src="/images/Fruity_Friday_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fruity Friday" src="/images/Fruity_Friday_2.jpg">
+</div>
+<p></p>
+<hr>
+<p><strong><u>Heart Health Booth</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heart Health Booth" src="/images/Heart_Health_Booth_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heart Health Booth" src="/images/Heart_Health_Booth_2.jpg">
+</div>
+<p></p>
+<hr>
+<p><strong><u>Hulathon and Skipathon Challenge</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hulathon and Skipathon Challenge" src="/images/Hulathon_and_Skipathon_Challenge_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hulathon_and_Skipathon_Challenge_2.jpg">
+</div>
 <p></p>
