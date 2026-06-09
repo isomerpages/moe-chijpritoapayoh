@@ -72,12 +72,14 @@ platforms:</p>
 the different departments in the school and harnessing support from parents
 and other external partners, we are confident that we will be able to help
 our IJ girls Grow Well and Live Well.&nbsp;&nbsp;&nbsp;</p>
-<h4><strong><u>Grow Well @ CHIJ Primary Framework</u></strong></h4>
+<p><strong><u>Grow Well @ CHIJ Primary Framework</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Grow_Well_Framework.png">
 </div>
 <p></p>
-<h3><strong>Shaping our students’ health habits through our Grow Well @ CHIJ Primary Initiatives</strong></h3>
+<p><strong>Shaping our students’ health habits through our Grow Well @ CHIJ Primary Initiatives</strong>
+</p>
 <p><strong><u>Launch of Fruity Friday</u></strong>
 </p>
 <div class="isomer-image-wrapper">
