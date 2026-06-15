@@ -78,4 +78,37 @@ our IJ girls Grow Well and Live Well.&nbsp;&nbsp;&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Grow_Well_Framework.png">
 </div>
 <p></p>
+<p><strong>Shaping our students’ health habits through our Grow Well @ CHIJ Primary Initiatives</strong>
+</p>
+<p><strong><u>Launch of Fruity Friday</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Launch of Fruity Friday" src="/images/Fruity_Friday_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fruity Friday" src="/images/Fruity_Friday_2.jpg">
+</div>
+<p></p>
+<hr>
+<p><strong><u>Heart Health Booth</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heart Health Booth" src="/images/Heart_Health_Booth_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heart Health Booth" src="/images/Heart_Health_Booth_2.jpg">
+</div>
+<p></p>
+<hr>
+<p><strong><u>Hulathon and Skipathon Challenge</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hulathon and Skipathon Challenge" src="/images/Hulathon_and_Skipathon_Challenge_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hulathon_and_Skipathon_Challenge_2.jpg">
+</div>
 <p></p>
