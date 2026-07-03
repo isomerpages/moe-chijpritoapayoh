@@ -231,10 +231,6 @@ current CCA they are in during the registration exercise.</p>
 </p>
 </li>
 <li>
-<p><a href="/our-programmes/cca/swimming/" rel="noopener noreferrer" target="_blank"><u>Swimming</u></a>
-</p>
-</li>
-<li>
 <p><a href="/our-programmes/cca/tennis/" rel="noopener noreferrer" target="_blank"><u>Tennis</u></a>
 </p>
 </li>
