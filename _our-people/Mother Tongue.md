@@ -145,6 +145,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Qin Furong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>qin_furong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Quek Xing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
