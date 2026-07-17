@@ -220,17 +220,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chen Weixuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chen_weixuan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
