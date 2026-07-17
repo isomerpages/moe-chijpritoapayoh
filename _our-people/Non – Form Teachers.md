@@ -24,6 +24,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Adeline Toh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>toh_miao_ling_adeline_a@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Balvin Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,6 +101,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Jasmine Woo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woo_Yee_Ping_Jasmine@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Jasmine Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,6 +141,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics &amp; Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharice Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>How_Yi_Yun@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
