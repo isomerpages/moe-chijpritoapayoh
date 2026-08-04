@@ -30,7 +30,7 @@ variant: tiptap
 <p>toh_miao_ling_adeline_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>English Language &amp; Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -79,6 +79,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm El Millian Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>el_millian_chew_saint@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language &amp; Social Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Evelyn Chee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +118,7 @@ variant: tiptap
 <p>Woo_Yee_Ping_Jasmine@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Art</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +162,7 @@ variant: tiptap
 <p>How_Yi_Yun@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 </tr>
 </tbody>
