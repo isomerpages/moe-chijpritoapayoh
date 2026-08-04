@@ -30,7 +30,7 @@ variant: tiptap
 <p>toh_miao_ling_adeline_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EL + MA</p>
+<p>English Language &amp; Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>How_Yi_Yun@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 </tr>
 </tbody>
