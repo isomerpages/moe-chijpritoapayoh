@@ -79,6 +79,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm El Millian Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>el_millian_chew_saint@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language &amp; Social Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Evelyn Chee</p>
 </td>
 <td rowspan="1" colspan="1">
