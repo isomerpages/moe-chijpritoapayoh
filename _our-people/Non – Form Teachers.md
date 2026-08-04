@@ -107,7 +107,7 @@ variant: tiptap
 <p>Woo_Yee_Ping_Jasmine@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Art</p>
 </td>
 </tr>
 <tr>
